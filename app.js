@@ -87,7 +87,7 @@ function renderHome() {
     <section class="view-panel">
       <p class="section-kicker">Αρχική</p>
       <h2>Ξεκινάμε με το Word</h2>
-      <p class="muted">Η πρώτη έκδοση έχει έτοιμη δομή για πραγματικές εικόνες Word. Οι τωρινές εικόνες είναι προσωρινά σχεδιαγράμματα και μπορούν να αντικατασταθούν με screenshots από το Word χωρίς να αλλάξει η εφαρμογή.</p>
+      <p class="muted">Η εφαρμογή έχει ήδη πραγματικές εικόνες από το Word για την Εκτύπωση και την καρτέλα Εισαγωγή. Οι υπόλοιπες προσωρινές εικόνες μπορούν να αντικατασταθούν σταδιακά με screenshots από το Word.</p>
       <div class="grid three" style="margin-top:18px">
         <button class="card-link" data-go="learn">
           <strong>Μαθαίνω</strong>
@@ -265,6 +265,15 @@ function renderHotspotActivity(activity) {
     const y = (event.clientY - rect.top) * (activity.imageHeight / rect.height);
     const area = activity.correctArea;
     const isCorrect = x >= area.x && x <= area.x + area.width && y >= area.y && y <= area.y + area.height;
+
+    app.querySelectorAll(".correct-marker").forEach(marker => marker.remove());
+    const marker = document.createElement("div");
+    marker.className = "correct-marker";
+    marker.style.left = `${(area.x / activity.imageWidth) * 100}%`;
+    marker.style.top = `${(area.y / activity.imageHeight) * 100}%`;
+    marker.style.width = `${(area.width / activity.imageWidth) * 100}%`;
+    marker.style.height = `${(area.height / activity.imageHeight) * 100}%`;
+    app.querySelector(".image-stage").appendChild(marker);
 
     feedback.textContent = isCorrect ? activity.successMessage : activity.errorMessage;
     feedback.className = `hotspotFeedback show ${isCorrect ? "ok" : "bad"}`;

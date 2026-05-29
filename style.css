@@ -436,3 +436,18 @@ h3 {
     flex-direction: column;
   }
 }
+
+.correct-marker {
+  position: absolute;
+  border: 3px dashed var(--ok);
+  background: rgba(15, 143, 86, .10);
+  border-radius: 10px;
+  pointer-events: none;
+  z-index: 1;
+  animation: markerPulse .7s ease-in-out 2;
+}
+
+@keyframes markerPulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.035); }
+}
