@@ -12,9 +12,9 @@ window.WORD_QUESTIONS = [
       "Εντόπισε το σύμβολο ↵ (χειροκίνητη αλλαγή γραμμής).",
       "Βάλε τον δρομέα πριν/μετά και πάτησε Delete ή Backspace για να φύγει μόνο αυτό."
     ],
-    "guide": "insert",
-    "guideTitle": "Εισαγωγή εικόνας ή συμβόλου",
-    "route": "Εισαγωγή → Εικόνες ή Σύμβολα",
+    "guide": "paragraph",
+    "guideTitle": "Παράγραφος",
+    "route": "Κεντρική → Παράγραφος",
     "difficulty": "Μεσαίο"
   },
   {
@@ -33,7 +33,7 @@ window.WORD_QUESTIONS = [
     ],
     "guide": "header",
     "guideTitle": "Κεφαλίδα / Υποσέλιδο",
-    "route": "Εισαγωγή → Κεφαλίδα & Υποσέλιδο",
+    "route": "Εισαγωγή → Κεφαλίδες & Υποσέλιδα",
     "difficulty": "Μεσαίο"
   },
   {
@@ -52,8 +52,8 @@ window.WORD_QUESTIONS = [
     ],
     "guide": "table",
     "guideTitle": "Πίνακες",
-    "route": "Εργαλεία Πίνακα → Σχεδίαση ή Διάταξη",
-    "difficulty": "Μεσαίο"
+    "route": "Εργαλεία Πίνακα → Σχεδίαση / Διάταξη",
+    "difficulty": "Προσοχή"
   },
   {
     "id": "w004",
@@ -70,10 +70,10 @@ window.WORD_QUESTIONS = [
       "Χρώμα: πράσινο (βασικά).",
       "Εφαρμογή σε: Παράγραφο > OK."
     ],
-    "guide": "table",
-    "guideTitle": "Πίνακες",
-    "route": "Εργαλεία Πίνακα → Σχεδίαση ή Διάταξη",
-    "difficulty": "Μεσαίο"
+    "guide": "paragraph",
+    "guideTitle": "Παράγραφος",
+    "route": "Κεντρική → Παράγραφος",
+    "difficulty": "Προσοχή"
   },
   {
     "id": "w005",
@@ -86,9 +86,9 @@ window.WORD_QUESTIONS = [
       "Μαρκάρισε μόνο το Master in Office.",
       "Πάτησε Ctrl+I (ή Κεντρική > Πλάγια)."
     ],
-    "guide": "paragraph",
-    "guideTitle": "Παράγραφος",
-    "route": "Κεντρική → Παράγραφος",
+    "guide": "font",
+    "guideTitle": "Μορφοποίηση κειμένου",
+    "route": "Κεντρική → Γραμματοσειρά",
     "difficulty": "Βασικό"
   },
   {
@@ -105,8 +105,8 @@ window.WORD_QUESTIONS = [
     ],
     "guide": "table",
     "guideTitle": "Πίνακες",
-    "route": "Εργαλεία Πίνακα → Σχεδίαση ή Διάταξη",
-    "difficulty": "Μεσαίο"
+    "route": "Εργαλεία Πίνακα → Σχεδίαση / Διάταξη",
+    "difficulty": "Βασικό"
   },
   {
     "id": "w007",
@@ -124,8 +124,8 @@ window.WORD_QUESTIONS = [
       "Βάλε τον δρομέα στην αρχή της παραγράφου και Ctrl+V."
     ],
     "guide": "clipboard",
-    "guideTitle": "Αντιγραφή / Μεταφορά",
-    "route": "Κεντρική → Πρόχειρο / Ctrl+C / Ctrl+V",
+    "guideTitle": "Αντιγραφή και επικόλληση",
+    "route": "Κεντρική → Πρόχειρο",
     "difficulty": "Μεσαίο"
   },
   {
@@ -142,8 +142,8 @@ window.WORD_QUESTIONS = [
       "Δημιουργία."
     ],
     "guide": "file",
-    "guideTitle": "Αρχείο / Αποθήκευση / Κλείσιμο",
-    "route": "Αρχείο → Δημιουργία / Αποθήκευση / Κλείσιμο",
+    "guideTitle": "Αρχείο και αποθήκευση",
+    "route": "Αρχείο",
     "difficulty": "Μεσαίο"
   },
   {
@@ -157,8 +157,8 @@ window.WORD_QUESTIONS = [
       "Κάτω δεξιά στο Word, ρύθμισε τον ρυθμιστή ζουμ στο 140% (ή Προβολή > Ζουμ > 140%)."
     ],
     "guide": "view",
-    "guideTitle": "Προβολή / Ζουμ",
-    "route": "Προβολή → Ζουμ / Εμφάνιση",
+    "guideTitle": "Προβολή και ζουμ",
+    "route": "Προβολή → Εμφάνιση / Ζουμ",
     "difficulty": "Βασικό"
   },
   {
@@ -171,9 +171,9 @@ window.WORD_QUESTIONS = [
     "steps": [
       "Πάτησε Ctrl+Y δύο φορές (ή το κουμπί Επανάληψη/Redo δύο φορές)."
     ],
-    "guide": "font",
-    "guideTitle": "Μορφοποίηση κειμένου",
-    "route": "Κεντρική → Γραμματοσειρά",
+    "guide": "paragraph",
+    "guideTitle": "Παράγραφος",
+    "route": "Κεντρική → Παράγραφος",
     "difficulty": "Βασικό"
   },
   {
@@ -190,8 +190,8 @@ window.WORD_QUESTIONS = [
     ],
     "guide": "table",
     "guideTitle": "Πίνακες",
-    "route": "Εργαλεία Πίνακα → Σχεδίαση ή Διάταξη",
-    "difficulty": "Μεσαίο"
+    "route": "Εργαλεία Πίνακα → Σχεδίαση / Διάταξη",
+    "difficulty": "Βασικό"
   },
   {
     "id": "w012",
@@ -241,7 +241,7 @@ window.WORD_QUESTIONS = [
     ],
     "guide": "table",
     "guideTitle": "Πίνακες",
-    "route": "Εργαλεία Πίνακα → Σχεδίαση ή Διάταξη",
+    "route": "Εργαλεία Πίνακα → Σχεδίαση / Διάταξη",
     "difficulty": "Μεσαίο"
   },
   {
@@ -270,8 +270,8 @@ window.WORD_QUESTIONS = [
       "Ρυθμιστής ζουμ κάτω δεξιά: 110%."
     ],
     "guide": "view",
-    "guideTitle": "Προβολή / Ζουμ",
-    "route": "Προβολή → Ζουμ / Εμφάνιση",
+    "guideTitle": "Προβολή και ζουμ",
+    "route": "Προβολή → Εμφάνιση / Ζουμ",
     "difficulty": "Βασικό"
   },
   {
@@ -301,8 +301,8 @@ window.WORD_QUESTIONS = [
       "Αρχείο > Κλείσιμο (ή Ctrl+W) ενώ είσαι στο GC_Intermediate2."
     ],
     "guide": "file",
-    "guideTitle": "Αρχείο / Αποθήκευση / Κλείσιμο",
-    "route": "Αρχείο → Δημιουργία / Αποθήκευση / Κλείσιμο",
+    "guideTitle": "Αρχείο και αποθήκευση",
+    "route": "Αρχείο",
     "difficulty": "Βασικό"
   },
   {
@@ -316,8 +316,8 @@ window.WORD_QUESTIONS = [
       "Προβολή > Διάταξη εκτύπωσης."
     ],
     "guide": "view",
-    "guideTitle": "Προβολή / Ζουμ",
-    "route": "Προβολή → Ζουμ / Εμφάνιση",
+    "guideTitle": "Προβολή και ζουμ",
+    "route": "Προβολή → Εμφάνιση / Ζουμ",
     "difficulty": "Βασικό"
   },
   {
@@ -335,7 +335,7 @@ window.WORD_QUESTIONS = [
     ],
     "guide": "insert",
     "guideTitle": "Εισαγωγή εικόνας ή συμβόλου",
-    "route": "Εισαγωγή → Εικόνες ή Σύμβολα",
+    "route": "Εισαγωγή → Απεικονίσεις / Σύμβολα",
     "difficulty": "Μεσαίο"
   },
   {
@@ -348,9 +348,9 @@ window.WORD_QUESTIONS = [
     "steps": [
       "Ctrl+Y δύο φορές."
     ],
-    "guide": "font",
-    "guideTitle": "Μορφοποίηση κειμένου",
-    "route": "Κεντρική → Γραμματοσειρά",
+    "guide": "paragraph",
+    "guideTitle": "Παράγραφος",
+    "route": "Κεντρική → Παράγραφος",
     "difficulty": "Βασικό"
   },
   {
@@ -364,9 +364,9 @@ window.WORD_QUESTIONS = [
       "Κάνε ακριβώς τα βήματα του TEST1-#7."
     ],
     "guide": "clipboard",
-    "guideTitle": "Αντιγραφή / Μεταφορά",
-    "route": "Κεντρική → Πρόχειρο / Ctrl+C / Ctrl+V",
-    "difficulty": "Βασικό"
+    "guideTitle": "Αντιγραφή και επικόλληση",
+    "route": "Κεντρική → Πρόχειρο",
+    "difficulty": "Μεσαίο"
   },
   {
     "id": "w023",
@@ -379,9 +379,9 @@ window.WORD_QUESTIONS = [
       "Ctrl+Home.",
       "Πληκτρολόγησε ΠΕΔΙΟ ΓΝΩΣΗΣ (με κενό αν θέλει να χωρίζει)."
     ],
-    "guide": "font",
-    "guideTitle": "Μορφοποίηση κειμένου",
-    "route": "Κεντρική → Γραμματοσειρά",
+    "guide": "paragraph",
+    "guideTitle": "Παράγραφος",
+    "route": "Κεντρική → Παράγραφος",
     "difficulty": "Βασικό"
   },
   {
@@ -395,8 +395,8 @@ window.WORD_QUESTIONS = [
       "Ζουμ: 140%."
     ],
     "guide": "view",
-    "guideTitle": "Προβολή / Ζουμ",
-    "route": "Προβολή → Ζουμ / Εμφάνιση",
+    "guideTitle": "Προβολή και ζουμ",
+    "route": "Προβολή → Εμφάνιση / Ζουμ",
     "difficulty": "Βασικό"
   },
   {
@@ -410,9 +410,9 @@ window.WORD_QUESTIONS = [
       "Κλικ πάνω στο γραφικό (να εμφανιστούν λαβές).",
       "Delete."
     ],
-    "guide": "insert",
-    "guideTitle": "Εισαγωγή εικόνας ή συμβόλου",
-    "route": "Εισαγωγή → Εικόνες ή Σύμβολα",
+    "guide": "paragraph",
+    "guideTitle": "Παράγραφος",
+    "route": "Κεντρική → Παράγραφος",
     "difficulty": "Βασικό"
   },
   {
@@ -427,8 +427,8 @@ window.WORD_QUESTIONS = [
     ],
     "guide": "table",
     "guideTitle": "Πίνακες",
-    "route": "Εργαλεία Πίνακα → Σχεδίαση ή Διάταξη",
-    "difficulty": "Μεσαίο"
+    "route": "Εργαλεία Πίνακα → Σχεδίαση / Διάταξη",
+    "difficulty": "Προσοχή"
   },
   {
     "id": "w027",
@@ -441,9 +441,9 @@ window.WORD_QUESTIONS = [
       "Μαρκάρισε τον τίτλο.",
       "Κεντρική > Στυλ > επίλεξε Βασικό (Normal/Βασικό)."
     ],
-    "guide": "font",
-    "guideTitle": "Μορφοποίηση κειμένου",
-    "route": "Κεντρική → Γραμματοσειρά",
+    "guide": "paragraph",
+    "guideTitle": "Παράγραφος",
+    "route": "Κεντρική → Παράγραφος",
     "difficulty": "Βασικό"
   },
   {
@@ -457,8 +457,8 @@ window.WORD_QUESTIONS = [
       "Shift + Αρχείο > Κλείσιμο για κάθε έγγραφο, ή κλείσε ένα-ένα με Ctrl+W. (Σημαντικό: όχι Έξοδος.)"
     ],
     "guide": "file",
-    "guideTitle": "Αρχείο / Αποθήκευση / Κλείσιμο",
-    "route": "Αρχείο → Δημιουργία / Αποθήκευση / Κλείσιμο",
+    "guideTitle": "Αρχείο και αποθήκευση",
+    "route": "Αρχείο",
     "difficulty": "Βασικό"
   },
   {
@@ -472,9 +472,9 @@ window.WORD_QUESTIONS = [
       "Μαρκάρισε μόνο το συγκεκριμένο κείμενο.",
       "Κεντρική > Γραμματοσειρά: Arial Black."
     ],
-    "guide": "paragraph",
-    "guideTitle": "Παράγραφος",
-    "route": "Κεντρική → Παράγραφος",
+    "guide": "font",
+    "guideTitle": "Μορφοποίηση κειμένου",
+    "route": "Κεντρική → Γραμματοσειρά",
     "difficulty": "Βασικό"
   },
   {
@@ -491,7 +491,7 @@ window.WORD_QUESTIONS = [
     ],
     "guide": "insert",
     "guideTitle": "Εισαγωγή εικόνας ή συμβόλου",
-    "route": "Εισαγωγή → Εικόνες ή Σύμβολα",
+    "route": "Εισαγωγή → Απεικονίσεις / Σύμβολα",
     "difficulty": "Βασικό"
   },
   {
@@ -506,8 +506,8 @@ window.WORD_QUESTIONS = [
     ],
     "guide": "table",
     "guideTitle": "Πίνακες",
-    "route": "Εργαλεία Πίνακα → Σχεδίαση ή Διάταξη",
-    "difficulty": "Μεσαίο"
+    "route": "Εργαλεία Πίνακα → Σχεδίαση / Διάταξη",
+    "difficulty": "Βασικό"
   },
   {
     "id": "w032",
@@ -521,8 +521,8 @@ window.WORD_QUESTIONS = [
     ],
     "guide": "table",
     "guideTitle": "Πίνακες",
-    "route": "Εργαλεία Πίνακα → Σχεδίαση ή Διάταξη",
-    "difficulty": "Μεσαίο"
+    "route": "Εργαλεία Πίνακα → Σχεδίαση / Διάταξη",
+    "difficulty": "Προσοχή"
   },
   {
     "id": "w033",
@@ -535,8 +535,8 @@ window.WORD_QUESTIONS = [
       "Ζουμ: 75%."
     ],
     "guide": "view",
-    "guideTitle": "Προβολή / Ζουμ",
-    "route": "Προβολή → Ζουμ / Εμφάνιση",
+    "guideTitle": "Προβολή και ζουμ",
+    "route": "Προβολή → Εμφάνιση / Ζουμ",
     "difficulty": "Βασικό"
   },
   {
@@ -554,8 +554,8 @@ window.WORD_QUESTIONS = [
     ],
     "guide": "table",
     "guideTitle": "Πίνακες",
-    "route": "Εργαλεία Πίνακα → Σχεδίαση ή Διάταξη",
-    "difficulty": "Προσοχή"
+    "route": "Εργαλεία Πίνακα → Σχεδίαση / Διάταξη",
+    "difficulty": "Μεσαίο"
   },
   {
     "id": "w035",
@@ -570,8 +570,8 @@ window.WORD_QUESTIONS = [
     ],
     "guide": "table",
     "guideTitle": "Πίνακες",
-    "route": "Εργαλεία Πίνακα → Σχεδίαση ή Διάταξη",
-    "difficulty": "Προσοχή"
+    "route": "Εργαλεία Πίνακα → Σχεδίαση / Διάταξη",
+    "difficulty": "Βασικό"
   },
   {
     "id": "w036",
@@ -583,9 +583,9 @@ window.WORD_QUESTIONS = [
     "steps": [
       "Βάλε δρομέα αρχή παραγράφου > γράψε Πιστοποίηση σε ."
     ],
-    "guide": "font",
-    "guideTitle": "Μορφοποίηση κειμένου",
-    "route": "Κεντρική → Γραμματοσειρά",
+    "guide": "paragraph",
+    "guideTitle": "Παράγραφος",
+    "route": "Κεντρική → Παράγραφος",
     "difficulty": "Βασικό"
   },
   {
@@ -600,10 +600,10 @@ window.WORD_QUESTIONS = [
       "Αλληλογραφία > Εισαγωγή πεδίου συγχώνευσης.",
       "Διάλεξε ΕΠΙΘΕΤΟ."
     ],
-    "guide": "mailmerge",
-    "guideTitle": "Συγχώνευση αλληλογραφίας",
-    "route": "Στοιχεία Αλληλογραφίας → Έναρξη συγχώνευσης",
-    "difficulty": "Προσοχή"
+    "guide": "paragraph",
+    "guideTitle": "Παράγραφος",
+    "route": "Κεντρική → Παράγραφος",
+    "difficulty": "Μεσαίο"
   },
   {
     "id": "w038",
@@ -619,8 +619,8 @@ window.WORD_QUESTIONS = [
       "Στην αρχή: Ctrl+V."
     ],
     "guide": "clipboard",
-    "guideTitle": "Αντιγραφή / Μεταφορά",
-    "route": "Κεντρική → Πρόχειρο / Ctrl+C / Ctrl+V",
+    "guideTitle": "Αντιγραφή και επικόλληση",
+    "route": "Κεντρική → Πρόχειρο",
     "difficulty": "Μεσαίο"
   },
   {
@@ -635,9 +635,9 @@ window.WORD_QUESTIONS = [
       "Κεντρική > Παράγραφος (μικρό βελάκι) > Στηλοθέτες…",
       "Κατάργηση όλων > OK."
     ],
-    "guide": "paragraph",
-    "guideTitle": "Παράγραφος",
-    "route": "Κεντρική → Παράγραφος",
+    "guide": "table",
+    "guideTitle": "Πίνακες",
+    "route": "Εργαλεία Πίνακα → Σχεδίαση / Διάταξη",
     "difficulty": "Βασικό"
   },
   {
@@ -651,8 +651,8 @@ window.WORD_QUESTIONS = [
       "Ζουμ: 20%."
     ],
     "guide": "view",
-    "guideTitle": "Προβολή / Ζουμ",
-    "route": "Προβολή → Ζουμ / Εμφάνιση",
+    "guideTitle": "Προβολή και ζουμ",
+    "route": "Προβολή → Εμφάνιση / Ζουμ",
     "difficulty": "Βασικό"
   },
   {
@@ -683,8 +683,8 @@ window.WORD_QUESTIONS = [
       "Μην αλλάξεις όνομα > Αποθήκευση."
     ],
     "guide": "file",
-    "guideTitle": "Αρχείο / Αποθήκευση / Κλείσιμο",
-    "route": "Αρχείο → Δημιουργία / Αποθήκευση / Κλείσιμο",
+    "guideTitle": "Αρχείο και αποθήκευση",
+    "route": "Αρχείο",
     "difficulty": "Βασικό"
   },
   {
@@ -699,8 +699,8 @@ window.WORD_QUESTIONS = [
     ],
     "guide": "insert",
     "guideTitle": "Εισαγωγή εικόνας ή συμβόλου",
-    "route": "Εισαγωγή → Εικόνες ή Σύμβολα",
-    "difficulty": "Βασικό"
+    "route": "Εισαγωγή → Απεικονίσεις / Σύμβολα",
+    "difficulty": "Μεσαίο"
   },
   {
     "id": "w044",
@@ -713,8 +713,8 @@ window.WORD_QUESTIONS = [
       "Όπως TEST3-#76."
     ],
     "guide": "file",
-    "guideTitle": "Αρχείο / Αποθήκευση / Κλείσιμο",
-    "route": "Αρχείο → Δημιουργία / Αποθήκευση / Κλείσιμο",
+    "guideTitle": "Αρχείο και αποθήκευση",
+    "route": "Αρχείο",
     "difficulty": "Βασικό"
   },
   {
@@ -728,8 +728,8 @@ window.WORD_QUESTIONS = [
       "Προβολή > Διάταξη Web."
     ],
     "guide": "view",
-    "guideTitle": "Προβολή / Ζουμ",
-    "route": "Προβολή → Ζουμ / Εμφάνιση",
+    "guideTitle": "Προβολή και ζουμ",
+    "route": "Προβολή → Εμφάνιση / Ζουμ",
     "difficulty": "Βασικό"
   },
   {
@@ -761,8 +761,8 @@ window.WORD_QUESTIONS = [
     ],
     "guide": "table",
     "guideTitle": "Πίνακες",
-    "route": "Εργαλεία Πίνακα → Σχεδίαση ή Διάταξη",
-    "difficulty": "Μεσαίο"
+    "route": "Εργαλεία Πίνακα → Σχεδίαση / Διάταξη",
+    "difficulty": "Βασικό"
   },
   {
     "id": "w048",
@@ -774,9 +774,9 @@ window.WORD_QUESTIONS = [
     "steps": [
       "Ctrl+Y μία φορά."
     ],
-    "guide": "font",
-    "guideTitle": "Μορφοποίηση κειμένου",
-    "route": "Κεντρική → Γραμματοσειρά",
+    "guide": "paragraph",
+    "guideTitle": "Παράγραφος",
+    "route": "Κεντρική → Παράγραφος",
     "difficulty": "Βασικό"
   },
   {
@@ -793,7 +793,7 @@ window.WORD_QUESTIONS = [
     ],
     "guide": "insert",
     "guideTitle": "Εισαγωγή εικόνας ή συμβόλου",
-    "route": "Εισαγωγή → Εικόνες ή Σύμβολα",
+    "route": "Εισαγωγή → Απεικονίσεις / Σύμβολα",
     "difficulty": "Βασικό"
   },
   {
@@ -807,8 +807,8 @@ window.WORD_QUESTIONS = [
       "Προβολή > Χάρακας (τσεκ)."
     ],
     "guide": "view",
-    "guideTitle": "Προβολή / Ζουμ",
-    "route": "Προβολή → Ζουμ / Εμφάνιση",
+    "guideTitle": "Προβολή και ζουμ",
+    "route": "Προβολή → Εμφάνιση / Ζουμ",
     "difficulty": "Βασικό"
   },
   {
@@ -822,8 +822,8 @@ window.WORD_QUESTIONS = [
       "Αρχείο > Επιλογές > Γενικά > “Εξατομίκευση αντιγράφου…” > Όνομα χρήστη: GC_ΧΡΗΣΤΗΣ > OK."
     ],
     "guide": "file",
-    "guideTitle": "Αρχείο / Αποθήκευση / Κλείσιμο",
-    "route": "Αρχείο → Δημιουργία / Αποθήκευση / Κλείσιμο",
+    "guideTitle": "Αρχείο και αποθήκευση",
+    "route": "Αρχείο",
     "difficulty": "Βασικό"
   },
   {
@@ -838,8 +838,8 @@ window.WORD_QUESTIONS = [
     ],
     "guide": "table",
     "guideTitle": "Πίνακες",
-    "route": "Εργαλεία Πίνακα → Σχεδίαση ή Διάταξη",
-    "difficulty": "Προσοχή"
+    "route": "Εργαλεία Πίνακα → Σχεδίαση / Διάταξη",
+    "difficulty": "Βασικό"
   },
   {
     "id": "w053",
@@ -853,10 +853,10 @@ window.WORD_QUESTIONS = [
       "Κεντρική > Παράγραφος (βελάκι) > Στηλοθέτες…",
       "Θέση: 1,5 εκ., Στοίχιση: Αριστερά > Ορισμός > OK."
     ],
-    "guide": "paragraph",
-    "guideTitle": "Παράγραφος",
-    "route": "Κεντρική → Παράγραφος",
-    "difficulty": "Προσοχή"
+    "guide": "table",
+    "guideTitle": "Πίνακες",
+    "route": "Εργαλεία Πίνακα → Σχεδίαση / Διάταξη",
+    "difficulty": "Βασικό"
   },
   {
     "id": "w054",
@@ -868,10 +868,10 @@ window.WORD_QUESTIONS = [
     "steps": [
       "Επίλεξε την παράγραφο > Περιγράμματα & σκίαση > Πλαίσιο > Πλάτος 1 στ. > Εφαρμογή σε Παράγραφο."
     ],
-    "guide": "table",
-    "guideTitle": "Πίνακες",
-    "route": "Εργαλεία Πίνακα → Σχεδίαση ή Διάταξη",
-    "difficulty": "Προσοχή"
+    "guide": "paragraph",
+    "guideTitle": "Παράγραφος",
+    "route": "Κεντρική → Παράγραφος",
+    "difficulty": "Βασικό"
   },
   {
     "id": "w055",
@@ -883,10 +883,10 @@ window.WORD_QUESTIONS = [
     "steps": [
       "Όπως #149 αλλά: Θέση 5 εκ., Στοίχιση Δεξιά."
     ],
-    "guide": "paragraph",
-    "guideTitle": "Παράγραφος",
-    "route": "Κεντρική → Παράγραφος",
-    "difficulty": "Προσοχή"
+    "guide": "table",
+    "guideTitle": "Πίνακες",
+    "route": "Εργαλεία Πίνακα → Σχεδίαση / Διάταξη",
+    "difficulty": "Βασικό"
   },
   {
     "id": "w056",
@@ -899,8 +899,8 @@ window.WORD_QUESTIONS = [
       "Ζουμ: 75%."
     ],
     "guide": "view",
-    "guideTitle": "Προβολή / Ζουμ",
-    "route": "Προβολή → Ζουμ / Εμφάνιση",
+    "guideTitle": "Προβολή και ζουμ",
+    "route": "Προβολή → Εμφάνιση / Ζουμ",
     "difficulty": "Βασικό"
   },
   {
@@ -913,10 +913,10 @@ window.WORD_QUESTIONS = [
     "steps": [
       "Κάνε τα ίδια βήματα."
     ],
-    "guide": "clipboard",
-    "guideTitle": "Αντιγραφή / Μεταφορά",
-    "route": "Κεντρική → Πρόχειρο / Ctrl+C / Ctrl+V",
-    "difficulty": "Μεσαίο"
+    "guide": "paragraph",
+    "guideTitle": "Παράγραφος",
+    "route": "Κεντρική → Παράγραφος",
+    "difficulty": "Βασικό"
   },
   {
     "id": "w058",
@@ -929,8 +929,8 @@ window.WORD_QUESTIONS = [
       "Ζουμ: 20%."
     ],
     "guide": "view",
-    "guideTitle": "Προβολή / Ζουμ",
-    "route": "Προβολή → Ζουμ / Εμφάνιση",
+    "guideTitle": "Προβολή και ζουμ",
+    "route": "Προβολή → Εμφάνιση / Ζουμ",
     "difficulty": "Βασικό"
   },
   {
@@ -943,9 +943,9 @@ window.WORD_QUESTIONS = [
     "steps": [
       "Μαρκάρισε το “ISO 9001 του 2008” > γραμματοσειρά Tahoma."
     ],
-    "guide": "paragraph",
-    "guideTitle": "Παράγραφος",
-    "route": "Κεντρική → Παράγραφος",
+    "guide": "font",
+    "guideTitle": "Μορφοποίηση κειμένου",
+    "route": "Κεντρική → Γραμματοσειρά",
     "difficulty": "Βασικό"
   },
   {
@@ -959,8 +959,8 @@ window.WORD_QUESTIONS = [
       "Όπως πριν (Ctrl+W επαναληπτικά)."
     ],
     "guide": "file",
-    "guideTitle": "Αρχείο / Αποθήκευση / Κλείσιμο",
-    "route": "Αρχείο → Δημιουργία / Αποθήκευση / Κλείσιμο",
+    "guideTitle": "Αρχείο και αποθήκευση",
+    "route": "Αρχείο",
     "difficulty": "Βασικό"
   },
   {
@@ -973,9 +973,9 @@ window.WORD_QUESTIONS = [
     "steps": [
       "Ctrl+Home > γράψε ΤΥΠΟΣ ΠΙΣΤΟΠΟΙΗΤΙΚΟΥ ."
     ],
-    "guide": "font",
-    "guideTitle": "Μορφοποίηση κειμένου",
-    "route": "Κεντρική → Γραμματοσειρά",
+    "guide": "paragraph",
+    "guideTitle": "Παράγραφος",
+    "route": "Κεντρική → Παράγραφος",
     "difficulty": "Βασικό"
   },
   {
@@ -989,8 +989,8 @@ window.WORD_QUESTIONS = [
       "Ζουμ: 120%."
     ],
     "guide": "view",
-    "guideTitle": "Προβολή / Ζουμ",
-    "route": "Προβολή → Ζουμ / Εμφάνιση",
+    "guideTitle": "Προβολή και ζουμ",
+    "route": "Προβολή → Εμφάνιση / Ζουμ",
     "difficulty": "Βασικό"
   },
   {
@@ -1020,8 +1020,8 @@ window.WORD_QUESTIONS = [
     ],
     "guide": "table",
     "guideTitle": "Πίνακες",
-    "route": "Εργαλεία Πίνακα → Σχεδίαση ή Διάταξη",
-    "difficulty": "Προσοχή"
+    "route": "Εργαλεία Πίνακα → Σχεδίαση / Διάταξη",
+    "difficulty": "Βασικό"
   },
   {
     "id": "w065",
@@ -1034,8 +1034,8 @@ window.WORD_QUESTIONS = [
       "Στο GC_Foundation βάλε δρομέα στην αρχή της παραγράφου > Ctrl+V (από Πρόχειρο)."
     ],
     "guide": "clipboard",
-    "guideTitle": "Αντιγραφή / Μεταφορά",
-    "route": "Κεντρική → Πρόχειρο / Ctrl+C / Ctrl+V",
+    "guideTitle": "Αντιγραφή και επικόλληση",
+    "route": "Κεντρική → Πρόχειρο",
     "difficulty": "Βασικό"
   },
   {
@@ -1052,8 +1052,8 @@ window.WORD_QUESTIONS = [
       "Ctrl+V."
     ],
     "guide": "clipboard",
-    "guideTitle": "Αντιγραφή / Μεταφορά",
-    "route": "Κεντρική → Πρόχειρο / Ctrl+C / Ctrl+V",
+    "guideTitle": "Αντιγραφή και επικόλληση",
+    "route": "Κεντρική → Πρόχειρο",
     "difficulty": "Μεσαίο"
   },
   {
@@ -1066,9 +1066,9 @@ window.WORD_QUESTIONS = [
     "steps": [
       "Μαρκάρισε το απόσπασμα > Ctrl+B και Ctrl+I."
     ],
-    "guide": "paragraph",
-    "guideTitle": "Παράγραφος",
-    "route": "Κεντρική → Παράγραφος",
+    "guide": "font",
+    "guideTitle": "Μορφοποίηση κειμένου",
+    "route": "Κεντρική → Γραμματοσειρά",
     "difficulty": "Βασικό"
   },
   {
@@ -1081,10 +1081,10 @@ window.WORD_QUESTIONS = [
     "steps": [
       "Όπως TEST5-#151."
     ],
-    "guide": "paragraph",
-    "guideTitle": "Παράγραφος",
-    "route": "Κεντρική → Παράγραφος",
-    "difficulty": "Προσοχή"
+    "guide": "table",
+    "guideTitle": "Πίνακες",
+    "route": "Εργαλεία Πίνακα → Σχεδίαση / Διάταξη",
+    "difficulty": "Βασικό"
   },
   {
     "id": "w069",
@@ -1115,9 +1115,9 @@ window.WORD_QUESTIONS = [
       "Κλικ στην κενή παράγραφο πάνω από τον τίτλο “ΠΟΥ ΑΠΕΥΘΥΝΕΤΑΙ”.",
       "Ctrl+V."
     ],
-    "guide": "insert",
-    "guideTitle": "Εισαγωγή εικόνας ή συμβόλου",
-    "route": "Εισαγωγή → Εικόνες ή Σύμβολα",
+    "guide": "clipboard",
+    "guideTitle": "Αντιγραφή και επικόλληση",
+    "route": "Κεντρική → Πρόχειρο",
     "difficulty": "Μεσαίο"
   },
   {
@@ -1132,7 +1132,7 @@ window.WORD_QUESTIONS = [
     ],
     "guide": "insert",
     "guideTitle": "Εισαγωγή εικόνας ή συμβόλου",
-    "route": "Εισαγωγή → Εικόνες ή Σύμβολα",
+    "route": "Εισαγωγή → Απεικονίσεις / Σύμβολα",
     "difficulty": "Βασικό"
   },
   {
@@ -1146,9 +1146,9 @@ window.WORD_QUESTIONS = [
       "Μαρκάρισε “Επεξεργασία Κειμένου”.",
       "Κεντρική > Aa > Εναλλαγή πεζών/κεφαλαίων (tOGGLE cASE)."
     ],
-    "guide": "insert",
-    "guideTitle": "Εισαγωγή εικόνας ή συμβόλου",
-    "route": "Εισαγωγή → Εικόνες ή Σύμβολα",
+    "guide": "font",
+    "guideTitle": "Μορφοποίηση κειμένου",
+    "route": "Κεντρική → Γραμματοσειρά",
     "difficulty": "Βασικό"
   }
 ];

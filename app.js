@@ -1,12 +1,13 @@
+
 const app = document.getElementById('app');
 const QUESTIONS = window.WORD_QUESTIONS || [];
 const LESSONS = window.WORD_LESSONS || [];
-const guideImage = id => `assets/${id}.svg`;
+const guideImage = id => `assets/${id}.png`;
 const store = {
-  get repeat(){ return JSON.parse(localStorage.getItem('wordRepeat') || '[]'); },
-  set repeat(v){ localStorage.setItem('wordRepeat', JSON.stringify([...new Set(v)])); },
-  get done(){ return JSON.parse(localStorage.getItem('wordDone') || '[]'); },
-  set done(v){ localStorage.setItem('wordDone', JSON.stringify([...new Set(v)])); }
+  get repeat(){ return JSON.parse(localStorage.getItem('wordRepeatV2') || '[]'); },
+  set repeat(v){ localStorage.setItem('wordRepeatV2', JSON.stringify([...new Set(v)])); },
+  get done(){ return JSON.parse(localStorage.getItem('wordDoneV2') || '[]'); },
+  set done(v){ localStorage.setItem('wordDoneV2', JSON.stringify([...new Set(v)])); }
 };
 let state = {lessonIndex:0, practiceIndex:0, practicePool:shuffle([...QUESTIONS]), test:null};
 function shuffle(arr){ return arr.map(x=>[Math.random(),x]).sort((a,b)=>a[0]-b[0]).map(x=>x[1]); }
@@ -19,16 +20,17 @@ function home(){
     <section class="card hero">
       <div>
         <span class="pill">Μόνο Word • ${QUESTIONS.length} ερωτήσεις</span>
-        <h2>Απλά. Βήμα βήμα. Χωρίς χάος.</h2>
-        <p>Ο μαθητής βλέπει μία καθαρή κάρτα κάθε φορά. Πρώτα μαθαίνει πού βρίσκεται η εντολή, μετά κάνει εξάσκηση και στο τέλος δίνει μικρό τεστ.</p>
+        <h2>Ένας απλός δρόμος για τον μαθητή</h2>
+        <p>Όχι πολλά μενού, όχι άσχετες εικόνες. Πρώτα βλέπει το σωστό σημείο στο Word, μετά κάνει ερωτήσεις και στο τέλος ένα μικρό τεστ.</p>
         <div class="mode-grid">
-          <button class="mode" onclick="lessons()"><div class="icon">1</div><h3>Μαθαίνω</h3><p>Λίγα βασικά μαθήματα με εικόνες και διαδρομές.</p></button>
-          <button class="mode" onclick="practice()"><div class="icon">2</div><h3>Εξάσκηση</h3><p>Μία ερώτηση τη φορά, με απάντηση και οδηγίες.</p></button>
-          <button class="mode" onclick="startTest()"><div class="icon">3</div><h3>Μικρό τεστ</h3><p>12 τυχαίες ερωτήσεις Word σαν προσομοίωση.</p></button>
+          <button class="mode" onclick="lessons()"><div class="icon">1</div><h3>Μαθαίνω</h3><p>10 καθαρές καρτέλες με πραγματικές εικόνες Word.</p></button>
+          <button class="mode" onclick="practice()"><div class="icon">2</div><h3>Εξάσκηση</h3><p>Μία ερώτηση τη φορά, με βήματα και εικόνα.</p></button>
+          <button class="mode" onclick="startTest()"><div class="icon">3</div><h3>Μικρό τεστ</h3><p>12 τυχαίες ερωτήσεις Word.</p></button>
         </div>
         <div class="actions"><button class="secondary" onclick="repeatView()">Θέλω επανάληψη (${repeatCount})</button></div>
+        <p class="small-note">Δοκιμή ύφους: κρατάμε απλό μενού και διορθώνουμε πρώτα το Word πριν πάμε στα υπόλοιπα.</p>
       </div>
-      <img class="hero-img" src="assets/font.svg" alt="Οδηγός Word για τη μορφοποίηση κειμένου">
+      <img class="hero-img" src="assets/font.png" alt="Πραγματικός οδηγός Word για τη μορφοποίηση κειμένου">
     </section>
   `);
 }
@@ -43,13 +45,13 @@ function lessons(){
       </div>
       <div class="lesson-view">
         <h2>${esc(l.title)}</h2>
-        <p class="route">📍 ${esc(l.route)}</p>
+        <p class="route">${esc(l.route)}</p>
         <img class="guide-img" src="${esc(l.image)}" alt="${esc(l.title)}">
-        <div class="notice">Σκοπός εδώ δεν είναι να αποστηθίσει ο μαθητής όλες τις επιλογές. Είναι να μάθει να αναγνωρίζει γρήγορα την καρτέλα, την ομάδα και το κουμπί.</div>
+        <div class="notice"><b>Λογική:</b> ο μαθητής βλέπει την πραγματική καρτέλα/ομάδα και κρατάει μόνο τη σύντομη διαδρομή εξέτασης.</div>
         <div class="actions">
           <button class="secondary" onclick="prevLesson()">Προηγούμενο</button>
           <button class="primary" onclick="nextLesson()">Επόμενο</button>
-          <button class="secondary" onclick="practice('${esc(l.id)}')">Ερωτήσεις αυτού του μαθήματος (${count})</button>
+          <button class="secondary" onclick="practice('${esc(l.id)}')">Ερωτήσεις εδώ (${count})</button>
         </div>
       </div>
     </section>
@@ -65,113 +67,54 @@ function practice(guide=null){
   const idx = state[idxKey] % pool.length;
   const q = pool[idx];
   renderQuestion(q, {
-    title:'Εξάσκηση Word',
-    counter:`${idx+1}/${pool.length}`,
-    back:`${guide ? 'lessons()' : 'home()'}`,
-    next:`state['${idxKey}']=${idx+1}; practice(${guide?`'${guide}'`:'null'})`,
-    mode:'practice'
+    title:'Εξάσκηση Word', counter:`${idx+1}/${pool.length}`, back:`${guide ? 'lessons()' : 'home()'}`,
+    next:`state['${idxKey}']=${idx+1}; practice(${guide?`'${guide}'`:'null'})`
   });
 }
 function renderQuestion(q, opts={}){
   setView(`
     <div class="toolbar"><button class="back" onclick="${opts.back || 'home()'}">← Πίσω</button><span class="counter">${esc(opts.counter || '')}</span></div>
     <section class="card question-card">
-      <div class="meta">
-        <span class="tag">${esc(q.test)}</span>
-        <span class="tag">Ερώτηση ${esc(q.number)}</span>
-        <span class="tag">${esc(q.guideTitle)}</span>
-        <span class="tag ${q.difficulty==='Προσοχή'?'warn':''}">${esc(q.difficulty)}</span>
-      </div>
+      <div class="meta"><span class="tag">${esc(q.test)}</span><span class="tag">Ερ. ${esc(q.number)}</span><span class="tag">${esc(q.guideTitle)}</span><span class="tag ${q.difficulty==='Προσοχή'?'warn':''}">${esc(q.difficulty)}</span></div>
       <h2>${esc(opts.title || 'Ερώτηση')}</h2>
       <p class="question-text">${esc(q.question)}</p>
-      <p class="route">📍 ${esc(q.route)}</p>
+      <p class="route">${esc(q.route)}</p>
       <div class="actions">
-        <button class="primary" onclick="toggleAnswer('${q.id}')">Δείξε απάντηση</button>
-        <button class="secondary" onclick="toggleGuide('${q.id}')">Οδηγίες με εικόνα</button>
+        <button class="primary" onclick="toggleAnswer('${q.id}')">Δείξε βήματα</button>
+        <button class="secondary" onclick="toggleGuide('${q.id}')">Δείξε εικόνα</button>
         <button class="success" onclick="markDone('${q.id}')">Το ξέρω</button>
         <button class="danger" onclick="markRepeat('${q.id}')">Θέλω επανάληψη</button>
       </div>
-      <div id="answer-${q.id}" class="answer hidden">
-        <h3>Βήματα λύσης</h3>
-        <ol class="steps">${q.steps.map(s=>`<li>${esc(s)}</li>`).join('')}</ol>
-        <h3 style="margin-top:18px">Σύντομη διαδρομή</h3>
-        <p><b>${esc(q.route)}</b></p>
-      </div>
-      <div id="guide-${q.id}" class="answer hidden">
-        <h3>Οπτικός οδηγός</h3>
-        <img class="guide-img" src="${guideImage(q.guide)}" alt="${esc(q.guideTitle)}">
-      </div>
+      <div id="answer-${q.id}" class="answer hidden"><h3>Βήματα λύσης</h3><ol class="steps">${q.steps.map(s=>`<li>${esc(s)}</li>`).join('')}</ol><h3>Σύντομη απάντηση</h3><p><b>${esc(q.route)}</b></p></div>
+      <div id="guide-${q.id}" class="answer hidden"><h3>Σχετική εικόνα Word</h3><img class="guide-img" src="${guideImage(q.guide)}" alt="${esc(q.guideTitle)}"><p class="image-source">Η εικόνα εμφανίζεται μόνο όταν αντιστοιχεί στην ενότητα της ερώτησης.</p></div>
       <div class="actions"><button class="secondary" onclick="${opts.next || 'practice()'}">Επόμενη ερώτηση →</button></div>
     </section>
   `);
 }
 function toggleAnswer(id){ document.getElementById(`answer-${id}`).classList.toggle('hidden'); }
 function toggleGuide(id){ document.getElementById(`guide-${id}`).classList.toggle('hidden'); }
-function markDone(id){ store.done = [...store.done, id]; toast('Μπράβο. Σημειώθηκε ως γνωστό.'); }
-function markRepeat(id){ store.repeat = [...store.repeat, id]; toast('Μπήκε στις ερωτήσεις για επανάληψη.'); }
-function toast(msg){
-  const t=document.createElement('div'); t.textContent=msg; t.style.cssText='position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:#10233f;color:#fff;padding:12px 16px;border-radius:999px;z-index:20;box-shadow:0 14px 35px rgba(0,0,0,.22);font-weight:800'; document.body.appendChild(t); setTimeout(()=>t.remove(),1700);
-}
+function markDone(id){ store.done = [...store.done, id]; toast('Σημειώθηκε ως γνωστό.'); }
+function markRepeat(id){ store.repeat = [...store.repeat, id]; toast('Μπήκε για επανάληψη.'); }
+function toast(msg){ const t=document.createElement('div'); t.textContent=msg; t.style.cssText='position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:#122037;color:#fff;padding:12px 16px;border-radius:999px;z-index:20;box-shadow:0 14px 35px rgba(0,0,0,.22);font-weight:800'; document.body.appendChild(t); setTimeout(()=>t.remove(),1600); }
 function repeatView(){
-  const ids = store.repeat;
-  const list = ids.map(byId).filter(Boolean);
-  setView(`
-    <div class="toolbar"><button class="back" onclick="home()">← Αρχική</button><span class="pill">Επανάληψη</span></div>
-    <section class="card">
-      <h2>Ερωτήσεις που θέλουν επανάληψη</h2>
-      ${list.length ? `<div class="repeat-list">${list.map(q=>`<div class="miniq"><b>${esc(q.question)}</b><p class="route">${esc(q.route)}</p><div class="actions"><button class="primary" onclick="renderQuestion(byId('${q.id}'),{title:'Επανάληψη',back:'repeatView()',next:'repeatView()'})">Άνοιγμα</button><button class="secondary" onclick="removeRepeat('${q.id}')">Το έμαθα</button></div></div>`).join('')}</div>` : `<div class="empty">Δεν υπάρχουν ακόμα ερωτήσεις για επανάληψη.</div>`}
-    </section>
-  `);
+  const list = store.repeat.map(byId).filter(Boolean);
+  setView(`<div class="toolbar"><button class="back" onclick="home()">← Αρχική</button><span class="pill">Επανάληψη</span></div><section class="card"><h2>Ερωτήσεις που θέλουν επανάληψη</h2>${list.length ? `<div class="repeat-list">${list.map(q=>`<div class="miniq"><b>${esc(q.question)}</b><p class="route">${esc(q.route)}</p><div class="actions"><button class="primary" onclick="renderQuestion(byId('${q.id}'),{title:'Επανάληψη',back:'repeatView()',next:'repeatView()'})">Άνοιγμα</button><button class="secondary" onclick="removeRepeat('${q.id}')">Το έμαθα</button></div></div>`).join('')}</div>` : `<div class="empty">Δεν υπάρχουν ακόμα ερωτήσεις για επανάληψη.</div>`}</section>`);
 }
 function removeRepeat(id){ store.repeat = store.repeat.filter(x=>x!==id); repeatView(); }
-function startTest(){
-  state.test = {pool:shuffle([...QUESTIONS]).slice(0,12), index:0, known:[], repeat:[]};
-  renderTest();
-}
+function startTest(){ state.test = {pool:shuffle([...QUESTIONS]).slice(0,12), index:0, known:[], repeat:[]}; renderTest(); }
 function renderTest(){
-  const t = state.test;
-  const total = t.pool.length;
-  if(t.index >= total) return testResult();
-  const q = t.pool[t.index];
-  const pct = Math.round((t.index/total)*100);
-  setView(`
-    <div class="toolbar"><button class="back" onclick="home()">← Ακύρωση</button><span class="counter">${t.index+1}/${total}</span></div>
-    <section class="card question-card">
-      <div class="progress-wrap"><div class="progress-bar" style="width:${pct}%"></div></div>
-      <div class="meta"><span class="tag">${esc(q.guideTitle)}</span><span class="tag">${esc(q.difficulty)}</span></div>
-      <h2>Μικρό τεστ Word</h2>
-      <p class="question-text">${esc(q.question)}</p>
-      <div class="actions">
-        <button class="primary" onclick="toggleAnswer('${q.id}')">Έλεγχος απάντησης</button>
-        <button class="secondary" onclick="toggleGuide('${q.id}')">Οδηγίες με εικόνα</button>
-      </div>
-      <div id="answer-${q.id}" class="answer hidden"><h3>Απάντηση</h3><ol class="steps">${q.steps.map(s=>`<li>${esc(s)}</li>`).join('')}</ol></div>
-      <div id="guide-${q.id}" class="answer hidden"><h3>Οπτικός οδηγός</h3><img class="guide-img" src="${guideImage(q.guide)}" alt="${esc(q.guideTitle)}"></div>
-      <div class="actions">
-        <button class="success" onclick="testKnown('${q.id}')">Το ήξερα</button>
-        <button class="danger" onclick="testRepeat('${q.id}')">Δεν το ήξερα</button>
-      </div>
-    </section>
-  `);
+  const t = state.test; if(t.index >= t.pool.length) return testResult();
+  const q=t.pool[t.index]; const pct=Math.round((t.index/t.pool.length)*100);
+  setView(`<div class="toolbar"><button class="back" onclick="home()">← Ακύρωση</button><span class="counter">${t.index+1}/${t.pool.length}</span></div><section class="card question-card"><div class="progress-wrap"><div class="progress-bar" style="width:${pct}%"></div></div><div class="meta"><span class="tag">${esc(q.guideTitle)}</span><span class="tag ${q.difficulty==='Προσοχή'?'warn':''}">${esc(q.difficulty)}</span></div><h2>Μικρό τεστ Word</h2><p class="question-text">${esc(q.question)}</p><div class="actions"><button class="primary" onclick="toggleAnswer('${q.id}')">Έλεγχος απάντησης</button><button class="secondary" onclick="toggleGuide('${q.id}')">Δείξε εικόνα</button></div><div id="answer-${q.id}" class="answer hidden"><h3>Απάντηση</h3><ol class="steps">${q.steps.map(s=>`<li>${esc(s)}</li>`).join('')}</ol></div><div id="guide-${q.id}" class="answer hidden"><h3>Σχετική εικόνα Word</h3><img class="guide-img" src="${guideImage(q.guide)}" alt="${esc(q.guideTitle)}"></div><div class="actions"><button class="success" onclick="testKnown('${q.id}')">Το ήξερα</button><button class="danger" onclick="testRepeat('${q.id}')">Δεν το ήξερα</button></div></section>`);
 }
 function testKnown(id){ state.test.known.push(id); state.test.index++; renderTest(); }
 function testRepeat(id){ state.test.repeat.push(id); store.repeat = [...store.repeat, id]; state.test.index++; renderTest(); }
 function testResult(){
-  const t=state.test;
-  const pct=Math.round((t.known.length/t.pool.length)*100);
-  const cats={};
+  const t=state.test; const pct=Math.round((t.known.length/t.pool.length)*100); const cats={};
   t.repeat.map(byId).filter(Boolean).forEach(q=>cats[q.guideTitle]=(cats[q.guideTitle]||0)+1);
   const weak=Object.entries(cats).sort((a,b)=>b[1]-a[1]);
-  setView(`
-    <div class="toolbar"><button class="back" onclick="home()">← Αρχική</button><span class="pill">Αποτέλεσμα</span></div>
-    <section class="card">
-      <h2>Αποτέλεσμα μικρού τεστ</h2>
-      <div class="test-result"><div class="stat"><span>Ποσοστό</span><b>${pct}%</b></div><div class="stat"><span>Το ήξερα</span><b>${t.known.length}</b></div><div class="stat"><span>Επανάληψη</span><b>${t.repeat.length}</b></div></div>
-      ${weak.length ? `<h3>Πού χρειάζεται επανάληψη</h3><div class="repeat-list">${weak.map(([k,v])=>`<div class="miniq"><b>${esc(k)}</b><p>${v} ερώτηση/εις</p></div>`).join('')}</div>` : `<div class="notice">Τέλεια. Δεν σημειώθηκε κάτι για επανάληψη.</div>`}
-      <div class="actions"><button class="primary" onclick="startTest()">Νέο τεστ</button><button class="secondary" onclick="repeatView()">Δες επανάληψη</button></div>
-    </section>
-  `);
+  setView(`<div class="toolbar"><button class="back" onclick="home()">← Αρχική</button><span class="pill">Αποτέλεσμα</span></div><section class="card"><h2>Αποτέλεσμα μικρού τεστ</h2><div class="test-result"><div class="stat"><span>Ποσοστό</span><b>${pct}%</b></div><div class="stat"><span>Το ήξερα</span><b>${t.known.length}</b></div><div class="stat"><span>Επανάληψη</span><b>${t.repeat.length}</b></div></div>${weak.length ? `<h3>Πού χρειάζεται επανάληψη</h3><div class="repeat-list">${weak.map(([k,v])=>`<div class="miniq"><b>${esc(k)}</b><p>${v} ερώτηση/εις</p></div>`).join('')}</div>` : `<div class="notice">Τέλεια. Δεν σημειώθηκε κάτι για επανάληψη.</div>`}<div class="actions"><button class="primary" onclick="startTest()">Νέο τεστ</button><button class="secondary" onclick="repeatView()">Δες επανάληψη</button></div></section>`);
 }
 document.getElementById('homeBtn').addEventListener('click', home);
-document.getElementById('resetProgress').addEventListener('click', ()=>{ if(confirm('Να καθαριστεί η πρόοδος;')){localStorage.removeItem('wordRepeat'); localStorage.removeItem('wordDone'); home();} });
+document.getElementById('resetProgress').addEventListener('click', ()=>{ if(confirm('Να καθαριστεί η πρόοδος;')){localStorage.removeItem('wordRepeatV2'); localStorage.removeItem('wordDoneV2'); home();} });
 home();
