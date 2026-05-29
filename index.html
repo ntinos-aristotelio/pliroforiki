@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="el">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Προετοιμασία Πληροφορικής - Word</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Προετοιμασία τύπου ECDL / ICDL</p>
+        <h1>Μαθαίνω Word</h1>
+        <p class="hero-text">Διαδραστική εφαρμογή με εικόνες, σημεία επιλογής, σύντομα μαθήματα, τεστ και επανάληψη λαθών.</p>
+      </div>
+      <div class="score-card" aria-live="polite">
+        <span class="score-label">Συνολική πρόοδος</span>
+        <strong id="overallProgress">0%</strong>
+        <small id="overallProgressText">Δεν υπάρχουν ακόμα απαντήσεις.</small>
+      </div>
+    </header>
+
+    <nav class="main-nav" aria-label="Βασική πλοήγηση">
+      <button class="nav-btn active" data-view="home">Αρχική</button>
+      <button class="nav-btn" data-view="learn">Μαθαίνω</button>
+      <button class="nav-btn" data-view="practice">Εξάσκηση</button>
+      <button class="nav-btn" data-view="exam">Τεστ</button>
+      <button class="nav-btn" data-view="mistakes">Τα λάθη μου</button>
+      <button class="nav-btn" data-view="progress">Πρόοδος</button>
+    </nav>
+
+    <main id="app" tabindex="-1"></main>
+  </div>
+
+  <template id="hotspotTemplate">
+    <section class="activity-card">
+      <div class="activity-header">
+        <div>
+          <p class="section-kicker activityCategory"></p>
+          <h2 class="activityTitle"></h2>
+        </div>
+        <span class="activityType">Εικόνα επιλογής</span>
+      </div>
+      <p class="questionText"></p>
+      <div class="image-stage">
+        <img class="activityImage" alt="Εικόνα άσκησης από το Word" />
+        <div class="hotspotFeedback" aria-live="polite"></div>
+      </div>
+      <div class="activity-actions">
+        <button class="secondary showHintBtn">Δείξε βοήθεια</button>
+        <button class="secondary nextBtn">Επόμενη</button>
+      </div>
+      <div class="hintBox hidden"></div>
+    </section>
+  </template>
+
+  <script src="data/word-content.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

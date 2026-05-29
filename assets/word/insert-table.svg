@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" role="img" aria-label="Προσωρινή εικόνα καρτέλας Εισαγωγή στο Word">
+  <rect width="900" height="380" fill="#f7f9fc"/>
+  <rect x="0" y="0" width="900" height="56" fill="#1f4fa3"/>
+  <text x="24" y="36" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">Word</text>
+  <rect x="0" y="56" width="900" height="42" fill="#ffffff"/>
+  <text x="24" y="83" font-family="Arial, sans-serif" font-size="16" fill="#42526e">Αρχείο</text>
+  <text x="124" y="83" font-family="Arial, sans-serif" font-size="16" fill="#42526e">Κεντρική</text>
+  <rect x="220" y="56" width="110" height="42" fill="#e9f1ff"/>
+  <text x="244" y="83" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#1f4fa3">Εισαγωγή</text>
+  <text x="356" y="83" font-family="Arial, sans-serif" font-size="16" fill="#42526e">Διάταξη</text>
+  <text x="446" y="83" font-family="Arial, sans-serif" font-size="16" fill="#42526e">Αναφορές</text>
+
+  <rect x="26" y="112" width="188" height="190" rx="12" fill="#ffffff" stroke="#d7dfec"/>
+  <text x="82" y="331" font-family="Arial, sans-serif" font-size="15" fill="#657389">Πίνακες</text>
+  <rect x="58" y="112" width="128" height="150" rx="10" fill="#ffecad" stroke="#d49d0b" stroke-width="2"/>
+  <rect x="84" y="134" width="76" height="72" fill="#fff" stroke="#1f4fa3" stroke-width="3"/>
+  <line x1="109" y1="134" x2="109" y2="206" stroke="#1f4fa3" stroke-width="2"/>
+  <line x1="135" y1="134" x2="135" y2="206" stroke="#1f4fa3" stroke-width="2"/>
+  <line x1="84" y1="158" x2="160" y2="158" stroke="#1f4fa3" stroke-width="2"/>
+  <line x1="84" y1="182" x2="160" y2="182" stroke="#1f4fa3" stroke-width="2"/>
+  <text x="88" y="238" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#152033">Πίνακας</text>
+
+  <rect x="236" y="112" width="220" height="190" rx="12" fill="#ffffff" stroke="#d7dfec"/>
+  <text x="303" y="331" font-family="Arial, sans-serif" font-size="15" fill="#657389">Εικόνες</text>
+  <rect x="262" y="132" width="76" height="92" rx="8" fill="#e9f1ff" stroke="#9bb6ef"/>
+  <circle cx="285" cy="158" r="12" fill="#ffc857"/>
+  <path d="M270 210 L292 178 L308 197 L320 186 L332 210 Z" fill="#3fb27f"/>
+  <text x="271" y="251" font-family="Arial, sans-serif" font-size="16" fill="#152033">Εικόνες</text>
+  <rect x="356" y="132" width="76" height="92" rx="8" fill="#f4f7ff" stroke="#cbd6e6"/>
+  <text x="371" y="184" font-family="Arial, sans-serif" font-size="26" fill="#1f4fa3">▣</text>
+  <text x="363" y="251" font-family="Arial, sans-serif" font-size="16" fill="#152033">Σχήματα</text>
+
+  <rect x="480" y="112" width="380" height="190" rx="12" fill="#ffffff" stroke="#d7dfec"/>
+  <text x="640" y="331" font-family="Arial, sans-serif" font-size="15" fill="#657389">Κείμενο</text>
+  <rect x="510" y="132" width="104" height="92" rx="8" fill="#f4f7ff" stroke="#cbd6e6"/>
+  <text x="535" y="184" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#1f4fa3">A</text>
+  <text x="519" y="251" font-family="Arial, sans-serif" font-size="16" fill="#152033">Πλαίσιο κειμένου</text>
+  <rect x="640" y="132" width="90" height="92" rx="8" fill="#f4f7ff" stroke="#cbd6e6"/>
+  <text x="664" y="184" font-family="Arial, sans-serif" font-size="30" fill="#1f4fa3">Ω</text>
+  <text x="649" y="251" font-family="Arial, sans-serif" font-size="16" fill="#152033">Σύμβολο</text>
+</svg>

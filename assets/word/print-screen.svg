@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-label="Προσωρινή εικόνα οθόνης Εκτύπωσης στο Word">
+  <rect width="900" height="500" fill="#f7f9fc"/>
+  <rect x="0" y="0" width="240" height="500" fill="#1f4fa3"/>
+  <text x="34" y="50" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#fff">Αρχείο</text>
+  <rect x="40" y="100" width="170" height="50" rx="7" fill="#315fb4"/>
+  <text x="66" y="132" font-family="Arial, sans-serif" font-size="18" fill="#fff">Άνοιγμα</text>
+  <rect x="40" y="160" width="170" height="50" rx="7" fill="#315fb4"/>
+  <text x="66" y="192" font-family="Arial, sans-serif" font-size="18" fill="#fff">Αποθήκευση ως</text>
+  <rect x="40" y="174" width="170" height="58" rx="7" fill="#ffecad" stroke="#d49d0b" stroke-width="3" opacity="0.95"/>
+  <text x="70" y="210" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#152033">Εκτύπωση</text>
+  <rect x="40" y="250" width="170" height="50" rx="7" fill="#315fb4"/>
+  <text x="66" y="282" font-family="Arial, sans-serif" font-size="18" fill="#fff">Κοινή χρήση</text>
+  <rect x="40" y="310" width="170" height="50" rx="7" fill="#315fb4"/>
+  <text x="66" y="342" font-family="Arial, sans-serif" font-size="18" fill="#fff">Εξαγωγή</text>
+
+  <text x="280" y="62" font-family="Arial, sans-serif" font-size="36" font-weight="800" fill="#152033">Εκτύπωση</text>
+  <rect x="280" y="95" width="180" height="70" rx="12" fill="#1f8f56"/>
+  <text x="336" y="139" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">Εκτύπωση</text>
+  <text x="280" y="205" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#152033">Ρυθμίσεις</text>
+  <rect x="280" y="230" width="260" height="48" rx="8" fill="#fff" stroke="#d7dfec"/>
+  <text x="300" y="261" font-family="Arial, sans-serif" font-size="17" fill="#42526e">Εκτύπωση όλων των σελίδων</text>
+  <rect x="280" y="292" width="260" height="48" rx="8" fill="#fff" stroke="#d7dfec"/>
+  <text x="300" y="323" font-family="Arial, sans-serif" font-size="17" fill="#42526e">Μονόπλευρη εκτύπωση</text>
+  <rect x="280" y="354" width="260" height="48" rx="8" fill="#fff" stroke="#d7dfec"/>
+  <text x="300" y="385" font-family="Arial, sans-serif" font-size="17" fill="#42526e">Κατακόρυφος προσανατολισμός</text>
+
+  <rect x="590" y="72" width="250" height="350" rx="10" fill="#ffffff" stroke="#d7dfec"/>
+  <rect x="625" y="110" width="180" height="260" fill="#fff" stroke="#a7b4c7"/>
+  <line x1="650" y1="145" x2="780" y2="145" stroke="#657389" stroke-width="4"/>
+  <line x1="650" y1="175" x2="780" y2="175" stroke="#c4ccda" stroke-width="3"/>
+  <line x1="650" y1="200" x2="780" y2="200" stroke="#c4ccda" stroke-width="3"/>
+  <line x1="650" y1="225" x2="760" y2="225" stroke="#c4ccda" stroke-width="3"/>
+  <text x="658" y="402" font-family="Arial, sans-serif" font-size="16" fill="#657389">Προεπισκόπηση</text>
+</svg>

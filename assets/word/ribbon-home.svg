@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" role="img" aria-label="Προσωρινή εικόνα καρτέλας Κεντρική στο Word">
+  <rect width="900" height="330" fill="#f7f9fc"/>
+  <rect x="0" y="0" width="900" height="56" fill="#1f4fa3"/>
+  <text x="24" y="36" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">Word</text>
+  <rect x="0" y="56" width="900" height="42" fill="#ffffff"/>
+  <text x="24" y="83" font-family="Arial, sans-serif" font-size="16" fill="#42526e">Αρχείο</text>
+  <rect x="100" y="56" width="105" height="42" fill="#e9f1ff"/>
+  <text x="124" y="83" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#1f4fa3">Κεντρική</text>
+  <text x="232" y="83" font-family="Arial, sans-serif" font-size="16" fill="#42526e">Εισαγωγή</text>
+  <text x="335" y="83" font-family="Arial, sans-serif" font-size="16" fill="#42526e">Διάταξη</text>
+  <text x="425" y="83" font-family="Arial, sans-serif" font-size="16" fill="#42526e">Αναφορές</text>
+  <text x="525" y="83" font-family="Arial, sans-serif" font-size="16" fill="#42526e">Προβολή</text>
+
+  <rect x="18" y="106" width="142" height="170" rx="10" fill="#ffffff" stroke="#d7dfec"/>
+  <text x="48" y="304" font-family="Arial, sans-serif" font-size="15" fill="#657389">Πρόχειρο</text>
+  <rect x="55" y="132" width="68" height="88" rx="8" fill="#dce8ff" stroke="#9bb6ef"/>
+  <text x="64" y="183" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#1f4fa3">Επικ.</text>
+
+  <rect x="184" y="106" width="292" height="170" rx="10" fill="#ffffff" stroke="#d7dfec"/>
+  <text x="294" y="304" font-family="Arial, sans-serif" font-size="15" fill="#657389">Γραμματοσειρά</text>
+  <rect x="205" y="124" width="126" height="38" rx="6" fill="#f1f5fb" stroke="#cbd6e6"/>
+  <text x="216" y="149" font-family="Arial, sans-serif" font-size="15" fill="#152033">Calibri</text>
+  <rect x="340" y="124" width="78" height="38" rx="6" fill="#fff7dc" stroke="#e0bd4f"/>
+  <text x="362" y="149" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#152033">11</text>
+  <rect x="210" y="177" width="42" height="42" rx="7" fill="#ffecad" stroke="#d49d0b" stroke-width="2"/>
+  <text x="223" y="206" font-family="Arial, sans-serif" font-size="23" font-weight="900" fill="#152033">B</text>
+  <rect x="260" y="177" width="42" height="42" rx="7" fill="#f4f7ff" stroke="#cbd6e6"/>
+  <text x="276" y="206" font-family="Arial, sans-serif" font-size="23" font-style="italic" fill="#152033">I</text>
+  <rect x="310" y="177" width="42" height="42" rx="7" fill="#f4f7ff" stroke="#cbd6e6"/>
+  <text x="322" y="205" font-family="Arial, sans-serif" font-size="23" text-decoration="underline" fill="#152033">U</text>
+  <rect x="360" y="177" width="42" height="42" rx="7" fill="#f4f7ff" stroke="#cbd6e6"/>
+  <text x="372" y="205" font-family="Arial, sans-serif" font-size="22" fill="#c73b3b">A</text>
+
+  <rect x="500" y="106" width="276" height="170" rx="10" fill="#ffffff" stroke="#d7dfec"/>
+  <text x="602" y="304" font-family="Arial, sans-serif" font-size="15" fill="#657389">Παράγραφος</text>
+  <rect x="514" y="124" width="42" height="42" rx="7" fill="#ffecad" stroke="#d49d0b" stroke-width="2"/>
+  <circle cx="526" cy="137" r="3" fill="#152033"/><circle cx="526" cy="145" r="3" fill="#152033"/><circle cx="526" cy="153" r="3" fill="#152033"/>
+  <line x1="535" y1="137" x2="548" y2="137" stroke="#152033" stroke-width="3"/>
+  <line x1="535" y1="145" x2="548" y2="145" stroke="#152033" stroke-width="3"/>
+  <line x1="535" y1="153" x2="548" y2="153" stroke="#152033" stroke-width="3"/>
+  <rect x="562" y="124" width="42" height="42" rx="7" fill="#f4f7ff" stroke="#cbd6e6"/>
+  <text x="574" y="151" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#152033">1.</text>
+  <rect x="514" y="177" width="42" height="42" rx="7" fill="#f4f7ff" stroke="#cbd6e6"/>
+  <line x1="524" y1="190" x2="548" y2="190" stroke="#152033" stroke-width="3"/>
+  <line x1="524" y1="198" x2="542" y2="198" stroke="#152033" stroke-width="3"/>
+  <line x1="524" y1="206" x2="548" y2="206" stroke="#152033" stroke-width="3"/>
+  <rect x="562" y="177" width="42" height="42" rx="7" fill="#f4f7ff" stroke="#cbd6e6"/>
+  <line x1="572" y1="190" x2="596" y2="190" stroke="#152033" stroke-width="3"/>
+  <line x1="572" y1="198" x2="590" y2="198" stroke="#152033" stroke-width="3"/>
+  <line x1="572" y1="206" x2="596" y2="206" stroke="#152033" stroke-width="3"/>
+  <rect x="612" y="177" width="42" height="42" rx="7" fill="#ffecad" stroke="#d49d0b" stroke-width="2"/>
+  <line x1="622" y1="190" x2="644" y2="190" stroke="#152033" stroke-width="3"/>
+  <line x1="618" y1="198" x2="648" y2="198" stroke="#152033" stroke-width="3"/>
+  <line x1="622" y1="206" x2="644" y2="206" stroke="#152033" stroke-width="3"/>
+  <rect x="662" y="177" width="42" height="42" rx="7" fill="#f4f7ff" stroke="#cbd6e6"/>
+  <line x1="672" y1="190" x2="696" y2="190" stroke="#152033" stroke-width="3"/>
+  <line x1="678" y1="198" x2="696" y2="198" stroke="#152033" stroke-width="3"/>
+  <line x1="672" y1="206" x2="696" y2="206" stroke="#152033" stroke-width="3"/>
+
+  <rect x="802" y="106" width="78" height="170" rx="10" fill="#ffffff" stroke="#d7dfec"/>
+  <text x="821" y="304" font-family="Arial, sans-serif" font-size="15" fill="#657389">Στυλ</text>
+  <rect x="817" y="135" width="48" height="84" rx="8" fill="#f1f5fb" stroke="#cbd6e6"/>
+  <text x="827" y="181" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#1f4fa3">Aa</text>
+</svg>
