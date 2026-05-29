@@ -242,7 +242,7 @@ function renderHotspotActivity(activity) {
     <section class="activity-card">
       ${sessionHeader(activity)}
       <p class="questionText">${activity.question}</p>
-      <div class="image-stage">
+      <div class="image-stage ${activity.compact ? 'compact-stage' : ''}">
         <img class="activityImage" src="${activity.image}" alt="Εικόνα άσκησης: ${activity.title}" />
         <div class="hotspotFeedback" aria-live="polite"></div>
       </div>
@@ -289,7 +289,7 @@ function renderChoiceActivity(activity) {
     <section class="activity-card">
       ${sessionHeader(activity)}
       <p class="questionText">${activity.question}</p>
-      ${activity.image ? `<div class="image-stage"><img class="activityImage" src="${activity.image}" alt="Εικόνα άσκησης: ${activity.title}" /></div>` : ""}
+      ${activity.image ? `<div class="image-stage ${activity.compact ? 'compact-stage' : ''}"><img class="activityImage" src="${activity.image}" alt="Εικόνα άσκησης: ${activity.title}" /></div>` : ""}
       <div class="answer-list">
         ${activity.options.map((option, index) => html`
           <button class="answer-btn" data-index="${index}">${option}</button>

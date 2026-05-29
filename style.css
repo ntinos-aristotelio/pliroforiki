@@ -451,3 +451,9 @@ h3 {
   0%, 100% { transform: scale(1); }
   50% { transform: scale(1.035); }
 }
+
+.compact-stage {
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+}
