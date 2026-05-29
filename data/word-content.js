@@ -37,6 +37,18 @@ window.WORD_APP_CONTENT = {
       ]
     },
     {
+      id: "lesson-table-grid",
+      title: "Επιλογή μεγέθους πίνακα",
+      category: "Εισαγωγή",
+      image: "assets/word/eisagogi-pinakas-grid-3x4.png",
+      summary: "Μαθαίνουμε πώς επιλέγουμε γρήγορα αριθμό στηλών και γραμμών από το πλέγμα του Word.",
+      steps: [
+        "Πατάμε Εισαγωγή και μετά Πίνακας.",
+        "Μετακινούμε τον δείκτη πάνω στο πλέγμα μέχρι να εμφανιστεί το επιθυμητό μέγεθος, για παράδειγμα Πίνακας 3x4.",
+        "Πατάμε στο τελευταίο τετραγωνάκι της επιλογής για να εισαχθεί ο πίνακας."
+      ]
+    },
+    {
       id: "lesson-print",
       title: "Εκτύπωση εγγράφου",
       category: "Αρχείο",
@@ -242,6 +254,51 @@ window.WORD_APP_CONTENT = {
       hint: "Είναι το κουμπί με το μικρό πλέγμα, στην ομάδα Πίνακες.",
       successMessage: "Σωστά! Από το κουμπί Πίνακας εισάγουμε πίνακες στο έγγραφο.",
       errorMessage: "Όχι. Το κουμπί Πίνακας βρίσκεται στην καρτέλα Εισαγωγή, στην ομάδα Πίνακες."
+    },
+    {
+      id: "word-hotspot-table-grid-3x4",
+      type: "hotspot",
+      title: "Επίλεξε πίνακα 3x4",
+      category: "Πίνακες",
+      image: "assets/word/eisagogi-pinakas-grid-3x4.png",
+      imageWidth: 475,
+      imageHeight: 552,
+      compact: true,
+      question: "Πάτησε στο τετραγωνάκι που ολοκληρώνει την επιλογή Πίνακας 3x4.",
+      correctArea: { x: 248, y: 270, width: 28, height: 28 },
+      hint: "Για πίνακα 3x4 επιλέγουμε 3 στήλες και 4 γραμμές. Πάτησε στο κάτω δεξί τετραγωνάκι της πορτοκαλί περιοχής.",
+      successMessage: "Σωστά! Αυτό το σημείο αντιστοιχεί σε πίνακα 3 στηλών και 4 γραμμών.",
+      errorMessage: "Όχι ακριβώς. Για Πίνακα 3x4 πρέπει να φτάσεις στην 3η στήλη και στην 4η γραμμή του πλέγματος."
+    },
+    {
+      id: "word-hotspot-table-grid-area",
+      type: "hotspot",
+      title: "Η περιοχή 3x4 στο πλέγμα",
+      category: "Πίνακες",
+      image: "assets/word/eisagogi-pinakas-grid-3x4.png",
+      imageWidth: 475,
+      imageHeight: 552,
+      compact: true,
+      question: "Πάτησε μέσα στην πορτοκαλί περιοχή που δείχνει την επιλογή Πίνακας 3x4.",
+      correctArea: { x: 195, y: 189, width: 82, height: 110 },
+      hint: "Η πορτοκαλί περιοχή δείχνει τις 3 πρώτες στήλες και τις 4 πρώτες γραμμές.",
+      successMessage: "Σωστά! Η πορτοκαλί περιοχή δείχνει το μέγεθος του πίνακα που θα εισαχθεί.",
+      errorMessage: "Όχι ακριβώς. Η σωστή περιοχή είναι το πορτοκαλί τμήμα του πλέγματος."
+    },
+    {
+      id: "word-hotspot-insert-table-dialog",
+      type: "hotspot",
+      title: "Εισαγωγή πίνακα από παράθυρο",
+      category: "Πίνακες",
+      image: "assets/word/eisagogi-pinakas-grid-3x4.png",
+      imageWidth: 475,
+      imageHeight: 552,
+      compact: true,
+      question: "Πάτησε στην επιλογή Εισαγωγή πίνακα... κάτω από το πλέγμα.",
+      correctArea: { x: 196, y: 366, width: 177, height: 29 },
+      hint: "Βρίσκεται ακριβώς κάτω από το πλέγμα επιλογής στηλών και γραμμών.",
+      successMessage: "Σωστά! Από την Εισαγωγή πίνακα... μπορούμε να ορίσουμε με ακρίβεια στήλες και γραμμές.",
+      errorMessage: "Όχι ακριβώς. Η επιλογή Εισαγωγή πίνακα... βρίσκεται κάτω από το πλέγμα."
     },
     {
       id: "word-hotspot-page-break",
