@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="el">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Πτυχίο Πληροφορικής - Demo με οδηγίες βήμα-βήμα</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="hero__content">
+      <div class="eyebrow">Δοκιμαστική έκδοση</div>
+      <h1>Πτυχίο Πληροφορικής</h1>
+      <p>Ερωτήσεις EXPRESS A/B, οπτικοί οδηγοί, βήματα λύσης και προσομοίωση εξέτασης σε ένα απλό περιβάλλον για μαθητές.</p>
+      <div class="hero__actions">
+        <button class="btn btn-primary" data-jump="learn">Μαθαίνω με εικόνες</button>
+        <button class="btn btn-ghost" data-jump="exam">Ξεκίνα δοκιμαστικό τεστ</button>
+      </div>
+    </div>
+    <div class="hero__panel" aria-label="Στατιστικά υλικού">
+      <div class="stat big"><span id="statTotal">432</span><small>ερωτήσεις</small></div>
+      <div class="stat"><span id="statGuided">0</span><small>με οπτικό οδηγό</small></div>
+      <div class="stat"><span id="statReview">0</span><small>για επανάληψη</small></div>
+    </div>
+  </header>
+
+  <main class="shell">
+    <nav class="tabs" aria-label="Κύρια πλοήγηση">
+      <button class="tab is-active" data-tab="learn">Μαθαίνω</button>
+      <button class="tab" data-tab="questions">Ερωτήσεις</button>
+      <button class="tab" data-tab="exam">Προσομοίωση</button>
+      <button class="tab" data-tab="review">Τα λάθη μου</button>
+      <button class="tab" data-tab="sos">SOS</button>
+    </nav>
+
+    <section class="panel is-active" id="learn">
+      <div class="section-head">
+        <div>
+          <h2>Μαθαίνω με εικόνες</h2>
+          <p>Πρωτότυποι οπτικοί οδηγοί, με αριθμημένα βήματα και γρήγορη απάντηση εξέτασης.</p>
+        </div>
+        <select id="lessonModuleFilter" class="select" aria-label="Φίλτρο ενότητας μαθημάτων"></select>
+      </div>
+      <div id="lessonGrid" class="lesson-grid"></div>
+    </section>
+
+    <section class="panel" id="questions">
+      <div class="section-head">
+        <div>
+          <h2>Ερωτήσεις πτυχίου</h2>
+          <p>Δες την απάντηση, άνοιξε οδηγίες με εικόνα και κράτησε ό,τι χρειάζεται επανάληψη.</p>
+        </div>
+      </div>
+      <div class="filters">
+        <input id="searchInput" class="input" placeholder="Αναζήτηση π.χ. κεφαλίδα, γράφημα, Outlook..." />
+        <select id="moduleFilter" class="select"></select>
+        <select id="archiveFilter" class="select">
+          <option value="all">EXPRESS A + B</option>
+          <option value="A">Μόνο EXPRESS A</option>
+          <option value="B">Μόνο EXPRESS B</option>
+        </select>
+      </div>
+      <div class="results-bar">
+        <span id="resultCount"></span>
+        <button class="btn btn-small" id="randomQuestionBtn">Τυχαία ερώτηση</button>
+      </div>
+      <div id="questionList" class="question-list"></div>
+    </section>
+
+    <section class="panel" id="exam">
+      <div class="section-head">
+        <div>
+          <h2>Προσομοίωση εξέτασης</h2>
+          <p>Ανοικτού τύπου εξάσκηση: σκέψου την απάντηση, μετά έλεγξέ την και σημείωσε αν την ήξερες.</p>
+        </div>
+      </div>
+      <div class="exam-card" id="examIntro">
+        <h3>Τεστ 36 ερωτήσεων</h3>
+        <p>Το demo δημιουργεί τυχαίο τεστ με μίξη από όλες τις ενότητες. Στο τέλος βλέπεις σκορ και αδύναμες ενότητες.</p>
+        <div class="exam-options">
+          <label><input type="radio" name="examSize" value="12" checked> Γρήγορο demo 12 ερωτήσεων</label>
+          <label><input type="radio" name="examSize" value="36"> Πλήρες τεστ 36 ερωτήσεων</label>
+        </div>
+        <button class="btn btn-primary" id="startExamBtn">Έναρξη τεστ</button>
+      </div>
+      <div id="examRun" class="exam-run hidden"></div>
+      <div id="examSummary" class="exam-summary hidden"></div>
+    </section>
+
+    <section class="panel" id="review">
+      <div class="section-head">
+        <div>
+          <h2>Τα λάθη μου / Επανάληψη</h2>
+          <p>Εδώ μπαίνουν όσα πατάς “Θέλω επανάληψη”. Αποθηκεύονται στον browser του μαθητή.</p>
+        </div>
+        <button class="btn btn-danger" id="clearReviewBtn">Καθάρισμα λίστας</button>
+      </div>
+      <div id="reviewList" class="question-list"></div>
+    </section>
+
+    <section class="panel" id="sos">
+      <div class="section-head">
+        <div>
+          <h2>SOS επανάληψη</h2>
+          <p>Σύντομες καρτέλες πριν την εξέταση, για να θυμάται ο μαθητής “πού πατάω”.</p>
+        </div>
+      </div>
+      <div id="sosGrid" class="sos-grid"></div>
+    </section>
+  </main>
+
+  <div class="modal" id="guideModal" aria-hidden="true">
+    <div class="modal__overlay" data-close-modal></div>
+    <article class="modal__card" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <button class="modal__close" data-close-modal aria-label="Κλείσιμο">×</button>
+      <div id="modalContent"></div>
+    </article>
+  </div>
+
+  <footer class="footer">
+    <p>Demo για εκπαιδευτική χρήση. Τα οπτικά σχήματα είναι πρωτότυπα και βασίζονται στη λογική “καρτέλα → ομάδα → κουμπί”.</p>
+  </footer>
+
+  <script src="data/questions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

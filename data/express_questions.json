@@ -1,0 +1,3890 @@
+[
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 1,
+    "module": "Word",
+    "question": "Διαγραφή “μη αυτόματης αλλαγής γραμμής” κάτω από τον τίτλο GCert Intermediate",
+    "answer": "Βρες την παράγραφο κάτω από τον τίτλο.\nΕνεργοποίησε σημάδια μορφοποίησης: Κεντρική > ¶ (Εμφάνιση/Απόκρυψη).\nΕντόπισε το σύμβολο ↵ (χειροκίνητη αλλαγή γραμμής).\nΒάλε τον δρομέα πριν/μετά και πάτησε Delete ή Backspace για να φύγει μόνο αυτό."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 2,
+    "module": "Word",
+    "question": "Ημερομηνία στην κεφαλίδα (auto update), μορφή d/M/yy και “στα Ελληνικά”",
+    "answer": "Εισαγωγή > Κεφαλίδα > Επεξεργασία κεφαλίδας.\nΕισαγωγή > Ημερομηνία & ώρα.\nΔιάλεξε μορφή d/M/yy (π.χ. 12/3/10).\nΤσέκαρε Αυτόματη ενημέρωση.\nOK και Κλείσιμο κεφαλίδας/υποσέλιδου."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 3,
+    "module": "Word",
+    "question": "Ύψος όλων των γραμμών πίνακα = 3 εκ.",
+    "answer": "Κλικ μέσα στον πίνακα.\nΕργαλεία Πίνακα > Διάταξη > Ιδιότητες.\nΚαρτέλα Γραμμή: τσέκαρε Καθορισμός ύψους.\nΒάλε 3 εκ. και Ακριβώς.\nOK."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 4,
+    "module": "Word",
+    "question": "Περίγραμμα “πλαίσιο”, τριπλή ευθεία, πράσινο, στην παράγραφο “Σε εταιρίες και οργανισμούς....”",
+    "answer": "Επίλεξε την παράγραφο.\nΚεντρική > Περιγράμματα (dropdown) > Περιγράμματα και σκίαση…\nΡύθμιση: Πλαίσιο (Box).\nΣτυλ: τριπλή ευθεία (triple).\nΧρώμα: πράσινο (βασικά).\nΕφαρμογή σε: Παράγραφο > OK."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 5,
+    "module": "Word",
+    "question": "Πλάγια στο “Master in Office” μέσα στην παράγραφο “Το επίπεδο γνώσεων που….”",
+    "answer": "Μαρκάρισε μόνο το Master in Office.\nΠάτησε Ctrl+I (ή Κεντρική > Πλάγια)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 6,
+    "module": "Word",
+    "question": "Επιλογή 4 πρώτων γραμμών πίνακα και να μείνουν επιλεγμένες",
+    "answer": "Πήγαινε στην αριστερή άκρη της 1ης γραμμής πίνακα μέχρι να δεις “μαύρο βελάκι επιλογής γραμμής”.\nΚλικ για 1η γραμμή.\nΚράτα Shift και κλικ στην 4η γραμμή (ή σύρε προς τα κάτω) ώστε να επιλεγούν οι πρώτες 4."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 7,
+    "module": "Word",
+    "question": "Μαρκάρισμα αποσπάσματος και μεταφορά στο έγγραφο GC_Advanced2 (στην αρχή της παραγράφου “Εξειδικευμένες γνώσεις πληροφορικής…”)",
+    "answer": "Στο τρέχον έγγραφο βρες την παράγραφο “Το επίπεδο αντικατοπτρίζει…”.\nΜαρκάρισε το κομμάτι «σύγχρονο και απαιτητικό εργασιακό περιβάλλον».\nCtrl+C (Αντιγραφή).\nΠήγαινε στο ανοιχτό έγγραφο GC_Advanced2.\nΒρες την παράγραφο που αρχίζει “Εξειδικευμένες γνώσεις πληροφορικής…”.\nΒάλε τον δρομέα στην αρχή της παραγράφου και Ctrl+V."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 8,
+    "module": "Word",
+    "question": "Δημιουργία εγγράφου βασισμένου στο δείγμα προτύπου “Τιμολόγιο”",
+    "answer": "Αρχείο > Δημιουργία.\nΑναζήτηση προτύπων για Τιμολόγιο (Invoice).\nΔιάλεξε το πρότυπο “Τιμολόγιο” του δείγματος.\nΔημιουργία."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 9,
+    "module": "Word",
+    "question": "Ζουμ 140%",
+    "answer": "Κάτω δεξιά στο Word, ρύθμισε τον ρυθμιστή ζουμ στο 140% (ή Προβολή > Ζουμ > 140%)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 10,
+    "module": "Word",
+    "question": "Επαναφορά 2 τελευταίων ενεργειών που αναιρέθηκαν (Redo)",
+    "answer": "Πάτησε Ctrl+Y δύο φορές (ή το κουμπί Επανάληψη/Redo δύο φορές)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 11,
+    "module": "Word",
+    "question": "Σκίαση πορτοκαλί σε όλα τα κελιά πίνακα",
+    "answer": "Επίλεξε όλο τον πίνακα (λαβή με σταυρό πάνω-αριστερά).\nΕργαλεία Πίνακα > Σχεδίαση (Design) > Σκίαση (Shading).\nΔιάλεξε Πορτοκαλί (βασικά)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 12,
+    "module": "Word",
+    "question": "Κύριο έγγραφο συγχώνευσης (Mail Merge) τύπου Επιστολές και “επόμενο βήμα”",
+    "answer": "Αλληλογραφία > Έναρξη συγχώνευσης αλληλογραφίας.\nΕπίλεξε Επιστολές.\nΑν είσαι σε “Οδηγό βήμα-βήμα”: Αλληλογραφία > Οδηγός συγχώνευσης… και πάτα Επόμενο."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 13,
+    "module": "Excel",
+    "question": "Κλίμακα εκτύπωσης στο φύλλο ΜΙΣΘΟΔΟΣΙΑ: 1 σελίδα πλάτος × 3 σελίδες ύψος",
+    "answer": "Πήγαινε στο φύλλο ΜΙΣΘΟΔΟΣΙΑ.\nΔιάταξη Σελίδας > Προσαρμογή (Scale to Fit).\nΠλάτος: 1 σελίδα, Ύψος: 3 σελίδες."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 14,
+    "module": "Excel",
+    "question": "Τύπος στο N4: άθροισμα E4:M4 με 1 συνάρτηση & 1 σχετική αναφορά περιοχής",
+    "answer": "Στο κελί N4 γράψε: =SUM(E4:M4)(Σε ελληνικό Excel μπορεί να είναι =ΑΘΡΟΙΣΜΑ(E4:M4).)"
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 15,
+    "module": "Excel",
+    "question": "Μετακίνηση φύλλου “Αντιγραφές” στο τέλος του βιβλίου",
+    "answer": "Κλικ στην καρτέλα φύλλου Αντιγραφές.\nΣύρε την καρτέλα τελείως δεξιά μέχρι το τέλος."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 16,
+    "module": "Excel",
+    "question": "Κατακόρυφος προσανατολισμός & χαρτί A5",
+    "answer": "Διάταξη Σελίδας.\nΠροσανατολισμός > Κατακόρυφος.\nΜέγεθος > A5."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 17,
+    "module": "Excel",
+    "question": "Κλίμακα εκτύπωσης: 2 σελίδες πλάτος × 1 σελίδα ύψος",
+    "answer": "Διάταξη Σελίδας > Προσαρμογή (Scale to Fit).\nΠλάτος: 2, Ύψος: 1."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 18,
+    "module": "Excel",
+    "question": "Σταθεροποίηση 5 πρώτων γραμμών",
+    "answer": "Κλικ στο κελί A6 (δηλαδή κάτω από την 5η γραμμή).\nΠροβολή > Σταθεροποίηση παραθύρων > Σταθεροποίηση παραθύρων."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 19,
+    "module": "Excel",
+    "question": "Αντικατάσταση “ΑΡΝΗΤΙΚ” με “ΑΔΙΑΦΟΡ” στο φύλλο ΔΙΔΑΚΤΡΑ",
+    "answer": "Πήγαινε φύλλο ΔΙΔΑΚΤΡΑ.\nCtrl+H (Εύρεση/Αντικατάσταση).\nΕύρεση: ΑΡΝΗΤΙΚ\nΑντικατάσταση με: ΑΔΙΑΦΟΡ\nΑντικατάσταση όλων."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 20,
+    "module": "Excel",
+    "question": "Αφαίρεση αναδίπλωσης κειμένου (Wrap) στην περιοχή C6:G16",
+    "answer": "Επίλεξε C6:G16.\nΚεντρική > Αναδίπλωση κειμένου (Wrap Text) (να είναι απενεργοποιημένο)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 21,
+    "module": "Excel",
+    "question": "Πάνω περιθώριο 2,3 εκ.",
+    "answer": "Διάταξη Σελίδας > Περιθώρια > Προσαρμοσμένα περιθώρια.\nΣτο Επάνω (Top) βάλε 2,3 εκ. > OK."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 22,
+    "module": "Excel",
+    "question": "Διαγραφή φύλλου “Έλεγχος” από το βιβλίο Μισθολόγιο",
+    "answer": "Πήγαινε στο βιβλίο Μισθολόγιο.\nΔεξί κλικ στο φύλλο Έλεγχος > Διαγραφή."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 23,
+    "module": "Excel",
+    "question": "Εισαγωγή 1 φύλλου στην αρχή",
+    "answer": "Δεξί κλικ στην 1η καρτέλα φύλλου (αριστερά-αριστερά).\nΕισαγωγή > Φύλλο εργασίας (μία φορά).\nΑν δεν μπήκε πρώτο, σύρε το πρώτο."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 24,
+    "module": "Excel",
+    "question": "Κλείσιμο Βοήθειας Excel",
+    "answer": "Κλείσε το παράθυρο βοήθειας με το Χ (ή Alt+F4 όταν είναι ενεργό).\nOutlook / Email"
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 25,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Άνοιγμα σε παράθυρο μηνύματος “Εκδήλωση του Φορέα” από Πρόχειρα και να μείνει ανοικτό",
+    "answer": "Outlook > Πρόχειρα (Drafts).\nΔιπλό κλικ στο μήνυμα “Εκδήλωση του Φορέα” για να ανοίξει σε ξεχωριστό παράθυρο. Άστο ανοιχτό."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 26,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Χαμηλή σπουδαιότητα στο “Προσοχή! Νέος ιός!” και αποστολή",
+    "answer": "Άνοιξε το μήνυμα.\nΣτο παράθυρο μηνύματος: Μήνυμα > Σπουδαιότητα: Χαμηλή.\nΑποστολή."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 27,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Χαμηλή σπουδαιότητα στο “Πρόσκληση” και αποστολή",
+    "answer": "Άνοιξε το “Πρόσκληση”.\nΣπουδαιότητα: Χαμηλή.\nΑποστολή."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 28,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Νέα ομάδα επαφών “ΠΡΟΣΚΕΚΛΗΜΕΝΟΙ” με μέλη Νίκος & Ελένη",
+    "answer": "Πήγαινε Άτομα/Επαφές.\nΝέα ομάδα επαφών.\nΌνομα: ΠΡΟΣΚΕΚΛΗΜΕΝΟΙ.\nΠροσθήκη μελών > επέλεξε Νίκος, Ελένη.\nΑποθήκευση & Κλείσιμο.\nInternet / Browser"
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 29,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Αποθήκευση αρχείου από υπερσύνδεσμο “Υπολογιστικά Φύλλα” στο φάκελο Λήψεις (Downloads) της επιφάνειας εργασίας",
+    "answer": "Στην ιστοσελίδα, δεξί κλικ στον σύνδεσμο Υπολογιστικά Φύλλα.\nΑποθήκευση συνδέσμου ως… / Αποθήκευση προορισμού ως…\nΔιάλεξε Επιφάνεια εργασίας > Λήψεις (Downloads).\nΑποθήκευση."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 30,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Κλείσιμο παραθύρου μηνύματος “Πρόσκληση σε εκδήλωση”",
+    "answer": "Πάτα Χ στο παράθυρο του μηνύματος (όχι έξοδο από Outlook)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 31,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Νέα επαφή: irene@globalcert.gr, όνομα ΕΙΡΗΝΗ",
+    "answer": "Outlook > Άτομα/Επαφές.\nΝέα επαφή.\nΌνομα: ΕΙΡΗΝΗ. Email: irene@globalcert.gr.\nΑποθήκευση & Κλείσιμο."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 32,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Google αναζήτηση: περιέχει “πλοηγός” αλλά ΟΧΙ “πόλεις”",
+    "answer": "Στο Google γράψε: πλοηγός -πόλεις και Enter."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 33,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Εκτύπωση σε Demo Printer σελίδες 3–4 της τρέχουσας ιστοσελίδας",
+    "answer": "Ctrl+P.\nΕκτυπωτής: Demo Printer.\nΣελίδες: 3-4.\nΕκτύπωση."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 34,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Αφαίρεση από Αγαπημένα της ιστοσελίδας “GLOBAL - CERT”",
+    "answer": "Άνοιξε Αγαπημένα/Σελιδοδείκτες.\nΒρες “GLOBAL - CERT”.\nΔεξί κλικ > Κατάργηση/Διαγραφή."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 35,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Σε ανοικτό μήνυμα: BCC ntina@globalcert.gr και Θέμα “ΕΚΔΗΛΩΣΗ”",
+    "answer": "Στο μήνυμα: πεδίο Ιδιαίτερη κοινοποίηση (Bcc): ntina@globalcert.gr.\nΘέμα (Subject): ΕΚΔΗΛΩΣΗ."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-1.docx",
+    "test": "EXPRESS A - TEST 1 – Global Cert",
+    "number": 36,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Μετακίνηση φακέλου “Φίλοι” μέσα στο “Προσωπικά”",
+    "answer": "Στη λίστα φακέλων Outlook βρες Φίλοι.\nΣύρε και άφησε μέσα στον φάκελο Προσωπικά (drag & drop)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 37,
+    "module": "Word",
+    "question": "“Κεφαλαία-πεζά πρότασης” στο “ΠΙΣΤΟΠΟΙΗΤΙΚΑ GCERT”",
+    "answer": "Μαρκάρισε το κείμενο ΠΙΣΤΟΠΟΙΗΤΙΚΑ GCERT.\nΚεντρική > Αλλαγή πεζών/κεφαλαίων (Aa).\nΔιάλεξε Πρότασης (Sentence case)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 38,
+    "module": "Word",
+    "question": "Ύψος 3 πρώτων γραμμών πίνακα = 2 εκ.",
+    "answer": "Επίλεξε τις 3 πρώτες γραμμές.\nΔιάταξη > Ιδιότητες > Γραμμή.\nΎψος: 2 εκ., Ακριβώς > OK."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 39,
+    "module": "Word",
+    "question": "Εμφάνιση μη-εκτυπώσιμων χαρακτήρων",
+    "answer": "Κεντρική > ¶."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 40,
+    "module": "Word",
+    "question": "Ζουμ 110%",
+    "answer": "Ρυθμιστής ζουμ κάτω δεξιά: 110%."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 41,
+    "module": "Word",
+    "question": "Δείκτης (subscript) στον “2” του “Ε2”",
+    "answer": "Μαρκάρισε μόνο τον αριθμό 2 στο Ε2.\nCtrl+= (ή Κεντρική > Δείκτης)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 42,
+    "module": "Word",
+    "question": "Κλείσιμο εγγράφου GC_Intermediate2 χωρίς να κλείσει η εφαρμογή",
+    "answer": "Αρχείο > Κλείσιμο (ή Ctrl+W) ενώ είσαι στο GC_Intermediate2."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 43,
+    "module": "Word",
+    "question": "Προβολή “Διάταξη εκτύπωσης”",
+    "answer": "Προβολή > Διάταξη εκτύπωσης."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 44,
+    "module": "Word",
+    "question": "Εισαγωγή εικόνας C:\\exams\\word\\GLOBAL_Cert πάνω από τον τίτλο “ΣΥΓΚΕΚΡΙΜΕΝΑ ΚΑΛΥΠΤΟΝΤΑΙ:”",
+    "answer": "Κλικ στην κενή παράγραφο πάνω από τον τίτλο.\nΕισαγωγή > Εικόνες > Από αυτήν τη συσκευή.\nΔιάλεξε C:\\exams\\word\\GLOBAL_Cert > Εισαγωγή.\nΜην την πειράξεις."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 45,
+    "module": "Word",
+    "question": "Επαναφορά 2 τελευταίων ενεργειών που αναιρέθηκαν",
+    "answer": "Ctrl+Y δύο φορές."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 46,
+    "module": "Word",
+    "question": "(ίδιο με 7) Αντιγραφή “σύγχρονο και απαιτητικό εργασιακό περιβάλλον” σε GC_Advanced2 στην αρχή της ζητούμενης παραγράφου",
+    "answer": "Κάνε ακριβώς τα βήματα του TEST1-#7."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 47,
+    "module": "Word",
+    "question": "Εισαγωγή φράσης “ΠΕΔΙΟ ΓΝΩΣΗΣ” στην αρχή εγγράφου",
+    "answer": "Ctrl+Home.\nΠληκτρολόγησε ΠΕΔΙΟ ΓΝΩΣΗΣ (με κενό αν θέλει να χωρίζει)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 48,
+    "module": "Word",
+    "question": "Ζουμ 140%",
+    "answer": "Ζουμ: 140%."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 49,
+    "module": "Excel",
+    "question": "Αντιγραφή μορφοποίησης A2 σε A3:A7",
+    "answer": "Κλικ στο A2.\nΚεντρική > Πινέλο μορφοποίησης (Format Painter).\nΣύρε/επίλεξε A3:A7."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 50,
+    "module": "Excel",
+    "question": "Τύπος στο N5: πλήθος αριθμών E5:M5 (1 συνάρτηση, 1 περιοχή)",
+    "answer": "Στο N5: =COUNT(E5:M5)(Σε ελληνικό Excel: =ΠΛΗΘΟΣ(E5:M5).)"
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 51,
+    "module": "Excel",
+    "question": "Τύπος στο N4: άθροισμα E4:M4",
+    "answer": "=SUM(E4:M4) (ή =ΑΘΡΟΙΣΜΑ(E4:M4))."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 52,
+    "module": "Excel",
+    "question": "Η συνάρτηση SUM",
+    "answer": "Χρησιμοποιείται για άθροισμα αριθμών/περιοχών: =SUM(A1:A10)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 53,
+    "module": "Excel",
+    "question": "Ποιος τύπος γραφήματος ΔΕΝ υποστηρίζεται;",
+    "answer": "Χωρίς τις επιλογές δεν υπάρχει μοναδική απάντηση. Στις εξετάσεις συνήθως “Radar/Stock κ.λπ.” είναι επιλογές που υποστηρίζονται· “XYZ (Scatter)” επίσης υποστηρίζεται. Διάλεξε αυτό που δεν υπάρχει στη λίστα “Εισαγωγή γραφήματος” της έκδοσης που εξετάζεσαι."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 54,
+    "module": "Excel",
+    "question": "Αντιγραφή φύλλου “Είσοδος” στο τέλος",
+    "answer": "Δεξί κλικ στο φύλλο Είσοδος.\nΜετακίνηση ή αντιγραφή…\nΤσέκαρε Δημιουργία αντιγράφου.\n“Πριν από φύλλο”: διάλεξε το τελευταίο > OK."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 55,
+    "module": "Excel",
+    "question": "Εκτύπωση γραμμής στην κορυφή κάθε σελίδας",
+    "answer": "Εντολή: Διάταξη Σελίδας > Εκτύπωση τίτλων (Print Titles)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 56,
+    "module": "Excel",
+    "question": "Κατάργηση ΜΟΝΟ συγχώνευσης C2:D2 χωρίς να χαθεί η οριζόντια στοίχιση",
+    "answer": "Επίλεξε C2:D2.\nΚεντρική > Συγχώνευση & Κέντρο (dropdown) > Κατάργηση συγχώνευσης κελιών.\nΑν αλλάξει κάτι, ξαναβάλε την ίδια οριζόντια στοίχιση από Κεντρική > Στοίχιση."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 57,
+    "module": "Excel",
+    "question": "Σκίαση Μοβ σε G5:H13",
+    "answer": "Επίλεξε G5:H13.\nΚεντρική > Χρώμα γεμίσματος > Μοβ."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 58,
+    "module": "Excel",
+    "question": "Οριζόντια στοίχιση αριστερά (εσοχή) σε C2:H2",
+    "answer": "Επίλεξε C2:H2.\nΚεντρική > Στοίχιση: Αριστερά (Indent) (ή Αριστερή στοίχιση και μετά “Αύξηση εσοχής” αν αυτό εννοεί)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 59,
+    "module": "Excel",
+    "question": "Ανοιχτό μπλε στη σειρά “Ποσό πενθημέρου” στο γράφημα",
+    "answer": "Κλικ στο γράφημα.\nΚλικ στο στοιχείο/σειρά δεδομένων “Ποσό πενθημέρου”.\nΔεξί κλικ > Μορφοποίηση σειράς δεδομένων.\nΓέμισμα > επίλεξε Ανοιχτό μπλε."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 60,
+    "module": "Excel",
+    "question": "Αναίρεση 2 τελευταίων ενεργειών στο βιβλίο εργασίας",
+    "answer": "Ctrl+Z δύο φορές."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 61,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Ο υπολογιστής μπορεί να μολυνθεί από ιό, εάν…",
+    "answer": "Ανοίγουμε/εκτελούμε ύποπτα συνημμένα, εγκαθιστούμε άγνωστο λογισμικό, επισκεπτόμαστε κακόβουλες σελίδες και επιτρέπουμε εκτέλεση, βάζουμε USB με μολυσμένα αρχεία."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 62,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Άνοιγμα φακέλου “Απεσταλμένα” στο Outlook",
+    "answer": "Outlook > αριστερά φάκελοι > Απεσταλμένα (Sent Items)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 63,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Άνοιγμα “Διαγραμμένα”",
+    "answer": "Outlook > Διαγραμμένα (Deleted Items)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 64,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Δημιουργία επαφής ΓΙΩΡΓΟΣ / giorgos@globalcert.gr",
+    "answer": "Άτομα > Νέα επαφή > Όνομα ΓΙΩΡΓΟΣ, email giorgos@globalcert.gr > Αποθήκευση."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 65,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Υψηλή σπουδαιότητα στο “Εκδήλωση του Φορέα” και αποστολή",
+    "answer": "Άνοιξε μήνυμα > Σπουδαιότητα: Υψηλή > Αποστολή."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 66,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Μετάβαση 2 ιστοσελίδες προς τα εμπρός",
+    "answer": "Πάτα το κουμπί Μπροστά (Forward) δύο φορές (ή Alt+→ δύο φορές)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 67,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Άνοιγμα σε νέο παράθυρο του “Καταστρεπτικός ιός!” από Απεσταλμένα και να μείνει ανοιχτό",
+    "answer": "Απεσταλμένα > διπλό κλικ στο μήνυμα “Καταστρεπτικός ιός!” (ανοίγει σε παράθυρο)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 68,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Μετάβαση στον υπερσύνδεσμο “ΔΙΕΝΕΡΓΕΙΑ ΕΞΕΤΑΣΕΩΝ”",
+    "answer": "Κλικ στον σύνδεσμο ΔΙΕΝΕΡΓΕΙΑ ΕΞΕΤΑΣΕΩΝ."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 69,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Δημιουργία μηνύματος με σώμα “Ελπίζουμε να μας τιμήσετε με την παρουσία σας!”",
+    "answer": "Outlook > Νέο μήνυμα > στο σώμα γράψε ακριβώς το κείμενο."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 70,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Προσθήκη τρέχουσας ιστοσελίδας στα Αγαπημένα στον φάκελο “GLOBAL Cert” με όνομα “ΕΠΙΘΕΩΡΗΣΕΙΣ”",
+    "answer": "Αγαπημένα/Σελιδοδείκτες > Προσθήκη > Φάκελος: GLOBAL Cert > Όνομα: ΕΠΙΘΕΩΡΗΣΕΙΣ > Αποθήκευση."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 71,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Τι είναι το τμήμα μετά το http:// μέχρι την επόμενη “/”",
+    "answer": "Είναι το όνομα κεντρικού υπολογιστή/τομέα (domain/host), π.χ. www.example.com."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-2.docx",
+    "test": "EXPRESS A - TEST 2 – Global Cert",
+    "number": 72,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Ομάδα επαφών “ΠΡΟΣΩΠΙΚΑ” χωρίς μέλη",
+    "answer": "Άτομα > Νέα ομάδα επαφών > Όνομα ΠΡΟΣΩΠΙΚΑ > Αποθήκευση (χωρίς προσθήκη μελών)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 73,
+    "module": "Word",
+    "question": "Εντοπισμός και διαγραφή γραφικού",
+    "answer": "Κλικ πάνω στο γραφικό (να εμφανιστούν λαβές).\nDelete."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 74,
+    "module": "Word",
+    "question": "Ύψος όλων των γραμμών πίνακα = 1,4 εκ.",
+    "answer": "Όπως στο TEST1-#3, βάλε 1,4 εκ.."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 75,
+    "module": "Word",
+    "question": "Στυλ “Βασικό” στον τίτλο “GCert Intermediate”",
+    "answer": "Μαρκάρισε τον τίτλο.\nΚεντρική > Στυλ > επίλεξε Βασικό (Normal/Βασικό)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 76,
+    "module": "Word",
+    "question": "Κλείσιμο όλων των ανοιχτών εγγράφων χωρίς τερματισμό εφαρμογής",
+    "answer": "Shift + Αρχείο > Κλείσιμο για κάθε έγγραφο, ή κλείσε ένα-ένα με Ctrl+W. (Σημαντικό: όχι Έξοδος.)"
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 77,
+    "module": "Word",
+    "question": "Arial Black στο κείμενο “Εθνικό Οργανισμό…” μέσα στην παράγραφο “Βασικές γνώσεις πληροφορικής….”",
+    "answer": "Μαρκάρισε μόνο το συγκεκριμένο κείμενο.\nΚεντρική > Γραμματοσειρά: Arial Black."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 78,
+    "module": "Word",
+    "question": "Σύμβολο Πνευματικά δικαιώματα στην αρχή της παραγράφου “Το επίπεδο αντικατοπτρίζει…”",
+    "answer": "Βάλε δρομέα στην αρχή της παραγράφου.\nΕισαγωγή > Σύμβολο > Περισσότερα σύμβολα…\nΒρες © > Εισαγωγή."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 79,
+    "module": "Word",
+    "question": "Σκίαση πορτοκαλί σε όλα τα κελιά πίνακα",
+    "answer": "Όπως TEST1-#11."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 80,
+    "module": "Word",
+    "question": "Ύψος όλων των γραμμών πίνακα = 5 εκ.",
+    "answer": "Όπως TEST1-#3, βάλε 5 εκ.."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 81,
+    "module": "Word",
+    "question": "Ζουμ 75%",
+    "answer": "Ζουμ: 75%."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 82,
+    "module": "Word",
+    "question": "Περίγραμμα πλαίσιο: μονή κυματιστή, πλάτος 1½ στ., σε όλο τον πίνακα",
+    "answer": "Επίλεξε όλο τον πίνακα.\nΣχεδίαση πίνακα > Περιγράμματα > Περιγράμματα και σκίαση…\nΠλαίσιο, στυλ μονή κυματιστή, πλάτος 1½ στ.\nΕφαρμογή σε: Πίνακας > OK."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 83,
+    "module": "Word",
+    "question": "Διαγραφή 3 πρώτων στηλών πίνακα",
+    "answer": "Επίλεξε τις 3 πρώτες στήλες (κλικ επάνω από κάθε στήλη και σύρε).\nΔιάταξη (Table Layout) > Διαγραφή > Διαγραφή στηλών."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 84,
+    "module": "Word",
+    "question": "Εισαγωγή “Πιστοποίηση σε ” στην αρχή της παραγράφου “Εξειδικευμένες γνώσεις πληροφορικής…”",
+    "answer": "Βάλε δρομέα αρχή παραγράφου > γράψε Πιστοποίηση σε ."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 85,
+    "module": "Excel",
+    "question": "Διαγραφή στηλών B:C",
+    "answer": "Επίλεξε κεφαλίδες στηλών B και C > δεξί κλικ > Διαγραφή."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 86,
+    "module": "Excel",
+    "question": "Wrap Text σε B4:C7",
+    "answer": "Επίλεξε B4:C7 > Κεντρική > Αναδίπλωση κειμένου (ενεργό)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 87,
+    "module": "Excel",
+    "question": "Ταξινόμηση A2:A7 φθίνουσα με επέκταση επιλογής",
+    "answer": "Επίλεξε A2:A7.\nΔεδομένα > Ταξινόμηση Ζ→Α (φθίνουσα).\nΌταν ρωτήσει: Επέκταση επιλογής."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 88,
+    "module": "Excel",
+    "question": "Σύμβολο διαίρεσης",
+    "answer": "/"
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 89,
+    "module": "Excel",
+    "question": "Κατά την προεπισκόπηση εκτύπωσης προσφέρονται όλες οι δυνατότητες μορφοποίησης κελιών",
+    "answer": "Λάθος (η προεπισκόπηση δείχνει αποτέλεσμα, δεν είναι για “όλες” τις μορφοποιήσεις)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 90,
+    "module": "Excel",
+    "question": "Αφαίρεση ενσωματωμένου γραφήματος στο φύλλο “ΔΙΔΑΚΤΡΑ_Γράφημα”",
+    "answer": "Πήγαινε στο φύλλο > κλικ στο γράφημα > Delete."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 91,
+    "module": "Excel",
+    "question": "Μορφή ημερομηνίας η/μ/εεεε σε B22:G22",
+    "answer": "Επίλεξε B22:G22.\nCtrl+1 (Μορφοποίηση κελιών).\nΑριθμός > Ημερομηνία ή Προσαρμοσμένο: d/m/yyyy > OK."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 92,
+    "module": "Excel",
+    "question": "Τύπος στο D12: μισό του C12, χωρίς συνάρτηση",
+    "answer": "Στο D12: =C12/2"
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 93,
+    "module": "Excel",
+    "question": "Format Painter από H2 σε H3:H11",
+    "answer": "Κλικ H2 > Πινέλο μορφοποίησης > επίλεξε H3:H11."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 94,
+    "module": "Excel",
+    "question": "(ίδιο με #55) Εκτύπωση συγκεκριμένης γραμμής πάνω σε κάθε σελίδα",
+    "answer": "Εκτύπωση τίτλων (Print Titles)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 95,
+    "module": "Excel",
+    "question": "Διαγραφή φύλλου “Ενέργειες”",
+    "answer": "Δεξί κλικ στο φύλλο Ενέργειες > Διαγραφή."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 96,
+    "module": "Excel",
+    "question": "Ημερομηνία η/μ/εεεε σε C8:F8",
+    "answer": "Όπως #91, για C8:F8."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 97,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Εκτύπωση όλων των σελίδων τρέχουσας ιστοσελίδας στον Demo Printer",
+    "answer": "Ctrl+P > Εκτυπωτής: Demo Printer > Όλες οι σελίδες > Εκτύπωση."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 98,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Για αναζήτηση πληροφοριών στο διαδίκτυο χρησιμοποιώ",
+    "answer": "Μηχανή αναζήτησης (π.χ. Google)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 99,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Κατάργηση από Αγαπημένα της ιστοσελίδας “Google”",
+    "answer": "Αγαπημένα > δεξί κλικ “Google” > Διαγραφή."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 100,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Τι είναι “Παγκόσμιος Ιστός”",
+    "answer": "Το σύνολο ιστοσελίδων/πόρων που προσπελαύνονται μέσω Internet με URL και υπερσυνδέσμους (Web)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 101,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Άνοιγμα αγαπημένου “UN” από φάκελο “Ενεργός Πολίτης”",
+    "answer": "Αγαπημένα > φάκελος Ενεργός Πολίτης > κλικ UN."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 102,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Διαγραφή μηνύματος “Πρόσκληση” από Πρόχειρα",
+    "answer": "Outlook > Πρόχειρα > επίλεξε μήνυμα Πρόσκληση > Delete."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 103,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Νέα επαφή ntina@globalcert.gr με όνομα ΝΤΙΝΑ",
+    "answer": "Άτομα > Νέα επαφή > Όνομα ΝΤΙΝΑ > Email ntina@globalcert.gr > Αποθήκευση."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 104,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Διαγραφή μηνύματος “Πρόσκληση σε εκδήλωση” από Πρόχειρα",
+    "answer": "Πρόχειρα > επίλεξε το μήνυμα > Delete."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 105,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Μετακίνηση φακέλου “Εργασία” μέσα στο “Γνωστοί”",
+    "answer": "Σύρε φάκελο Εργασία πάνω στον Γνωστοί."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 106,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Μετάβαση 1 ιστοσελίδα προς τα εμπρός",
+    "answer": "Forward μία φορά (Alt+→)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 107,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Αποθήκευση ΜΟΝΟ του συνημμένου “Προσκλητήριο.txt” στο Desktop\\Επισυναπτόμενα",
+    "answer": "Άνοιξε το μήνυμα.\nΔεξί κλικ στο συνημμένο Προσκλητήριο.txt > Αποθήκευση ως…\nΔιάλεξε Επιφάνεια εργασίας > Επισυναπτόμενα > Αποθήκευση."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-3.docx",
+    "test": "EXPRESS A - TEST 3 – Global Cert",
+    "number": 108,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Ορισμός αρχικής σελίδας φυλλομετρητή: http://www.google.gr",
+    "answer": "Ρυθμίσεις browser > Αρχική σελίδα / On startup > βάλε http://www.google.gr."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 109,
+    "module": "Word",
+    "question": "Σε κύριο έγγραφο συγχώνευσης: πεδίο “ΕΠΙΘΕΤΟ” μετά το “ΕΠΩΝΥΜΟ:”",
+    "answer": "Βάλε δρομέα αμέσως μετά το ΕΠΩΝΥΜΟ:\nΑλληλογραφία > Εισαγωγή πεδίου συγχώνευσης.\nΔιάλεξε ΕΠΙΘΕΤΟ."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 110,
+    "module": "Word",
+    "question": "Μεταφορά “Εθνικό Οργανισμό…” σε GC_Foundation στην αρχή παραγράφου “Εισαγωγικό πρόγραμμα…”",
+    "answer": "Μαρκάρισε το ζητούμενο απόσπασμα στο τρέχον έγγραφο.\nCtrl+X (μεταφορά = αποκοπή) ή Ctrl+C αν ζητά αντιγραφή.\nΣτο GC_Foundation βρες την παράγραφο “Εισαγωγικό πρόγραμμα…”.\nΣτην αρχή: Ctrl+V."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 111,
+    "module": "Word",
+    "question": "Αφαίρεση όλων των στηλοθετών από 2 παραγράφους κάτω από “Intermediate C”",
+    "answer": "Επίλεξε και τις 2 παραγράφους.\nΚεντρική > Παράγραφος (μικρό βελάκι) > Στηλοθέτες…\nΚατάργηση όλων > OK."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 112,
+    "module": "Word",
+    "question": "Ζουμ 20%",
+    "answer": "Ζουμ: 20%."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 113,
+    "module": "Word",
+    "question": "Κατακόρυφος προσανατολισμός σελίδας",
+    "answer": "Διάταξη > Προσανατολισμός > Κατακόρυφος."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 114,
+    "module": "Word",
+    "question": "Αποθήκευση στον φάκελο Desktop\\Παρατηρήσεις με ίδιο όνομα",
+    "answer": "Αρχείο > Αποθήκευση ως.\nΕπιφάνεια εργασίας > Παρατηρήσεις.\nΜην αλλάξεις όνομα > Αποθήκευση."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 115,
+    "module": "Word",
+    "question": "Εικόνα C:\\exams\\word\\GLOBAL_Cert_logo πάνω από τίτλο “Θεματικά Πεδία”",
+    "answer": "Όπως TEST2-#44, με τη συγκεκριμένη εικόνα."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 116,
+    "module": "Word",
+    "question": "Κλείσιμο όλων των ανοιχτών εγγράφων χωρίς τερματισμό",
+    "answer": "Όπως TEST3-#76."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 117,
+    "module": "Word",
+    "question": "Προβολή “Διάταξη Web”",
+    "answer": "Προβολή > Διάταξη Web."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 118,
+    "module": "Word",
+    "question": "Μέγεθος γραμματοσειράς 8 στ. στο “Εθνικό Οργανισμό…”",
+    "answer": "Μαρκάρισε το κείμενο.\nΚεντρική > Μέγεθος: 8."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 119,
+    "module": "Word",
+    "question": "Διαγραφή 3 πρώτων γραμμών πίνακα",
+    "answer": "Επίλεξε τις 3 πρώτες γραμμές.\nΔιάταξη > Διαγραφή > Διαγραφή γραμμών."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 120,
+    "module": "Word",
+    "question": "Επαναφορά της τελευταίας ενέργειας που αναιρέθηκε",
+    "answer": "Ctrl+Y μία φορά."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 121,
+    "module": "Excel",
+    "question": "N4: μέσος όρος E4:M4 (1 συνάρτηση)",
+    "answer": "=AVERAGE(E4:M4) (ή =ΜΕΣΟΣ_ΟΡΟΣ(E4:M4))."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 122,
+    "module": "Excel",
+    "question": "N5: ελάχιστο E5:M5",
+    "answer": "=MIN(E5:M5) (ή =ΕΛΑΧΙΣΤΟ(E5:M5))."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 123,
+    "module": "Excel",
+    "question": "Εκτύπωση τίτλων: επανάληψη γραμμής 4 στην κορυφή κάθε σελίδας",
+    "answer": "Διάταξη Σελίδας > Εκτύπωση τίτλων.\nΣτο “Γραμμές προς επανάληψη στην κορυφή”: επίλεξε $4:$4.\nOK."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 124,
+    "module": "Excel",
+    "question": "Διαγραφή φύλλου “Παράδειγμα” από βιβλίο “Οικογένεια”",
+    "answer": "Δεξί κλικ στο Παράδειγμα > Διαγραφή."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 125,
+    "module": "Excel",
+    "question": "Αυτόματη συμπλήρωση ημερομηνιών 15/1/2010 … 1/1/2010 στην A3:A17",
+    "answer": "Γράψε στο A3: 15/1/2010.\nΣτο A4: 14/1/2010.\nΕπίλεξε A3:A4.\nΣύρε το fill handle μέχρι A17 (θα συνεχίσει -1 ημέρα)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 126,
+    "module": "Excel",
+    "question": "Wrap Text σε A3:B5",
+    "answer": "Επίλεξε A3:B5 > Κεντρική > Αναδίπλωση κειμένου."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 127,
+    "module": "Excel",
+    "question": "Αλλαγή μεγέθους ενσωματωμένου γραφήματος στο φύλλο “ΕΣΟΔΑ_Γράφημα”",
+    "answer": "Κλικ στο γράφημα > σύρε μια γωνιακή λαβή για αλλαγή μεγέθους."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 128,
+    "module": "Excel",
+    "question": "Αναίρεση 2 τελευταίων ενεργειών",
+    "answer": "Ctrl+Z δύο φορές."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 129,
+    "module": "Excel",
+    "question": "Αντικατάσταση “Δάνειο” με “ΔΟΣΗ” στο φύλλο “ΟΙΚΟΓΕΝΕΙΑ”",
+    "answer": "Φύλλο ΟΙΚΟΓΕΝΕΙΑ > Ctrl+H > Δάνειο → ΔΟΣΗ > Αντικατάσταση όλων."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 130,
+    "module": "Excel",
+    "question": "Αντικατάσταση “Ποσό” με “ΧΡΗΜΑ” στο φύλλο “ΜΙΣΘΟΔΟΣΙΑ”",
+    "answer": "Φύλλο ΜΙΣΘΟΔΟΣΙΑ > Ctrl+H > Ποσό → ΧΡΗΜΑ."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 131,
+    "module": "Excel",
+    "question": "Συγχώνευση E3:F3 και στοίχιση κέντρο",
+    "answer": "Επίλεξε E3:F3 > Κεντρική > Συγχώνευση & Κέντρο."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 132,
+    "module": "Excel",
+    "question": "Από την τομή γραμμής και στήλης δημιουργείται",
+    "answer": "Κελί.\nOutlook / Internet / Θεωρία"
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 133,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Υψηλή σπουδαιότητα στο “Πρόσκληση” και αποστολή",
+    "answer": "Άνοιξε μήνυμα > Σπουδαιότητα: Υψηλή > Αποστολή."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 134,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Ο υπολογιστής ΔΕΝ μπορεί να μολυνθεί από ιό, εάν…",
+    "answer": "Όταν δεν εκτελείται κακόβουλος κώδικας/αρχείο (π.χ. δεν ανοίγεις ύποπτα συνημμένα, έχεις σωστή προστασία και δεν επιτρέπεις εκτέλεση)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 135,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Από Εισερχόμενα: μήνυμα “Πρόσκληση σε εκδήλωση” → αποθήκευση συνημμένου “Λίστα.txt” στο Desktop\\Επισυναπτόμενα",
+    "answer": "Άνοιξε μήνυμα > δεξί κλικ στο Λίστα.txt > Αποθήκευση ως… > Επιφάνεια εργασίας\\Επισυναπτόμενα."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 136,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Εκτύπωση σε Demo Printer σελίδες 3–5 ιστοσελίδας",
+    "answer": "Ctrl+P > Demo Printer > Σελίδες 3-5 > Εκτύπωση."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 137,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Άνοιγμα φακέλου “Πρόχειρα” Outlook",
+    "answer": "Outlook > Πρόχειρα."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 138,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Κάθε ιστοσελίδα έχει μοναδική διεύθυνση…",
+    "answer": "URL (Uniform Resource Locator)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 139,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Δημιουργία μηνύματος προς zois@globalcert.gr",
+    "answer": "Νέο μήνυμα > Προς: zois@globalcert.gr."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 140,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Αποθήκευση αρχείου από σύνδεσμο “Photoshop” στο Desktop\\Ύλη",
+    "answer": "Δεξί κλικ “Photoshop” > Αποθήκευση ως… > Επιφάνεια εργασίας**Ύλη** > Αποθήκευση."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 141,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Κατάληξη .gov",
+    "answer": "Κυβερνητικοί οργανισμοί (government)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 142,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Αγαπημένα: αποθήκευση σε “GLOBAL Cert” με όνομα “INTERMEDIATE B”",
+    "answer": "Προσθήκη αγαπημένου > φάκελος GLOBAL Cert > όνομα INTERMEDIATE B."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 143,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Διαγραφή όλων μηνυμάτων από ntina@globalcert.gr στα Εισερχόμενα",
+    "answer": "Εισερχόμενα > στο πεδίο αναζήτησης γράψε from:ntina@globalcert.gr.\nΕπίλεξε όλα τα αποτελέσματα (Ctrl+A).\nDelete."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-4.docx",
+    "test": "EXPRESS A - TEST 4 – Global Cert",
+    "number": 144,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Δημιουργία αντιγράφου φακέλου “Εργασία” μέσα στο “Συνεργάτες”",
+    "answer": "Συνήθως: δεξί κλικ “Εργασία” > Αντιγραφή φακέλου / ή Ctrl+σύρσιμο πάνω στο “Συνεργάτες” (κρατώντας Ctrl κάνει αντίγραφο)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 145,
+    "module": "Word",
+    "question": "Σύμβολο “Ενότητα” στην αρχή παραγράφου “Βασικές γνώσεις πληροφορικής…”",
+    "answer": "Δρομέας στην αρχή παραγράφου.\nΕισαγωγή > Σύμβολο > Περισσότερα.\nΔιάλεξε το σύμβολο § (Ενότητα) > Εισαγωγή."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 146,
+    "module": "Word",
+    "question": "Εμφάνιση χάρακα",
+    "answer": "Προβολή > Χάρακας (τσεκ)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 147,
+    "module": "Word",
+    "question": "Όνομα χρήστη εφαρμογής: GC_ΧΡΗΣΤΗΣ",
+    "answer": "Αρχείο > Επιλογές > Γενικά > “Εξατομίκευση αντιγράφου…” > Όνομα χρήστη: GC_ΧΡΗΣΤΗΣ > OK."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 148,
+    "module": "Word",
+    "question": "Περίγραμμα πλαίσιο: διπλή ευθεία γραμμή σε όλο τον πίνακα",
+    "answer": "Επίλεξε πίνακα > Περιγράμματα & σκίαση > Πλαίσιο, στυλ διπλή > Εφαρμογή σε Πίνακας."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 149,
+    "module": "Word",
+    "question": "Στηλοθέτης αριστερής στοίχισης στα 1,5 εκ. για 2 παραγράφους κάτω από “Intermediate A”",
+    "answer": "Επίλεξε τις 2 παραγράφους.\nΚεντρική > Παράγραφος (βελάκι) > Στηλοθέτες…\nΘέση: 1,5 εκ., Στοίχιση: Αριστερά > Ορισμός > OK."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 150,
+    "module": "Word",
+    "question": "Περίγραμμα πλαίσιο πλάτους 1 στ. στην παράγραφο “Εξειδικευμένες γνώσεις….”",
+    "answer": "Επίλεξε την παράγραφο > Περιγράμματα & σκίαση > Πλαίσιο > Πλάτος 1 στ. > Εφαρμογή σε Παράγραφο."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 151,
+    "module": "Word",
+    "question": "Στηλοθέτης δεξιάς στοίχισης στα 5 εκ. για 2 παραγράφους κάτω από “ΔΙΑΡΚΕΙΑ ΕΞΕΤΑΣΕΩΝ”",
+    "answer": "Όπως #149 αλλά: Θέση 5 εκ., Στοίχιση Δεξιά."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 152,
+    "module": "Word",
+    "question": "Ζουμ 75%",
+    "answer": "Ζουμ: 75%."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 153,
+    "module": "Word",
+    "question": "(ίδιο με TEST4-#110) Μεταφορά “Εθνικό Οργανισμό…” σε GC_Foundation στην αρχή “Εισαγωγικό πρόγραμμα…”",
+    "answer": "Κάνε τα ίδια βήματα."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 154,
+    "module": "Word",
+    "question": "Ζουμ 20%",
+    "answer": "Ζουμ: 20%."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 155,
+    "module": "Word",
+    "question": "Γραμματοσειρά Tahoma στο “ISO 9001 του 2008” (παράγραφος “Το σύστημα ποιότητας κατά…”)",
+    "answer": "Μαρκάρισε το “ISO 9001 του 2008” > γραμματοσειρά Tahoma."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 156,
+    "module": "Word",
+    "question": "Κλείσιμο όλων των ανοιχτών εγγράφων χωρίς τερματισμό",
+    "answer": "Όπως πριν (Ctrl+W επαναληπτικά)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 157,
+    "module": "Excel",
+    "question": "Format Painter H2 → H3:H11",
+    "answer": "Όπως TEST3-#93."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 158,
+    "module": "Excel",
+    "question": "Μεταβολή μεγέθους ενσωματωμένου γραφήματος",
+    "answer": "Κλικ γράφημα > σύρε γωνιακή λαβή."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 159,
+    "module": "Excel",
+    "question": "Εκτύπωση τίτλων: επανάληψη γραμμής 1 στην κορυφή",
+    "answer": "Διάταξη Σελίδας > Εκτύπωση τίτλων > Γραμμές επανάληψης: $1:$1."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 160,
+    "module": "Excel",
+    "question": "Τύπος στο C2: B2 αυξημένο κατά 3, χωρίς συνάρτηση",
+    "answer": "=B2+3"
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 161,
+    "module": "Excel",
+    "question": "Χρώμα γραμματοσειράς πορτοκαλί (βασικά) σε C4:K13",
+    "answer": "Επίλεξε C4:K13 > Κεντρική > Χρώμα γραμματοσειράς > Πορτοκαλί."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 162,
+    "module": "Excel",
+    "question": "Σταθερές 2 πρώτες γραμμές και 2 πρώτες στήλες",
+    "answer": "Κλικ στο κελί C3.\nΠροβολή > Σταθεροποίηση παραθύρων > Σταθεροποίηση παραθύρων."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 163,
+    "module": "Excel",
+    "question": "Αντικατάσταση “Τρίμηνο” με “ΤΕΤΑΡΤΟ” στο φύλλο ΠΟΣΑ",
+    "answer": "Φύλλο ΠΟΣΑ > Ctrl+H > Τρίμηνο → ΤΕΤΑΡΤΟ."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 164,
+    "module": "Excel",
+    "question": "Οριζόντιος προσανατολισμός & μέγεθος Α4",
+    "answer": "Διάταξη Σελίδας > Προσανατολισμός Οριζόντιος > Μέγεθος A4."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 165,
+    "module": "Excel",
+    "question": "Διαγραφή στηλών A:B",
+    "answer": "Επίλεξε Α και Β (κεφαλίδες) > δεξί κλικ > Διαγραφή."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 166,
+    "module": "Excel",
+    "question": "Εκτύπωση συγκεκριμένης γραμμής στην κορυφή κάθε σελίδας",
+    "answer": "Εκτύπωση τίτλων (Print Titles)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 167,
+    "module": "Excel",
+    "question": "Wrap Text σε A1:E7",
+    "answer": "Επίλεξε A1:E7 > Wrap Text."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 168,
+    "module": "Excel",
+    "question": "Γραμματοσειρά Arial σε C4:K4",
+    "answer": "Επίλεξε C4:K4 > Γραμματοσειρά Arial.\nΘεωρία/Outlook/Browser"
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 169,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Πού χρησιμοποιείται το ψηφιακό πιστοποιητικό",
+    "answer": "Για ταυτοποίηση και ασφάλεια (κρυπτογράφηση/υπογραφή), π.χ. SSL/TLS σε ιστοσελίδες, ψηφιακές υπογραφές."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 170,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Δημιουργία μηνύματος με θέμα “ΠΡΟΣΟΧΗ”",
+    "answer": "Νέο μήνυμα > Θέμα: ΠΡΟΣΟΧΗ."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 171,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Αποθήκευση ΜΟΝΟ του συνημμένου “Προσκεκλημένοι.txt” στο Desktop\\Συνημμένα",
+    "answer": "Άνοιξε μήνυμα > δεξί κλικ στο συνημμένο > Αποθήκευση ως… > Επιφάνεια εργασίας\\Συνημμένα."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 172,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "(ίδιο με TEST1-#29) Αποθήκευση “Υπολογιστικά Φύλλα” στο Desktop\\Λήψεις",
+    "answer": "Κάνε τα ίδια βήματα."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 173,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Για να αναζητήσω πληροφορίες στο διαδίκτυο χρησιμοποιώ",
+    "answer": "Μηχανή αναζήτησης."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 174,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Άνοιγμα αγαπημένου “WWF” από “Ενεργός Πολίτης”",
+    "answer": "Αγαπημένα > Ενεργός Πολίτης > WWF."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 175,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Google αναζήτηση με λέξη “δεξιότητες”",
+    "answer": "Google: δεξιότητες."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 176,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Διαγραφή από GLOBAL Cert στα Αγαπημένα: “ADVANCED - Εξεταζόμενη ύλη”",
+    "answer": "Αγαπημένα > φάκελος GLOBAL Cert > δεξί κλικ στο στοιχείο > Διαγραφή."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 177,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Αντίγραφο φακέλου “Φίλοι” μέσα στο “Προσωπικά”",
+    "answer": "Ctrl+σύρσιμο του φακέλου “Φίλοι” στο “Προσωπικά” (ή δεξί κλικ > Αντιγραφή)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 178,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Αποθήκευση ΜΟΝΟ συνημμένου “Εκδήλωση.txt” στο Desktop\\Επισυναπτόμενα",
+    "answer": "Όπως #171, με “Εκδήλωση.txt”."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 179,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Ομάδα επαφών “ΣΥΓΓΕΝΕΙΣ” με μέλη Πάρης & Ζώης",
+    "answer": "Νέα ομάδα επαφών > Όνομα ΣΥΓΓΕΝΕΙΣ > Προσθήκη μελών Πάρης, Ζώης > Αποθήκευση."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-5.docx",
+    "test": "EXPRESS A - TEST 5 – Global Cert",
+    "number": 180,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Εκτέλεση συνημμένου “Κατάλογος.txt” από μήνυμα “Πρόσκληση σε εκδήλωση” στα Εισερχόμενα",
+    "answer": "Εισερχόμενα > άνοιξε το μήνυμα.\nΔιπλό κλικ στο Κατάλογος.txt (ή Άνοιγμα).\nΑν ρωτά “Άνοιγμα/Εκτέλεση”, επίλεξε Άνοιγμα."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 181,
+    "module": "Word",
+    "question": "Εισαγωγή “ΤΥΠΟΣ ΠΙΣΤΟΠΟΙΗΤΙΚΟΥ” στην αρχή εγγράφου",
+    "answer": "Ctrl+Home > γράψε ΤΥΠΟΣ ΠΙΣΤΟΠΟΙΗΤΙΚΟΥ ."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 182,
+    "module": "Word",
+    "question": "Ζουμ 120%",
+    "answer": "Ζουμ: 120%."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 183,
+    "module": "Word",
+    "question": "Μέγεθος 8 στ. στο “Εθνικό Οργανισμό…”",
+    "answer": "Μαρκάρισμα > μέγεθος 8."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 184,
+    "module": "Word",
+    "question": "Περίγραμμα πλαίσιο κόκκινο σε όλο τον πίνακα",
+    "answer": "Επίλεξε πίνακα > Περιγράμματα & σκίαση > Πλαίσιο, χρώμα Κόκκινο > Εφαρμογή σε Πίνακας."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 185,
+    "module": "Word",
+    "question": "Επικόλληση περιεχομένου Πρόχειρου στο GC_Foundation στην αρχή παραγράφου “Εισαγωγικό πρόγραμμα…”",
+    "answer": "Στο GC_Foundation βάλε δρομέα στην αρχή της παραγράφου > Ctrl+V (από Πρόχειρο)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 186,
+    "module": "Word",
+    "question": "Αντιγραφή “οικεία σε αυτό πρόσωπα” και επικόλληση στην αρχή παραγράφου “Εισαγωγικό πρόγραμμα…” (ίδιο έγγραφο)",
+    "answer": "Μαρκάρισε τη φράση.\nCtrl+C.\nΠήγαινε στην αρχή της ζητούμενης παραγράφου.\nCtrl+V."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 187,
+    "module": "Word",
+    "question": "Έντονη + Πλάγια στο “σύγχρονο και απαιτητικό εργασιακό περιβάλλον” στην παράγραφο “Το επίπεδο αντικατοπτρίζει….”",
+    "answer": "Μαρκάρισε το απόσπασμα > Ctrl+B και Ctrl+I."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 188,
+    "module": "Word",
+    "question": "Στηλοθέτης δεξιάς στοίχισης στα 5 εκ. για 2 παραγράφους κάτω από “ΔΙΑΡΚΕΙΑ ΕΞΕΤΑΣΕΩΝ”",
+    "answer": "Όπως TEST5-#151."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 189,
+    "module": "Word",
+    "question": "Αρίθμηση σε 3 παραγράφους κάτω από “Intermediate C:”",
+    "answer": "Επίλεξε τις 3 παραγράφους.\nΚεντρική > Αρίθμηση (διάλεξε ένα στυλ)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 190,
+    "module": "Word",
+    "question": "Μετακίνηση γραφικού στην κενή παράγραφο πάνω από τον τίτλο “ΠΟΥ ΑΠΕΥΘΥΝΕΤΑΙ”",
+    "answer": "Κλικ στο γραφικό.\nCtrl+X.\nΚλικ στην κενή παράγραφο πάνω από τον τίτλο “ΠΟΥ ΑΠΕΥΘΥΝΕΤΑΙ”.\nCtrl+V."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 191,
+    "module": "Word",
+    "question": "Σύμβολο “Ενότητα” στην αρχή παραγράφου “Κάθε ενότητα εξετάζεται….”",
+    "answer": "Όπως TEST5-#145 (σύμβολο §)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 192,
+    "module": "Word",
+    "question": "Εναλλαγή πεζά↔κεφαλαία (toggle case) στο “Επεξεργασία Κειμένου” στην παράγραφο “2η ενότητα: Επεξεργασία….”",
+    "answer": "Μαρκάρισε “Επεξεργασία Κειμένου”.\nΚεντρική > Aa > Εναλλαγή πεζών/κεφαλαίων (tOGGLE cASE)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 193,
+    "module": "Excel",
+    "question": "Κλίμακα εκτύπωσης στο φύλλο ΠΟΣΑ: 2 σελίδες πλάτος × 1 σελίδα ύψος",
+    "answer": "Διάταξη Σελίδας > Scale to Fit: Πλάτος 2, Ύψος 1."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 194,
+    "module": "Excel",
+    "question": "Αλλαγή τιμής κελιού D9 σε 1500",
+    "answer": "Κλικ D9 > γράψε 1500 > Enter."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 195,
+    "module": "Excel",
+    "question": "Τύπος στο C9: B9 μειωμένο κατά 4, χωρίς συνάρτηση",
+    "answer": "=B9-4"
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 196,
+    "module": "Excel",
+    "question": "Φύλλο ΕΣΟΔΑ: 1 σελίδα πλάτος × 2 σελίδες ύψος",
+    "answer": "Scale to Fit: Πλάτος 1, Ύψος 2."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 197,
+    "module": "Excel",
+    "question": "Ποια έκφραση είναι σωστός τύπος Excel",
+    "answer": "Σωστός τύπος ξεκινά πάντα με = και χρησιμοποιεί αναφορές/τελεστές, π.χ. =A1+B1 ή =SUM(A1:A5). Διάλεξε την επιλογή που αρχίζει με = και έχει σωστή σύνταξη."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 198,
+    "module": "Excel",
+    "question": "Οριζόντια στοίχιση δεξιά (εσοχή) σε C2:E2",
+    "answer": "Επίλεξε C2:E2 > Κεντρική > Στοίχιση: Δεξιά (και εσοχή αν το ζητά)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 199,
+    "module": "Excel",
+    "question": "Σταθεροποίηση 4 πρώτων στηλών",
+    "answer": "Κλικ στο κελί E1 (δεξιά από την 4η στήλη).\nΠροβολή > Σταθεροποίηση παραθύρων > Σταθεροποίηση παραθύρων."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 200,
+    "module": "Excel",
+    "question": "Επιλογή περιοχής U97:Z104",
+    "answer": "Πληκτρολόγησε στο πλαίσιο ονόματος (αριστερά της γραμμής τύπων) U97:Z104 > Enter (ή σύρε επιλογή)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 201,
+    "module": "Excel",
+    "question": "Διαγραφή φύλλου “Διορθώσεις”",
+    "answer": "Δεξί κλικ φύλλο > Διαγραφή."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 202,
+    "module": "Excel",
+    "question": "Αφαίρεση Wrap Text στην A2:E11",
+    "answer": "Επίλεξε A2:E11 > Κεντρική > Wrap Text (να σβήσει)."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 203,
+    "module": "Excel",
+    "question": "Κατακόρυφος προσανατολισμός σελίδας",
+    "answer": "Διάταξη Σελίδας > Προσανατολισμός > Κατακόρυφος."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 204,
+    "module": "Excel",
+    "question": "Αλλαγή μεγέθους γραφήματος στο “ΕΣΟΔΑ_Γράφημα”",
+    "answer": "Κλικ γράφημα > σύρε γωνίες.\nBrowser / Outlook / Θεωρία"
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 205,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Αλλαγή αρχικής σελίδας φυλλομετρητή σε κενή",
+    "answer": "Ρυθμίσεις browser > On startup/Homepage > Κενή σελίδα."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 206,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Σύμβολο που υπάρχει πάντα σε email",
+    "answer": "@"
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 207,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Ομάδα επαφών “ΓΝΩΣΤΟΙ” χωρίς μέλη",
+    "answer": "Νέα ομάδα επαφών > Όνομα ΓΝΩΣΤΟΙ > Αποθήκευση."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 208,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Χαμηλή σπουδαιότητα στο “Πρόσκληση” και αποστολή",
+    "answer": "Άνοιξε μήνυμα > Σπουδαιότητα Χαμηλή > Αποστολή."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 209,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Μετονομασία φακέλου “Γνωστοί” σε “ΦΙΛΟΙ”",
+    "answer": "Δεξί κλικ φάκελος “Γνωστοί” > Μετονομασία > γράψε ΦΙΛΟΙ."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 210,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Δημιουργία μηνύματος με θέμα “ΠΡΟΣΟΧΗ”",
+    "answer": "Νέο μήνυμα > Θέμα ΠΡΟΣΟΧΗ."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 211,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Άνοιγμα σε παράθυρο μηνύματος “Πρόσκληση σε εκδήλωση” από Πρόχειρα και να μείνει ανοικτό",
+    "answer": "Πρόχειρα > διπλό κλικ στο μήνυμα."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 212,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Εκτύπωση σε Global Cert Printer σελίδες 4–5",
+    "answer": "Ctrl+P > Εκτυπωτής Global Cert Printer > Σελίδες 4-5 > Εκτύπωση."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 213,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Πλεονέκτημα ηλεκτρονικής αλληλογραφίας έναντι κλασικής",
+    "answer": "Ταχύτητα, χαμηλό κόστος, άμεση αποστολή σε πολλούς, επισυνάψεις, αρχειοθέτηση."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 214,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Υψηλή σπουδαιότητα στο “Προσοχή! Νέος ιός!” και αποστολή",
+    "answer": "Άνοιξε μήνυμα > Σπουδαιότητα Υψηλή > Αποστολή."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 215,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Άνοιγμα σε νέο παράθυρο του “Καταστρεπτικός ιός!” από Απεσταλμένα και να μείνει ανοικτό",
+    "answer": "Απεσταλμένα > διπλό κλικ."
+  },
+  {
+    "archive": "A",
+    "file": "A/test-6.docx",
+    "test": "EXPRESS A - TEST 6 – Global Cert",
+    "number": 216,
+    "module": "Θεωρία/Internet/Outlook/Ασφάλεια",
+    "question": "Από Εισερχόμενα: “Πρόσκληση” → αποθήκευση συνημμένου “Λεπτομέρειες.txt” στο Desktop\\Συνημμένα",
+    "answer": "Άνοιξε μήνυμα > δεξί κλικ στο Λεπτομέρειες.txt > Αποθήκευση ως… > Επιφάνεια εργασίας\\Συνημμένα."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 1,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Μια εφαρμογή αντιμετώπισης ιών καθιστά τον ηλεκτρονικό υπολογιστή…",
+    "answer": "Πιο ασφαλή, επειδή εντοπίζει, απομονώνει και αφαιρεί κακόβουλο λογισμικό."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 2,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Χρησιμοποιώντας την κατάλληλη ράβδο κύλισης του παραθύρου Σημειώσεις, κυλίστε οριζόντια.",
+    "answer": "Με τη χρήση της οριζόντιας γραμμής κύλισης στο κάτω μέρος του παραθύρου."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 3,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Μέσω των ιδιοτήτων του αρχείου, ενεργοποιήστε το χαρακτηριστικό Μόνο για ανάγνωση.",
+    "answer": "Δεξί κλικ στο αρχείο → Ιδιότητες → ενεργοποίηση «Μόνο για ανάγνωση» → OK."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 4,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Συνεχίστε την εκτύπωση του εγγράφου Προαύλιο στον εκτυπωτή Global Cert Printer.",
+    "answer": "Άνοιγμα ουράς εκτυπωτή → επιλογή της εργασίας → Συνέχιση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 5,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Μεταβείτε στον φάκελο Ταχύτητα της επιφάνειας εργασίας και επιλέξτε όλα τα περιεχόμενά του.",
+    "answer": "Χρήση συνδυασμού πλήκτρων Ctrl + A."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 6,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Το κουμπί για την ελαχιστοποίηση ενός παραθύρου βρίσκεται…",
+    "answer": "Στο επάνω δεξί μέρος του παραθύρου, πρώτο από αριστερά."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 7,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Χρησιμοποιώντας την οριζόντια γραμμή κύλισης, κυλίστε τέρμα δεξιά.",
+    "answer": "Μετακίνηση της οριζόντιας γραμμής κύλισης προς τα δεξιά μέχρι το τέλος."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 8,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Απενεργοποιήστε το χαρακτηριστικό Μόνο για ανάγνωση του αρχείου C:\\exams\\picture\\Στέγη.",
+    "answer": "Δεξί κλικ → Ιδιότητες → απενεργοποίηση «Μόνο για ανάγνωση» → OK."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 9,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Όταν ένας ιός έχει μολύνει έναν υπολογιστή, εννοούμε ότι έχει προσκολληθεί…",
+    "answer": "Σε κάποιο αρχείο ή πρόγραμμα του υπολογιστή."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 10,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Χρησιμοποιώντας την κατάλληλη ράβδο κύλισης του τρέχοντος παραθύρου, κυλίστε οριζόντια.",
+    "answer": "Χρήση της οριζόντιας γραμμής κύλισης."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 11,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Κυλίστε τέρμα επάνω το παράθυρο Σημειώσεις.",
+    "answer": "Μετακίνηση της κάθετης γραμμής κύλισης προς τα επάνω."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 12,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Μετακινήστε ΜΟΝΟ το φάκελο picture της επιφάνειας εργασίας στο C:\\exams\\Application.",
+    "answer": "Αποκοπή του φακέλου (Ctrl+X) και επικόλληση στον φάκελο Application."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 13,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Δημιουργήστε μία κενή μη συνδεδεμένη φόρμα με όνομα ΑΔΕΙΑ ΦΟΡΜΑ.",
+    "answer": "Δημιουργία → Κενή φόρμα → Αποθήκευση με όνομα ΑΔΕΙΑ ΦΟΡΜΑ."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 14,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Διαγράψτε το πεδίο Ενεργός του τρέχοντος πίνακα.",
+    "answer": "Επιλογή πεδίου → Delete → Αποθήκευση πίνακα."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 15,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Ορίστε κανόνα επικύρωσης που να επιτρέπει ημερομηνίες μετά την 1/1/2008.",
+    "answer": "Στο πεδίο Κανόνας επικύρωσης πληκτρολογούμε: >#01/01/2008#"
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 16,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Εισάγετε νέα εγγραφή με Επώνυμο ΒΑΣΙΛΕΙΟΥ και Ηλικία 36.",
+    "answer": "Πληκτρολόγηση δεδομένων στη νέα εγγραφή και αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 17,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Δημιουργήστε έκθεση με ταξινόμηση κατά φθίνουσα σειρά στο πεδίο Πόλη.",
+    "answer": "Χρήση οδηγού έκθεσης, φθίνουσα ταξινόμηση στο πεδίο Πόλη, αποθήκευση με το ζητούμενο όνομα."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 18,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Ανοίξτε τη βάση δεδομένων Υποψήφιοι χωρίς να κλείσετε την τρέχουσα.",
+    "answer": "Αρχείο → Άνοιγμα → επιλογή βάσης Υποψήφιοι."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 19,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Διαγράψτε τον πίνακα Ταυτ_Εκπαιδ.",
+    "answer": "Δεξί κλικ στον πίνακα → Διαγραφή."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 20,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Ποιο μέγεθος τύπου δεδομένων Αριθμός δεν υπάρχει στο Access;",
+    "answer": "Το μέγεθος Decimal 128 (δεν υποστηρίζεται)."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 21,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Δημιουργήστε ετικέτα ΤΕΛΟΣ ΚΑΡΤΕΛΑΣ στο Υποσέλιδο φόρμας.",
+    "answer": "Προβολή σχεδίασης → Ετικέτα → πληκτρολόγηση κειμένου → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 22,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Τροποποιήστε την ετικέτα της κεφαλίδας φόρμας σε ΕΚΠΑΙΔΕΥΤΕΣ.",
+    "answer": "Επιλογή ετικέτας → αλλαγή κειμένου → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 23,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Εισάγετε νέα εγγραφή με Πόλη ΑΘΗΝΑ και Ηλικία 31.",
+    "answer": "Καταχώρηση στοιχείων και αποθήκευση εγγραφής."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 24,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Διαγράψτε την έκθεση Εξεταστές.",
+    "answer": "Δεξί κλικ στην έκθεση → Διαγραφή."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 25,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Εισάγετε κείμενο στο τέλος πλαισίου κειμένου της 3ης διαφάνειας.",
+    "answer": "Τοποθέτηση δρομέα στο τέλος και πληκτρολόγηση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 26,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Προσαρμόστε το γράφημα της 7ης διαφάνειας στο 60%.",
+    "answer": "Μορφοποίηση → Μέγεθος → Κλίμακα 60%."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 27,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Μειώστε το μέγεθος του σχήματος της 2ης διαφάνειας.",
+    "answer": "Σύρσιμο των λαβών του σχήματος προς τα μέσα."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 28,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Μετακινήστε το σχήμα από τη 2η στη 10η διαφάνεια.",
+    "answer": "Αποκοπή του σχήματος και επικόλληση στη 10η διαφάνεια."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 29,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Αλλάξτε τη διάταξη των διαφανειών 2 και 3 σε Μόνο τίτλος.",
+    "answer": "Επιλογή διαφανειών → Διάταξη → Μόνο τίτλος."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 30,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Εφαρμόστε νέο χρώμα γραμματοσειράς και πλάγια μορφή στον τίτλο της 9ης.",
+    "answer": "Αλλαγή χρώματος γραμματοσειράς και ενεργοποίηση πλάγιας γραφής."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 31,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Ρυθμίστε την παρουσίαση για διαφάνειες 35 χιλ.",
+    "answer": "Σχεδίαση → Μέγεθος διαφάνειας → 35 χιλιοστά."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 32,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Εισάγετε τίτλο ΙΕΡΑΡΧΙΑ στη 9η διαφάνεια.",
+    "answer": "Κλικ στον τίτλο και πληκτρολόγηση του κειμένου."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 33,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Αποθηκεύστε την παρουσίαση στο φάκελο Προβολές.",
+    "answer": "Αρχείο → Αποθήκευση ως → επιλογή φακέλου Προβολές."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 34,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Αυξήστε το μέγεθος της εικόνας της 10ης διαφάνειας στο 135%.",
+    "answer": "Μορφοποίηση εικόνας → Κλίμακα 135%."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 35,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Αλλάξτε το χρώμα περιγράμματος του σχήματος της 2ης διαφάνειας.",
+    "answer": "Περίγραμμα σχήματος → επιλογή διαφορετικού χρώματος."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-1.docx",
+    "test": "EXPRESS-B - TEST 1 – Global Cert",
+    "number": 36,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Εφαρμόστε εφέ εναλλαγής Κάλυψη από δεξιά μέσω μαύρου σε όλες τις διαφάνειες.",
+    "answer": "Μεταβάσεις → Κάλυψη από δεξιά → Μέσω μαύρου → διάρκεια 1s → Εφαρμογή σε όλες."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 1,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Επαναφέρετε απ' τον Κάδο Ανακύκλωσης το φάκελο Φωτό στην αρχική του θέση.",
+    "answer": "Άνοιγμα Κάδου Ανακύκλωσης → δεξί κλικ στο φάκελο Φωτό → Επαναφορά."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 2,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Δημιουργήστε συμπιεσμένο φάκελο ΣΥΜΠΙΕΣΗ που να περιέχει το αρχείο Προαύλιο.",
+    "answer": "Δεξί κλικ → Νέος → Συμπιεσμένος φάκελος → μετονομασία σε ΣΥΜΠΙΕΣΗ → προσθήκη αρχείου."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 3,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Πληκτρολογήστε την ονομασία του λειτουργικού συστήματος.",
+    "answer": "Πληκτρολογούμε: Windows."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 4,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Επιλέξτε άνοιγμα για αρχείο από τα πρόσφατα έγγραφα.",
+    "answer": "Αρχείο → Άνοιγμα → Πρόσφατα → επιλογή αρχείου."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 5,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Ανοίξτε το φάκελο Ευθύτητα στο C:\\exams.",
+    "answer": "Αρχείο → Άνοιγμα → περιήγηση στο C:\\exams → επιλογή φακέλου Ευθύτητα."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 6,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Δημιουργήστε συμπιεσμένο φάκελο ΑΡΧΕΙΟ που να περιέχει το GC_Master.",
+    "answer": "Δημιουργία zip → μετονομασία σε ΑΡΧΕΙΟ → προσθήκη αρχείου GC_Master."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 7,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Επιλέξτε τα αρχεία GC_Master και Φυτά.",
+    "answer": "Κλικ στο πρώτο αρχείο → Ctrl + κλικ στο δεύτερο."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 8,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Διαγράψτε ΟΡΙΣΤΙΚΑ τον φάκελο picture από τον Κάδο Ανακύκλωσης.",
+    "answer": "Άνοιγμα Κάδου → δεξί κλικ στο φάκελο → Διαγραφή."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 9,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Μετονομάστε το φάκελο Άτομα σε ΠΡΟΣΩΠΙΚΟΤΗΤΕΣ.",
+    "answer": "Δεξί κλικ στο φάκελο → Μετονομασία → ΠΡΟΣΩΠΙΚΟΤΗΤΕΣ."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 10,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Ελαττώστε το ύψος του παραθύρου Παρατηρήσεις.",
+    "answer": "Σύρσιμο επάνω ή κάτω περιγράμματος του παραθύρου."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 11,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Μετακινήστε ΜΟΝΟ το φάκελο Τοπία στο Application.",
+    "answer": "Αποκοπή φακέλου → επικόλληση στο φάκελο Application."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 12,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Ανοίξτε το αρχείο Στέγη με τη Ζωγραφική.",
+    "answer": "Δεξί κλικ στο αρχείο → Άνοιγμα με → Ζωγραφική."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 13,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Μετατρέψτε την ιδιότητα Μορφή του πεδίου Ωρομίσθιο σε Γενικός αριθμός.",
+    "answer": "Άνοιγμα πίνακα σε σχεδίαση → Μορφή → Γενικός αριθμός → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 14,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Δημιουργήστε σχέση ένα-προς-ένα χωρίς ακεραιότητα αναφοράς.",
+    "answer": "Εργαλεία βάσης δεδομένων → Σχέσεις → σύνδεση πεδίων χωρίς ενεργοποίηση ακεραιότητας."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 15,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Ορίστε κανόνα επικύρωσης >0 στο πεδίο Εξέταστρα.",
+    "answer": "Κανόνας επικύρωσης: >0 → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 16,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Μετακινήστε το πεδίο Όνομα στην 3η θέση.",
+    "answer": "Σύρσιμο κεφαλίδας πεδίου στην 3η θέση → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 17,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Ανοίξτε τη βάση C:\\exams\\access\\Εξεταστές χωρίς κλείσιμο τρέχουσας.",
+    "answer": "Αρχείο → Άνοιγμα → επιλογή βάσης Εξεταστές."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 18,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Αλλάξτε ετικέτα σε ΤΕΛΟΣ ΛΙΣΤΑΣ στο Υποσέλιδο φόρμας.",
+    "answer": "Προβολή σχεδίασης → αλλαγή κειμένου ετικέτας → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 19,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Ενεργοποιήστε ακεραιότητα αναφοράς στη σχέση.",
+    "answer": "Άνοιγμα σχέσης → ενεργοποίηση ακεραιότητας → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 20,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Μεταβείτε στην 9η εγγραφή μέσω φόρμας Εκπαιδευτές.",
+    "answer": "Χρήση κουμπιών πλοήγησης εγγραφών → 9η εγγραφή."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 21,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Δημιουργήστε ετικέτα ΤΕΛΟΣ ΚΑΡΤΕΛΑΣ στο Υποσέλιδο φόρμας Υποψήφιοι.",
+    "answer": "Προβολή σχεδίασης → Ετικέτα → πληκτρολόγηση → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 22,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Δημιουργήστε φόρμα ΦΟΡΜΑ ΥΠΑΛΛΗΛΩΝ βασισμένη στον πίνακα Υπάλληλοι.",
+    "answer": "Δημιουργία → Φόρμα → επιλογή πίνακα Υπάλληλοι → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 23,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Διαγράψτε την έκθεση Κατάσταση Υπαλλήλων.",
+    "answer": "Δεξί κλικ στην έκθεση → Διαγραφή."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 24,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Ποιο μέγεθος τύπου Αριθμός δεν υπάρχει στο Access;",
+    "answer": "Το Decimal 128."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 25,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Διαγράψτε το γράφημα από τη 4η διαφάνεια.",
+    "answer": "Επιλογή γραφήματος → Delete."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 26,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Εφαρμόστε σκίαση και έντονη μορφή στον τίτλο της 10ης.",
+    "answer": "Επιλογή τίτλου → Σκίαση → Έντονη γραφή."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 27,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Μετακινήστε τις διαφάνειες 3 και 4 στο τέλος.",
+    "answer": "Επιλογή διαφανειών → σύρσιμο στο τέλος."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 28,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Αυξήστε την εικόνα της 5ης διαφάνειας στο 130%.",
+    "answer": "Μορφοποίηση εικόνας → Κλίμακα 130%."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 29,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Προσαρμόστε το γράφημα της 7ης διαφάνειας στο 40%.",
+    "answer": "Μορφοποίηση → Μέγεθος → Κλίμακα 40%."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 30,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Ο ορθογραφικός έλεγχος εκκινεί με το πλήκτρο…",
+    "answer": "F7."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 31,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Εναλλαγή πεζών/κεφαλαίων στον τίτλο 3ης.",
+    "answer": "Επιλογή κειμένου → Αλλαγή πεζών/κεφαλαίων."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 32,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Ρυθμίστε γράφημα σε 12εκ x 12εκ χωρίς κλείδωμα.",
+    "answer": "Μορφοποίηση → Μέγεθος → ορισμός διαστάσεων."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 33,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Διαγράψτε ΜΟΝΟ την 3η διαφάνεια.",
+    "answer": "Επιλογή 3ης διαφάνειας → Delete."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 34,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Αντιγράψτε το γράφημα της 7ης στη 11η.",
+    "answer": "Αντιγραφή γραφήματος → επικόλληση στη 11η."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 35,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Ρυθμίστε διαφάνειες για εκτύπωση Α3 οριζόντιο.",
+    "answer": "Μέγεθος διαφάνειας → A3 → Οριζόντιος προσανατολισμός."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-2.docx",
+    "test": "EXPRESS B - TEST 2 – Global Cert",
+    "number": 36,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Εφέ κίνησης Σταδιακή σύνθεση στην εικόνα της 7ης.",
+    "answer": "Κινήσεις → Είσοδος → Σταδιακή σύνθεση → διάρκεια 2s."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 1,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Για να χρησιμοποιηθεί ένας νέος εκτυπωτής…",
+    "answer": "Πρέπει πρώτα να εγκατασταθεί στο λειτουργικό σύστημα."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 2,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Επιλέξτε τους φακέλους Κατοικίδια και Προσωπικότητες από το Photo.",
+    "answer": "Κρατάμε πατημένο Ctrl και κάνουμε κλικ στους δύο φακέλους."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 3,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Επιλέξτε τα αρχεία GC_Master και Φυτά από την επιφάνεια εργασίας.",
+    "answer": "Ctrl + κλικ στο κάθε αρχείο."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 4,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Πραγματοποιήστε κλείσιμο του παραθύρου Αναφορές.",
+    "answer": "Κλικ στο Χ επάνω δεξιά του παραθύρου."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 5,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Η εγκατάσταση μιας εφαρμογής στα Windows…",
+    "answer": "Είναι απαραίτητη πριν από την πρώτη χρήση της εφαρμογής."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 6,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Πληκτρολογήστε το πλήθος των φακέλων του picture.",
+    "answer": "Μετράμε τους φακέλους και πληκτρολογούμε τον αριθμό."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 7,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Σύλληψη οθόνης και αποθήκευση Bitmap.",
+    "answer": "Print Screen → Ζωγραφική → Επικόλληση → Αποθήκευση ως Bitmap."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 8,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Δημιουργήστε συμπιεσμένο φάκελο ΣΥΜΠΙΕΣΗ με το Προαύλιο.",
+    "answer": "Δεξί κλικ → Νέος → Συμπιεσμένος φάκελος → προσθήκη αρχείου."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 9,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Ποιο είναι κακόβουλο λογισμικό;",
+    "answer": "Ο ιός."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 10,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Εισάγετε το μέγεθος αρχείου σε bytes.",
+    "answer": "Δεξί κλικ στο αρχείο → Ιδιότητες → ανάγνωση μεγέθους σε bytes."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 11,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Κυλίστε τέρμα επάνω το παράθυρο Παρατηρήσεις.",
+    "answer": "Χρήση κάθετης γραμμής κύλισης προς τα επάνω."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 12,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Κλείστε την εφαρμογή Αριθμομηχανή.",
+    "answer": "Κλικ στο Χ του παραθύρου της εφαρμογής."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 13,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Δημιουργήστε φόρμα ΦΟΡΜΑ ΥΠΟΨΗΦΙΩΝ.",
+    "answer": "Δημιουργία → Φόρμα → επιλογή πίνακα Κάρτα_Υποψ → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 14,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Δημιουργήστε κενή βάση δεδομένων ΥΠΟΨΗΦΙΟΙ.",
+    "answer": "Αρχείο → Νέα βάση δεδομένων → αποθήκευση στο ζητούμενο φάκελο."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 15,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Δημιουργήστε ετικέτα ΣΤΟΙΧΕΙΑ ΥΠΟΨΗΦΙΟΥ.",
+    "answer": "Προβολή σχεδίασης → Ετικέτα → πληκτρολόγηση → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 16,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Μετακινήστε το πεδίο Γέννηση στην τελευταία θέση.",
+    "answer": "Σύρσιμο πεδίου στην τελευταία θέση → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 17,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Κανόνας επικύρωσης ≥0 στο Ημερομίσθιο.",
+    "answer": "Κανόνας επικύρωσης: >=0 → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 18,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Πώς ονομάζονται οι στήλες πίνακα;",
+    "answer": "Ονομάζονται πεδία."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 19,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Δημιουργία ερωτήματος ΜΗΤΡΩΟ ΕΞΕΤΑΣΤΩΝ.",
+    "answer": "Δημιουργία → Ερώτημα → επιλογή πεδίων Όνομα και Επώνυμο → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 20,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Ετικέτα ΣΤΟΙΧΕΙΑ ΕΡΓΑΖΟΜΕΝΟΥ στην έκθεση.",
+    "answer": "Προβολή σχεδίασης έκθεσης → Ετικέτα → πληκτρολόγηση → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 21,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Διαγραφή ερωτήματος Τηλέφωνα εκπαιδευτών.",
+    "answer": "Δεξί κλικ στο ερώτημα → Διαγραφή."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 22,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Προβολή Προεπισκόπησης εκτύπωσης.",
+    "answer": "Επιλογή Προεπισκόπηση εκτύπωσης."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 23,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Σχέση ένα-προς-πολλά χωρίς ακεραιότητα.",
+    "answer": "Εργαλεία βάσης → Σχέσεις → σύνδεση πεδίων χωρίς ακεραιότητα."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 24,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Ενεργοποίηση ακεραιότητας αναφοράς.",
+    "answer": "Άνοιγμα σχέσης → ενεργοποίηση ακεραιότητας → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 25,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Μετακίνηση διαφανειών 3 και 4 στην αρχή.",
+    "answer": "Επιλογή διαφανειών → σύρσιμο στην πρώτη θέση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 26,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Ρύθμιση ζουμ στο 33%.",
+    "answer": "Χρήση ρυθμιστικού ζουμ → 33%."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 27,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Συμπαγές γέμισμα φόντου σε 2 & 3.",
+    "answer": "Επιλογή διαφανειών → Μορφοποίηση φόντου → Συμπαγές γέμισμα."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 28,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Αντιγραφή 3ης διαφάνειας στο τέλος.",
+    "answer": "Δεξί κλικ στη διαφάνεια → Αντιγραφή → Επικόλληση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 29,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Διαγραφή μόνο 6ης διαφάνειας.",
+    "answer": "Επιλογή 6ης διαφάνειας → Delete."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 30,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Αύξηση μεγέθους σχήματος 4ης διαφάνειας.",
+    "answer": "Σύρσιμο λαβών προς τα έξω."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 31,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Διαγραφή μόνο κειμένου τίτλου 1ης.",
+    "answer": "Επιλογή κειμένου τίτλου → Delete."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 32,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Διάταξη Μόνο τίτλος σε 1 & 2.",
+    "answer": "Επιλογή διαφανειών → Διάταξη → Μόνο τίτλος."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 33,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Κλείσιμο παρουσίασης GC_Intermediate2.",
+    "answer": "Αρχείο → Κλείσιμο (όχι έξοδος εφαρμογής)."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 34,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Περιστροφή 45° σχήματος 6ης.",
+    "answer": "Μορφοποίηση → Περιστροφή → 45°."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 35,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Κείμενο ΠΛΗΡΟΦΟΡΙΚΗ στο οργανόγραμμα.",
+    "answer": "Κλικ στο αριστερό σχήμα → πληκτρολόγηση κειμένου."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-3.docx",
+    "test": "EXPRESS B - TEST 3 – Global Cert",
+    "number": 36,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Αλλαγή τύπου γραφήματος σε Δακτύλιος.",
+    "answer": "Αλλαγή τύπου γραφήματος → Δακτύλιος."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 1,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Στείλτε στον Κάδο Ανακύκλωσης όλα τα στοιχεία του φακέλου Φωτό της επιφάνειας εργασίας.",
+    "answer": "Ανοίγουμε το φάκελο Φωτό, επιλέγουμε όλα τα στοιχεία (Ctrl+A) και πατάμε Delete."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 2,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Κυλίστε κάθετα προς οποιαδήποτε κατεύθυνση στο τρέχον παράθυρο.",
+    "answer": "Χρησιμοποιούμε την κάθετη γραμμή κύλισης."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 3,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Ακυρώστε την τρέχουσα εργασία εκτύπωσης στον Demo Printer.",
+    "answer": "Άνοιγμα ουράς εκτυπωτή → δεξί κλικ στην εργασία → Ακύρωση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 4,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Μετακινήστε ΜΟΝΟ το αρχείο Περιβόλι στο φάκελο Συντομεύσεις.",
+    "answer": "Αποκοπή αρχείου Περιβόλι και επικόλληση στο φάκελο Συντομεύσεις."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 5,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Μετονομάστε το αρχείο global πιστοποίηση σε GC_INTERMEDIATE.",
+    "answer": "Δεξί κλικ στο αρχείο → Μετονομασία → GC_INTERMEDIATE."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 6,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Ένας ιός μπορεί να εξαπλωθεί…",
+    "answer": "Μέσω αρχείων, email, δικτύου ή αφαιρούμενων μέσων."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 7,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Επιλέξτε τα αρχεία GC_Master και Φυτά από το Photo.",
+    "answer": "Κρατάμε πατημένο Ctrl και κάνουμε κλικ στα δύο αρχεία."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 8,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Ρυθμίστε την ώρα του υπολογιστή σε 23:30.",
+    "answer": "Δεξί κλικ στην ώρα → Ρύθμιση ημερομηνίας/ώρας → αλλαγή ώρας."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 9,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Επαναφέρετε το φάκελο Ευθύτητα από τον Κάδο Ανακύκλωσης.",
+    "answer": "Άνοιγμα Κάδου → δεξί κλικ στο φάκελο → Επαναφορά."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 10,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Εισάγετε το μέγεθος σε bytes του αρχείου global πιστοποίηση.",
+    "answer": "Δεξί κλικ στο αρχείο → Ιδιότητες → ανάγνωση μεγέθους σε bytes."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 11,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Ανοίξτε το αρχείο global πιστοποίηση με WordPad.",
+    "answer": "Δεξί κλικ → Άνοιγμα με → WordPad."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 12,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Αυξήστε στο μέγιστο το παράθυρο Σημειώσεις.",
+    "answer": "Κλικ στο κουμπί μεγιστοποίησης."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 13,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Μετακινήστε το πεδίο Γέννηση στην 3η θέση.",
+    "answer": "Σύρσιμο κεφαλίδας πεδίου στην 3η θέση και αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 14,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Δημιουργήστε έκθεση ΕΝΕΡΓΟΙ ΚΑΙ ΜΗ ΕΞΕΤΑΣΤΕΣ.",
+    "answer": "Οδηγός έκθεσης → επιλογή πίνακα Εξεταστές → ομαδοποίηση βάσει Ενεργός → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 15,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Κλείστε την τρέχουσα βάση δεδομένων χωρίς έξοδο από την εφαρμογή.",
+    "answer": "Αρχείο → Κλείσιμο."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 16,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Διαγράψτε το πεδίο Εγγραφή.",
+    "answer": "Επιλογή πεδίου → Delete → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 17,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Δημιουργήστε σχέση ένα-προς-ένα χωρίς ακεραιότητα.",
+    "answer": "Εργαλεία βάσης → Σχέσεις → σύνδεση πεδίων χωρίς ακεραιότητα."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 18,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Δημιουργήστε σχέση ένα-προς-πολλά χωρίς ακεραιότητα.",
+    "answer": "Σχέσεις → σύνδεση πεδίων χωρίς ενεργοποίηση ακεραιότητας."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 19,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Διαγράψτε την έκθεση Κατάσταση Υπαλλήλων.",
+    "answer": "Δεξί κλικ στην έκθεση → Διαγραφή."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 20,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Αλλάξτε ετικέτα σε ΣΤΟΙΧΕΙΑ ΥΠΑΛΛΗΛΟΥ.",
+    "answer": "Προβολή σχεδίασης φόρμας → αλλαγή κειμένου ετικέτας → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 21,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Δημιουργήστε ετικέτα ΤΕΛΟΣ ΚΑΡΤΕΛΑΣ στο Υποσέλιδο φόρμας Υποψήφιοι.",
+    "answer": "Προβολή σχεδίασης → Ετικέτα → πληκτρολόγηση → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 22,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Τροποποιήστε την πόλη σε ΘΗΒΑ όπου Κωδικός=2.",
+    "answer": "Εντοπισμός εγγραφής → αλλαγή τιμής Πόλη → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 23,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Δημιουργήστε έκθεση ΕΞΕΤΑΣΤΕΣ ΑΝΑ ΠΟΛΗ.",
+    "answer": "Οδηγός έκθεσης → ομαδοποίηση κατά Πόλη → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 24,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Διαγράψτε τον πίνακα Επικ_Εξετ.",
+    "answer": "Δεξί κλικ στον πίνακα → Διαγραφή."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 25,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Εισάγετε σημειώσεις ομιλητή στην 8η διαφάνεια.",
+    "answer": "Προβολή σημειώσεων → πληκτρολόγηση κειμένου."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 26,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Αποκρύψτε τις διαφάνειες 4 και 5.",
+    "answer": "Δεξί κλικ στις διαφάνειες → Απόκρυψη διαφάνειας."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 27,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Εισάγετε αριθμό διαφάνειας στις 1 και 4.",
+    "answer": "Εισαγωγή → Αριθμός διαφάνειας → εφαρμογή μόνο στις ζητούμενες."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 28,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Προσαρμόστε διαφάνειες για Α3.",
+    "answer": "Σχεδίαση → Μέγεθος διαφάνειας → A3."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 29,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Διαγράψτε μόνο την 3η διαφάνεια.",
+    "answer": "Επιλογή 3ης διαφάνειας → Delete."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 30,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Προσθέστε ΠΛΗΡΟΦΟΡΙΚΗ στο οργανόγραμμα 9ης.",
+    "answer": "Κλικ στο αριστερό σχήμα → πληκτρολόγηση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 31,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Ρυθμίστε οργανόγραμμα 11εκ x 14εκ χωρίς κλείδωμα.",
+    "answer": "Μορφοποίηση → Μέγεθος → ορισμός διαστάσεων."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 32,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Εισάγετε αριθμό διαφάνειας στις 2 και 3.",
+    "answer": "Εισαγωγή → Αριθμός διαφάνειας → επιλογή συγκεκριμένων."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 33,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Πλάγια γραφή και χρώμα στον τίτλο 4ης.",
+    "answer": "Αλλαγή χρώματος γραμματοσειράς και πλάγια μορφή."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 34,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Αντιγράψτε μόνο το κείμενο τίτλου 2ης στη 6η.",
+    "answer": "Επιλογή κειμένου → Αντιγραφή → Επικόλληση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 35,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Αλλάξτε τίτλο 3ης σε ΘΕΜΑΤΙΚΑ ΠΕΔΙΑ.",
+    "answer": "Κλικ στον τίτλο → πληκτρολόγηση νέου κειμένου."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-4.docx",
+    "test": "EXPRESS B - TEST 4 – Global Cert",
+    "number": 36,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Μειώστε το μέγεθος σχήματος 4ης.",
+    "answer": "Σύρσιμο λαβών σχήματος προς τα μέσα."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 1,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Συνεχίστε την εκτύπωση του εγγράφου Στέγη στον εκτυπωτή Demo Printer.",
+    "answer": "Άνοιγμα ουράς εκτυπωτή → επιλογή της εργασίας → Συνέχιση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 2,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Προσθέτοντας αρχεία σε συμπιεσμένο φάκελο και διαγράφοντας τα αρχικά αρχεία…",
+    "answer": "Τα αρχεία εξακολουθούν να υπάρχουν μέσα στο συμπιεσμένο φάκελο."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 3,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Πληκτρολογήστε το πλήθος των φακέλων του picture στην επιφάνεια εργασίας.",
+    "answer": "Μετράμε τους φακέλους και πληκτρολογούμε τον αντίστοιχο αριθμό."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 4,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Απενεργοποιήστε το χαρακτηριστικό Μόνο για ανάγνωση του αρχείου Στέγη.",
+    "answer": "Δεξί κλικ στο αρχείο → Ιδιότητες → απενεργοποίηση Μόνο για ανάγνωση → OK."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 5,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Αντιγράψτε ΜΟΝΟ το φάκελο Ζώα στο C:\\exams\\Application.",
+    "answer": "Δεξί κλικ στο φάκελο → Αντιγραφή → επικόλληση στο Application."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 6,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Για να εκκινήσει ένας ηλεκτρονικός υπολογιστής πρέπει να πατήσουμε…",
+    "answer": "Το πλήκτρο ενεργοποίησης (Power)."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 7,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Ανοίξτε το πρόσφατα ανοιγμένο έγγραφο GC_ΓΙΑΤΙ.",
+    "answer": "Αρχείο → Άνοιγμα → Πρόσφατα → επιλογή GC_ΓΙΑΤΙ."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 8,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Μετονομάστε το αρχείο global πιστοποίηση σε GC_INTERMEDIATE.",
+    "answer": "Δεξί κλικ στο αρχείο → Μετονομασία → GC_INTERMEDIATE."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 9,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Δημιουργήστε συντόμευση του φακέλου Προγράμματα στην επιφάνεια εργασίας.",
+    "answer": "Δεξί κλικ στο φάκελο → Δημιουργία συντόμευσης → μεταφορά στην επιφάνεια εργασίας."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 10,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Ακυρώστε την τρέχουσα εργασία εκτύπωσης στον Demo Printer.",
+    "answer": "Άνοιγμα ουράς εκτυπωτή → δεξί κλικ στην εργασία → Ακύρωση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 11,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Στείλτε στον Κάδο Ανακύκλωσης όλα τα στοιχεία του φακέλου Προγράμματα.",
+    "answer": "Άνοιγμα φακέλου → Ctrl+A → Delete."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 12,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Ορίστε τον Global Cert Printer ως προεπιλεγμένο.",
+    "answer": "Ρυθμίσεις → Εκτυπωτές → δεξί κλικ στον Global Cert Printer → Ορισμός ως προεπιλεγμένος."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 13,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Διαγράψτε το πεδίο Όνομα του τρέχοντος πίνακα.",
+    "answer": "Επιλογή πεδίου → Delete → Αποθήκευση πίνακα."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 14,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Μετακινήστε το πεδίο Ωρομίσθιο στην 4η θέση.",
+    "answer": "Σύρσιμο πεδίου στην 4η θέση → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 15,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Εισάγετε εγγραφή (ΓΕΩΡΓΙΟΣ, 33).",
+    "answer": "Πληκτρολόγηση δεδομένων στη νέα εγγραφή και αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 16,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Ανοίξτε τη βάση δεδομένων Υποψήφιοι χωρίς κλείσιμο εφαρμογής.",
+    "answer": "Αρχείο → Άνοιγμα → επιλογή βάσης Υποψήφιοι."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 17,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Ενεργοποιήστε ακεραιότητα αναφοράς μεταξύ πινάκων.",
+    "answer": "Άνοιγμα σχέσης → ενεργοποίηση ακεραιότητας → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 18,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Τροποποιήστε την ετικέτα σε ΤΕΛΟΣ ΚΑΡΤΩΝ.",
+    "answer": "Προβολή σχεδίασης έκθεσης → αλλαγή κειμένου ετικέτας → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 19,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Δημιουργήστε ετικέτα ΣΤΟΙΧΕΙΑ ΕΡΓΑΖΟΜΕΝΟΥ στη φόρμα Εργαζόμενοι.",
+    "answer": "Προβολή σχεδίασης φόρμας → Ετικέτα → πληκτρολόγηση → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 20,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Μεταβείτε σε προεπισκόπηση εκτύπωσης πίνακα Εξεταστές.",
+    "answer": "Άνοιγμα πίνακα → Προεπισκόπηση εκτύπωσης."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 21,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Ορίστε κανόνα επικύρωσης >0 στο πεδίο Εξέταστρα.",
+    "answer": "Κανόνας επικύρωσης: >0 → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 22,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Μεταβείτε στη 12η εγγραφή μέσω φόρμας Εκπαιδευτές.",
+    "answer": "Χρήση κουμπιών πλοήγησης εγγραφών."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 23,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Δημιουργήστε ετικέτα ΤΕΛΟΣ ΚΑΡΤΕΛΑΣ στην έκθεση Υποψήφιοι.",
+    "answer": "Προβολή σχεδίασης έκθεσης → Ετικέτα → πληκτρολόγηση → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 24,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Δημιουργήστε έκθεση ΕΚΘΕΣΗ ΕΞΕΤΑΣΤΩΝ.",
+    "answer": "Δημιουργία → Έκθεση → επιλογή πίνακα Ταυτ_Εξετ → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 25,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Ρυθμίστε σχήμα 1ης διαφάνειας σε 5εκ x 5εκ.",
+    "answer": "Μορφοποίηση → Μέγεθος → ορισμός διαστάσεων."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 26,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Μετακινήστε μόνο το κείμενο τίτλου από 1η στη 2η.",
+    "answer": "Επιλογή κειμένου → Αποκοπή → Επικόλληση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 27,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Εισάγετε αριθμό διαφάνειας στις 1 και 2.",
+    "answer": "Εισαγωγή → Αριθμός διαφάνειας → εφαρμογή στις ζητούμενες."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 28,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Προσαρμόστε διαφάνειες για 35 χιλ.",
+    "answer": "Σχεδίαση → Μέγεθος διαφάνειας → 35 χιλιοστά."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 29,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Εισάγετε υποσέλιδο μόνο στις διαφάνειες 1 και 4.",
+    "answer": "Εισαγωγή → Υποσέλιδο → επιλογή συγκεκριμένων διαφανειών."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 30,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Μετακινήστε τις διαφάνειες 3 και 4 στο τέλος.",
+    "answer": "Επιλογή διαφανειών → σύρσιμο στο τέλος."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 31,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Αλλάξτε διάταξη σε Κενή για όλες τις διαφάνειες.",
+    "answer": "Επιλογή όλων → Διάταξη → Κενή."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 32,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Κεντράρετε το κείμενο της 2ης διαφάνειας.",
+    "answer": "Επιλογή κειμένου → Στοίχιση στο κέντρο."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 33,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Ορίστε διάστημα ΜΕΤΑ 12 στ.",
+    "answer": "Μορφοποίηση παραγράφου → Διάστημα μετά: 12 στ."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 34,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Αντιγράψτε το πλαίσιο τίτλου από 1η στη 10η.",
+    "answer": "Επιλογή πλαισίου → Αντιγραφή → Επικόλληση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 35,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Μετακινήστε σχήμα από 7η στη 12η διαφάνεια.",
+    "answer": "Αποκοπή σχήματος → επικόλληση στη 12η."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-5.docx",
+    "test": "EXPRESS B - TEST 5 – Global Cert",
+    "number": 36,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Ανοίξτε την παρουσίαση GC_Advanced χωρίς κλείσιμο εφαρμογής.",
+    "answer": "Αρχείο → Άνοιγμα → επιλογή GC_Advanced."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 1,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Μετονομάστε σε ΦΩΤΟ το φάκελο picture της επιφάνειας εργασίας.",
+    "answer": "Δεξί κλικ στο φάκελο picture → Μετονομασία → ΦΩΤΟ."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 2,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Αντιγράψτε όλα τα στοιχεία του C:\\exams\\Συντομεύσεις στο C:\\exams\\picture.",
+    "answer": "Άνοιγμα φακέλου → Ctrl+A → Αντιγραφή → επικόλληση στο C:\\exams\\picture."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 3,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Η απεγκατάσταση εκτυπωτή στα Windows βρίσκεται στην κατηγορία…",
+    "answer": "Συσκευές και εκτυπωτές (Πίνακας Ελέγχου)."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 4,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Διαγράψτε ΟΡΙΣΤΙΚΑ το φάκελο Συντομεύσεις από τον Κάδο Ανακύκλωσης.",
+    "answer": "Άνοιγμα Κάδου → δεξί κλικ στο φάκελο → Διαγραφή."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 5,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Ορίστε ως προφύλαξη οθόνης το Κείμενο 3Δ.",
+    "answer": "Ρυθμίσεις οθόνης → Προφύλαξη οθόνης → Κείμενο 3Δ → Εφαρμογή."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 6,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Πληκτρολογήστε το πλήθος των αρχείων του φακέλου picture.",
+    "answer": "Μετράμε τα αρχεία του φακέλου και πληκτρολογούμε τον αριθμό."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 7,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Μετονομάστε το αρχείο Προαύλιο σε ΦΥΤΑ.",
+    "answer": "Δεξί κλικ στο αρχείο → Μετονομασία → ΦΥΤΑ."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 8,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Κυλίστε τέρμα επάνω το τρέχον παράθυρο.",
+    "answer": "Μετακίνηση κάθετης γραμμής κύλισης προς τα επάνω."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 9,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Μετονομάστε σε ΠΡΟΣΩΠΙΚΟΤΗΤΕΣ το φάκελο Άτομα.",
+    "answer": "Δεξί κλικ στο φάκελο → Μετονομασία → ΠΡΟΣΩΠΙΚΟΤΗΤΕΣ."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 10,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Ελαττώστε το ύψος του παραθύρου Σημειώσεις.",
+    "answer": "Σύρσιμο άνω ή κάτω περιγράμματος του παραθύρου."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 11,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Κυλίστε οριζόντια στο παράθυρο Σημειώσεις.",
+    "answer": "Χρήση της οριζόντιας γραμμής κύλισης."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 12,
+    "module": "Windows/Αρχεία/Εκτυπώσεις",
+    "question": "Δημιουργήστε συμπιεσμένο φάκελο ΣΥΜΠΙΕΣΗ με το picture.",
+    "answer": "Δεξί κλικ → Νέος → Συμπιεσμένος φάκελος → προσθήκη picture."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 13,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Προεπισκόπηση εκτύπωσης φόρμας Λεπτ_Υποψ.",
+    "answer": "Άνοιγμα φόρμας → Προεπισκόπηση εκτύπωσης."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 14,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Φίλτρο Δίδακτρα > 560 μέσω φόρμας.",
+    "answer": "Σύνθετο φίλτρο → πεδίο Δίδακτρα > 560 → εφαρμογή."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 15,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Διαγράψτε το ερώτημα Τηλέφωνα εξεταστών.",
+    "answer": "Δεξί κλικ στο ερώτημα → Διαγραφή."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 16,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Έκθεση ΕΞΕΤΑΣΤΕΣ ΗΛΙΚΙΑΚΑ.",
+    "answer": "Οδηγός έκθεσης → ταξινόμηση κατά Γέννηση φθίνουσα → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 17,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Έκθεση ΕΚΠΑΙΔΕΥΤΕΣ ΑΝΑ ΠΟΛΗ.",
+    "answer": "Οδηγός έκθεσης → ομαδοποίηση κατά Πόλη → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 18,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Ταξινόμηση Ωρομίσθιο αύξουσα μέσω φόρμας.",
+    "answer": "Επιλογή πεδίου Ωρομίσθιο → Αύξουσα ταξινόμηση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 19,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Εισαγωγή εγγραφής ΘΕΣΣΑΛΟΝΙΚΗ, 42.",
+    "answer": "Καταχώρηση δεδομένων και αποθήκευση εγγραφής."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 20,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Άνοιγμα βάσης Εξεταζόμενοι χωρίς κλείσιμο εφαρμογής.",
+    "answer": "Αρχείο → Άνοιγμα → επιλογή βάσης Εξεταζόμενοι."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 21,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Εισαγωγή εγγραφής ΘΕΣΣΑΛΟΝΙΚΗ, 11/11/2002.",
+    "answer": "Πληκτρολόγηση δεδομένων και αποθήκευση εγγραφής."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 22,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Δημιουργία φόρμας ΦΟΡΜΑ ΕΞΕΤΑΣΤΩΝ.",
+    "answer": "Δημιουργία → Φόρμα → επιλογή πίνακα Στοιχ_Εξετ → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 23,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Μετακινήστε το πεδίο Γέννηση στην πρώτη θέση.",
+    "answer": "Σύρσιμο πεδίου στην πρώτη θέση → Αποθήκευση."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 24,
+    "module": "Access/Βάσεις δεδομένων",
+    "question": "Προβολή Φύλλου δεδομένων ερωτήματος.",
+    "answer": "Εναλλαγή προβολής → Φύλλο δεδομένων."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 25,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Στοίχιση αριστερά στο κείμενο 2ης διαφάνειας.",
+    "answer": "Επιλογή κειμένου → Στοίχιση αριστερά."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 26,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Προσαρμογή διαφανειών σε Letter.",
+    "answer": "Σχεδίαση → Μέγεθος διαφάνειας → Letter."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 27,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Διάταξη Προεξοχή στα αριστερά στο οργανόγραμμα.",
+    "answer": "Επιλογή σχήματος → αλλαγή διάταξης σε Προεξοχή στα αριστερά."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 28,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Περιστροφή 45° σχήματος 6ης.",
+    "answer": "Μορφοποίηση → Περιστροφή → 45°."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 29,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Αύξηση εικόνας 5ης στο 130%.",
+    "answer": "Μορφοποίηση εικόνας → Κλίμακα 130%."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 30,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Στοίχιση αριστερά στον τίτλο 1ης.",
+    "answer": "Επιλογή τίτλου → Στοίχιση αριστερά."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 31,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Διάταξη Διαφάνεια τίτλου σε όλες.",
+    "answer": "Επιλογή όλων → Διάταξη → Διαφάνεια τίτλου."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 32,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Ορθογραφικός έλεγχος εκκινεί με…",
+    "answer": "Το πλήκτρο F7."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 33,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Ζουμ στο 100%.",
+    "answer": "Ρύθμιση ποσοστού ζουμ σε 100%."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 34,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Μετακίνηση σχήματος 1ης στη 11η.",
+    "answer": "Αποκοπή σχήματος → επικόλληση στη 11η."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 35,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Μετακίνηση γραφήματος 7ης στη 11η.",
+    "answer": "Αποκοπή γραφήματος → επικόλληση στη 11η."
+  },
+  {
+    "archive": "B",
+    "file": "B/TEST-6.docx",
+    "test": "EXPRESS B - TEST 6 – Global Cert",
+    "number": 36,
+    "module": "PowerPoint/Παρουσιάσεις",
+    "question": "Αλλαγή διάταξης 3ης σε Περιεχόμενο με λεζάντα.",
+    "answer": "Διάταξη διαφάνειας → Περιεχόμενο με λεζάντα."
+  }
+]
