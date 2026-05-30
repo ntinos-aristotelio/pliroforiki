@@ -24,6 +24,19 @@ window.WORD_APP_CONTENT = {
         "Για καλύτερη εμφάνιση ελέγχουμε και το διάστιχο."
       ]
     },
+
+    {
+      id: "lesson-review-spelling",
+      title: "Ορθογραφικός έλεγχος",
+      category: "Αναθεώρηση",
+      image: "assets/word/anatheorisi-orthografikos-elegxos.png",
+      summary: "Μαθαίνουμε πού βρίσκεται ο ορθογραφικός και γραμματικός έλεγχος, ο θησαυρός και η καταμέτρηση λέξεων στην καρτέλα Αναθεώρηση.",
+      steps: [
+        "Πηγαίνουμε στην καρτέλα Αναθεώρηση.",
+        "Στην ομάδα Γλωσσικός έλεγχος πατάμε Ορθογραφικός και γραμματικός έλεγχος.",
+        "Από την ίδια περιοχή μπορούμε να χρησιμοποιήσουμε Θησαυρό ή Καταμέτρηση λέξεων."
+      ]
+    },
     {
       id: "lesson-table",
       title: "Εισαγωγή πίνακα",
@@ -251,6 +264,79 @@ window.WORD_APP_CONTENT = {
       hint: "Η ομάδα Παράγραφος είναι δεξιά από τη Γραμματοσειρά και περιέχει στοίχιση, κουκκίδες και αρίθμηση.",
       successMessage: "Σωστά! Από την ομάδα Παράγραφος αλλάζουμε τη μορφή των παραγράφων και των λιστών.",
       errorMessage: "Όχι ακριβώς. Η Παράγραφος είναι η δεξιά μεγάλη ομάδα στην καρτέλα Κεντρική."
+    },
+
+    {
+      id: "word-hotspot-review-tab",
+      type: "hotspot",
+      title: "Βρες την καρτέλα Αναθεώρηση",
+      category: "Αναθεώρηση",
+      image: "assets/word/anatheorisi-orthografikos-elegxos.png",
+      imageWidth: 853,
+      imageHeight: 176,
+      compact: true,
+      question: "Πάτησε στην καρτέλα Αναθεώρηση στο επάνω μέρος του Word.",
+      correctArea: { x: 620, y: 50, width: 95, height: 30 },
+      hint: "Η Αναθεώρηση βρίσκεται στη γραμμή καρτελών, μετά από τα Στοιχεία αλληλογραφίας και πριν από την Προβολή.",
+      successMessage: "Σωστά! Από την καρτέλα Αναθεώρηση βρίσκουμε εργαλεία ελέγχου κειμένου, σχολίων και γλώσσας.",
+      errorMessage: "Όχι ακριβώς. Η καρτέλα Αναθεώρηση είναι στο επάνω μέρος και είναι υπογραμμισμένη στην εικόνα."
+    },
+    {
+      id: "word-hotspot-spelling-check",
+      type: "hotspot",
+      title: "Ορθογραφικός και γραμματικός έλεγχος",
+      category: "Αναθεώρηση",
+      image: "assets/word/anatheorisi-orthografikos-elegxos.png",
+      imageWidth: 853,
+      imageHeight: 176,
+      compact: true,
+      question: "Πάτησε στην εντολή για ορθογραφικό και γραμματικό έλεγχο.",
+      correctArea: { x: 78, y: 82, width: 238, height: 25 },
+      hint: "Βρίσκεται στην ομάδα Γλωσσικός έλεγχος, δίπλα στο μεγάλο εικονίδιο Επιμέλεια.",
+      successMessage: "Σωστά! Με τον ορθογραφικό και γραμματικό έλεγχο εντοπίζουμε λάθη στο κείμενο.",
+      errorMessage: "Όχι ακριβώς. Η εντολή βρίσκεται αριστερά, στην ομάδα Γλωσσικός έλεγχος."
+    },
+    {
+      id: "word-hotspot-thesaurus",
+      type: "hotspot",
+      title: "Θησαυρός",
+      category: "Αναθεώρηση",
+      image: "assets/word/anatheorisi-orthografikos-elegxos.png",
+      imageWidth: 853,
+      imageHeight: 176,
+      compact: true,
+      question: "Πάτησε στην επιλογή Θησαυρός.",
+      correctArea: { x: 78, y: 106, width: 92, height: 24 },
+      hint: "Είναι η δεύτερη επιλογή κάτω από τον ορθογραφικό έλεγχο.",
+      successMessage: "Σωστά! Ο Θησαυρός βοηθά στην αναζήτηση συνώνυμων και σχετικών λέξεων.",
+      errorMessage: "Όχι ακριβώς. Ο Θησαυρός είναι στη λίστα της ομάδας Γλωσσικός έλεγχος."
+    },
+    {
+      id: "word-hotspot-word-count",
+      type: "hotspot",
+      title: "Καταμέτρηση λέξεων",
+      category: "Αναθεώρηση",
+      image: "assets/word/anatheorisi-orthografikos-elegxos.png",
+      imageWidth: 853,
+      imageHeight: 176,
+      compact: true,
+      question: "Πάτησε στην επιλογή που δείχνει πόσες λέξεις έχει το έγγραφο.",
+      correctArea: { x: 78, y: 132, width: 145, height: 24 },
+      hint: "Ψάξε την επιλογή Καταμέτρηση λέξεων κάτω από τον Θησαυρό.",
+      successMessage: "Σωστά! Η Καταμέτρηση λέξεων εμφανίζει πληροφορίες όπως λέξεις, χαρακτήρες και σελίδες.",
+      errorMessage: "Όχι ακριβώς. Η Καταμέτρηση λέξεων βρίσκεται κάτω από τον Θησαυρό."
+    },
+    {
+      id: "word-choice-spelling-tab",
+      type: "choice",
+      title: "Σε ποια καρτέλα κάνω ορθογραφικό έλεγχο;",
+      category: "Αναθεώρηση",
+      image: "assets/word/anatheorisi-orthografikos-elegxos.png",
+      compact: true,
+      question: "Θέλεις να κάνεις ορθογραφικό και γραμματικό έλεγχο στο έγγραφο. Ποια καρτέλα επιλέγεις;",
+      options: ["Κεντρική", "Εισαγωγή", "Αναθεώρηση", "Προβολή"],
+      answer: 2,
+      explanation: "Ο ορθογραφικός και γραμματικός έλεγχος βρίσκεται στην καρτέλα Αναθεώρηση, στην ομάδα Γλωσσικός έλεγχος."
     },
     {
       id: "word-choice-insert-table",

@@ -87,7 +87,7 @@ function renderHome() {
     <section class="view-panel">
       <p class="section-kicker">Αρχική</p>
       <h2>Ξεκινάμε με το Word</h2>
-      <p class="muted">Η εφαρμογή έχει πραγματικές εικόνες από το Word για Κεντρική, Παράγραφο, Εισαγωγή, Πίνακα, Εικόνες και Εκτύπωση. Το υλικό θα μεγαλώνει σταδιακά με νέα screenshots και ασκήσεις.</p>
+      <p class="muted">Η εφαρμογή έχει πραγματικές εικόνες από το Word για Κεντρική, Παράγραφο, Εισαγωγή, Πίνακα, Εικόνες, Αποθήκευση, Αναθεώρηση και Εκτύπωση. Το υλικό θα μεγαλώνει σταδιακά με νέα screenshots και ασκήσεις.</p>
       <div class="grid three" style="margin-top:18px">
         <button class="card-link" data-go="learn">
           <strong>Μαθαίνω</strong>
