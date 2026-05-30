@@ -61,6 +61,18 @@ window.WORD_APP_CONTENT = {
       ]
     },
     {
+      id: "lesson-save-as",
+      title: "Αποθήκευση ως",
+      category: "Αρχείο",
+      image: "assets/word/arxio-apothikeusi-os.svg",
+      summary: "Μαθαίνουμε πώς αποθηκεύουμε ένα έγγραφο με νέο όνομα, σε διαφορετική θέση ή με διαφορετικό τύπο αρχείου.",
+      steps: [
+        "Πατάμε Αρχείο και επιλέγουμε Αποθήκευση ως.",
+        "Διαλέγουμε θέση αποθήκευσης, όπως OneDrive ή Αυτός ο υπολογιστής.",
+        "Πληκτρολογούμε το όνομα του αρχείου και ελέγχουμε τον τύπο, για παράδειγμα Έγγραφο του Word (*.docx)."
+      ]
+    },
+    {
       id: "lesson-print",
       title: "Εκτύπωση εγγράφου",
       category: "Αρχείο",
@@ -511,11 +523,92 @@ window.WORD_APP_CONTENT = {
       errorMessage: "Όχι ακριβώς. Η προεπισκόπηση είναι η μεγάλη σελίδα στη δεξιά πλευρά της οθόνης."
     },
     {
+      id: "word-hotspot-save-as-menu",
+      type: "hotspot",
+      title: "Βρες την Αποθήκευση ως",
+      category: "Αποθήκευση",
+      image: "assets/word/arxio-apothikeusi-os.svg",
+      imageWidth: 1297,
+      imageHeight: 835,
+      question: "Πάτησε στην επιλογή Αποθήκευση ως στο αριστερό μενού του Word.",
+      correctArea: { x: 0, y: 349, width: 160, height: 39 },
+      hint: "Βρίσκεται στο αριστερό μενού της οθόνης Αρχείο, κάτω από την Αποθήκευση και πάνω από την Εκτύπωση.",
+      successMessage: "Σωστά! Από την Αποθήκευση ως αποθηκεύουμε το έγγραφο με νέο όνομα, θέση ή τύπο αρχείου.",
+      errorMessage: "Όχι ακριβώς. Κοίτα στο αριστερό μενού, στην επιλογή Αποθήκευση ως."
+    },
+    {
+      id: "word-hotspot-save-as-filename",
+      type: "hotspot",
+      title: "Όνομα αρχείου",
+      category: "Αποθήκευση",
+      image: "assets/word/arxio-apothikeusi-os.svg",
+      imageWidth: 1297,
+      imageHeight: 835,
+      question: "Πάτησε στο πεδίο όπου πληκτρολογούμε το όνομα του αρχείου.",
+      correctArea: { x: 516, y: 141, width: 651, height: 25 },
+      hint: "Είναι το επάνω λευκό πλαίσιο που γράφει ότι πληκτρολογούμε εδώ το όνομα του αρχείου.",
+      successMessage: "Σωστά! Σε αυτό το πεδίο δίνουμε το όνομα με το οποίο θα αποθηκευτεί το έγγραφο.",
+      errorMessage: "Όχι ακριβώς. Το όνομα αρχείου γράφεται στο πρώτο λευκό πλαίσιο επάνω δεξιά."
+    },
+    {
+      id: "word-hotspot-save-as-type",
+      type: "hotspot",
+      title: "Τύπος αρχείου",
+      category: "Αποθήκευση",
+      image: "assets/word/arxio-apothikeusi-os.svg",
+      imageWidth: 1297,
+      imageHeight: 835,
+      question: "Πάτησε στο πεδίο από όπου επιλέγουμε τον τύπο του αρχείου, όπως .docx ή PDF.",
+      correctArea: { x: 516, y: 169, width: 651, height: 25 },
+      hint: "Είναι το δεύτερο λευκό πλαίσιο, κάτω από το όνομα αρχείου.",
+      successMessage: "Σωστά! Από εδώ επιλέγουμε τη μορφή αποθήκευσης του αρχείου.",
+      errorMessage: "Όχι ακριβώς. Ο τύπος αρχείου βρίσκεται στο δεύτερο λευκό πλαίσιο, κάτω από το όνομα."
+    },
+    {
+      id: "word-hotspot-save-as-this-pc",
+      type: "hotspot",
+      title: "Αποθήκευση στον υπολογιστή",
+      category: "Αποθήκευση",
+      image: "assets/word/arxio-apothikeusi-os.svg",
+      imageWidth: 1297,
+      imageHeight: 835,
+      question: "Πάτησε στην επιλογή Αυτός ο υπολογιστής για αποθήκευση σε τοπικό φάκελο.",
+      correctArea: { x: 205, y: 655, width: 230, height: 40 },
+      hint: "Βρίσκεται στην αριστερή περιοχή, κάτω από τις επιλογές κοινής χρήσης.",
+      successMessage: "Σωστά! Με το Αυτός ο υπολογιστής αποθηκεύουμε σε φάκελο του υπολογιστή μας.",
+      errorMessage: "Όχι ακριβώς. Ψάξε την επιλογή Αυτός ο υπολογιστής στην αριστερή περιοχή."
+    },
+    {
+      id: "word-hotspot-save-as-new-folder",
+      type: "hotspot",
+      title: "Νέος φάκελος",
+      category: "Αποθήκευση",
+      image: "assets/word/arxio-apothikeusi-os.svg",
+      imageWidth: 1297,
+      imageHeight: 835,
+      question: "Πάτησε στο κουμπί για δημιουργία νέου φακέλου.",
+      correctArea: { x: 516, y: 303, width: 114, height: 29 },
+      hint: "Το κουμπί γράφει Νέος φάκελος και βρίσκεται κάτω από τις επιλογές αποθήκευσης.",
+      successMessage: "Σωστά! Από το κουμπί Νέος φάκελος μπορούμε να δημιουργήσουμε νέο φάκελο πριν αποθηκεύσουμε.",
+      errorMessage: "Όχι ακριβώς. Το κουμπί Νέος φάκελος βρίσκεται κάτω από τις επιλογές, πάνω από τη λίστα φακέλων."
+    },
+    {
+      id: "word-choice-save-as-type",
+      type: "choice",
+      title: "Αποθήκευση σε PDF",
+      category: "Αποθήκευση",
+      image: "assets/word/arxio-apothikeusi-os.svg",
+      question: "Θέλεις να αποθηκεύσεις το έγγραφο ως PDF. Ποιο πεδίο πρέπει να αλλάξεις;",
+      options: ["Το όνομα αρχείου", "Τον τύπο αρχείου", "Τις κουκκίδες", "Τη στοίχιση παραγράφου"],
+      answer: 1,
+      explanation: "Για αποθήκευση ως PDF αλλάζουμε τον τύπο αρχείου από το αντίστοιχο πεδίο της Αποθήκευσης ως."
+    },
+    {
       id: "word-choice-save-as",
       type: "choice",
       title: "Αποθήκευση ως",
       category: "Αποθήκευση",
-      image: "assets/word/save-as.svg",
+      image: "assets/word/arxio-apothikeusi-os.svg",
       question: "Πότε χρησιμοποιούμε την εντολή Αποθήκευση ως;",
       options: [
         "Όταν θέλουμε να αλλάξουμε μόνο τη στοίχιση.",

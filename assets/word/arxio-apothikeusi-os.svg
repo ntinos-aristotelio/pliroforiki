@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1297 835" role="img" aria-label="Αποθήκευση ως στο Microsoft Word">
+  <rect width="1297" height="835" fill="#f3f3f3"/>
+  <rect x="0" y="0" width="1297" height="48" fill="#f7f7f7"/>
+  <text x="47" y="30" font-family="Arial, sans-serif" font-size="16" fill="#b8b8b8">Έγγραφο1 - Word</text>
+  <circle cx="25" cy="69" r="10" fill="none" stroke="#222" stroke-width="1.5"/>
+  <path d="M29 69 L21 69 M24 65 L21 69 L24 73" fill="none" stroke="#222" stroke-width="1.5" stroke-linecap="round"/>
+
+  <rect x="0" y="48" width="160" height="787" fill="#eeeeee"/>
+  <g font-family="Arial, sans-serif" font-size="14" fill="#222">
+    <text x="42" y="117">Αρχική</text>
+    <text x="42" y="157">Νέο</text>
+    <text x="42" y="197">Άνοιγμα</text>
+    <text x="42" y="238">Κοινή χρήση</text>
+    <text x="42" y="293">Πληροφορίες</text>
+    <text x="42" y="334">Αποθήκευση</text>
+  </g>
+  <rect x="0" y="349" width="160" height="39" fill="#f5f5f5"/>
+  <rect x="0" y="349" width="4" height="39" fill="#0b63ce"/>
+  <g font-family="Arial, sans-serif" font-size="14" fill="#0b63ce" font-weight="700">
+    <text x="42" y="374">Αποθήκευση ως</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="14" fill="#222">
+    <text x="42" y="413">Εκτύπωση</text>
+    <text x="42" y="454">Εξαγωγή</text>
+    <text x="42" y="493">Κλείσιμο</text>
+  </g>
+  <line x1="16" y1="262" x2="140" y2="262" stroke="#d5d5d5"/>
+  <line x1="16" y1="814" x2="140" y2="814" stroke="#d5d5d5"/>
+
+  <g fill="none" stroke="#222" stroke-width="1.4" stroke-linejoin="round">
+    <path d="M20 106 h12 v12 h-12 z"/><path d="M18 118 h16"/>
+    <path d="M22 146 h10 v13 h-10 z"/><path d="M22 146 l5 -5 l5 5"/>
+    <path d="M18 188 h14 l5 5 v6 h-19 z"/>
+    <path d="M18 228 h16 v16 h-16 z"/><path d="M24 224 l-6 4"/>
+    <circle cx="25" cy="288" r="8"/><path d="M25 284 v9 M25 280 v1"/>
+    <path d="M18 321 h16 v15 h-16 z"/><path d="M22 321 v15"/>
+    <path d="M18 360 h16 v16 h-16 z" stroke="#0b63ce"/><path d="M21 369 l4 4 l9 -11" stroke="#0b63ce"/>
+    <path d="M18 401 h16 v16 h-16 z"/><path d="M20 409 h12"/>
+    <path d="M18 440 h16 v16 h-16 z"/><path d="M28 445 l6 4 l-6 4"/>
+    <path d="M18 482 h18 v13 h-18 z"/>
+  </g>
+
+  <g>
+    <text x="200" y="86" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#333">Αποθήκευση ως</text>
+
+    <g font-family="Arial, sans-serif">
+      <circle cx="223" cy="132" r="14" fill="none" stroke="#333" stroke-width="1.4"/>
+      <path d="M223 123 v10 h8" stroke="#333" stroke-width="1.4" fill="none"/>
+      <text x="253" y="138" font-size="16" fill="#444">Πρόσφατα</text>
+
+      <rect x="201" y="164" width="278" height="60" fill="#eeeeee" stroke="#666"/>
+      <path d="M212 194 C220 178 239 178 247 194 C258 192 264 202 258 211 H214 C202 210 203 197 212 194" fill="#0078d4"/>
+      <text x="253" y="191" font-size="16" fill="#333">OneDrive - ΑΡΙΣΤΟΤΕΛΕΙ...</text>
+      <rect x="253" y="198" width="150" height="16" fill="#d7d7d7"/>
+
+      <text x="205" y="248" font-size="16" font-weight="700" fill="#555">Γρήγορη πρόσβαση</text>
+      <rect x="245" y="267" width="186" height="45" fill="#d6d6d6"/>
+      <rect x="245" y="327" width="188" height="49" fill="#d6d6d6"/>
+      <rect x="245" y="390" width="184" height="51" fill="#d6d6d6"/>
+      <rect x="245" y="456" width="185" height="41" fill="#d6d6d6"/>
+      <text x="254" y="502" font-size="16" fill="#555">Εμφάνιση περισσότερων...</text>
+
+      <text x="205" y="546" font-size="16" font-weight="700" fill="#555">Επιλογές κοινής χρήσης</text>
+      <text x="254" y="584" font-size="16" fill="#333">Κοινή χρήση</text>
+      <text x="254" y="631" font-size="16" fill="#aaa">Αντιγραφή σύνδεσης</text>
+      <text x="254" y="681" font-size="16" fill="#333">Αυτός ο υπολογιστής</text>
+      <text x="254" y="731" font-size="16" fill="#333">Προσθήκη θέσης</text>
+      <text x="254" y="778" font-size="16" fill="#333">Αναζήτηση</text>
+    </g>
+
+    <line x1="480" y1="111" x2="480" y2="835" stroke="#d0d0d0"/>
+    <path d="M527 118 l-7 7 l-7 -7 M520 125 v-16" fill="none" stroke="#777" stroke-width="1.3"/>
+    <path d="M557 119 h15 l4 4 h18 v13 h-37 z" fill="none" stroke="#555" stroke-width="1.3"/>
+    <text x="578" y="130" font-family="Arial, sans-serif" font-size="16" fill="#333">OneDrive -</text>
+    <rect x="653" y="105" width="278" height="29" fill="#d0d0d0"/>
+
+    <rect x="516" y="141" width="651" height="25" fill="#fff" stroke="#777"/>
+    <text x="522" y="158" font-family="Arial, sans-serif" font-size="13" fill="#777">Πληκτρολογήστε το όνομα του αρχείου εδώ</text>
+    <rect x="516" y="169" width="651" height="25" fill="#fff" stroke="#777"/>
+    <text x="522" y="186" font-family="Arial, sans-serif" font-size="13" fill="#333">Έγγραφο του Word (*.docx)</text>
+    <path d="M1155 179 l5 5 l5 -5" fill="none" stroke="#555"/>
+    <rect x="516" y="197" width="651" height="25" fill="#f3f3f3" stroke="#ddd"/>
+    <text x="545" y="214" font-family="Arial, sans-serif" font-size="13" fill="#999">Δεν υποστηρίζεται</text>
+    <rect x="1186" y="192" width="100" height="31" rx="3" fill="#eeeeee" stroke="#dddddd"/>
+    <text x="1210" y="212" font-family="Arial, sans-serif" font-size="13" fill="#999">Αποθήκευση</text>
+    <rect x="516" y="223" width="769" height="47" fill="#eeeeee" stroke="#aaa"/>
+    <text x="520" y="242" font-family="Arial, sans-serif" font-size="13" fill="#333">Οι ετικέτες ευαισθησίας δεν υποστηρίζονται.</text>
+    <text x="520" y="263" font-family="Arial, sans-serif" font-size="13" fill="#005a9e" text-decoration="underline">Learn More</text>
+    <text x="520" y="285" font-family="Arial, sans-serif" font-size="13" fill="#005a9e" text-decoration="underline">Περισσότερες επιλογές...</text>
+    <line x1="516" y1="296" x2="1285" y2="296" stroke="#cfcfcf"/>
+
+    <rect x="516" y="303" width="114" height="29" rx="3" fill="#fff" stroke="#999"/>
+    <path d="M524 312 h16 l4 4 h10 v11 h-30 z" fill="none" stroke="#333" stroke-width="1.2"/>
+    <text x="558" y="322" font-family="Arial, sans-serif" font-size="14" fill="#333">Νέος φάκελος</text>
+
+    <line x1="516" y1="403" x2="1269" y2="403" stroke="#d0d0d0"/>
+    <text x="518" y="387" font-family="Arial, sans-serif" font-size="14" fill="#333">Όνομα ↑</text>
+    <text x="1040" y="387" font-family="Arial, sans-serif" font-size="14" fill="#333">Ημερομηνία τροποποίησης</text>
+
+    <g font-family="Arial, sans-serif" font-size="13" fill="#333">
+      <g stroke="#333" fill="none"><path d="M527 445 h25 v19 h-25 z"/><path d="M527 445 l5 -7 h17 l3 7"/></g><rect x="559" y="426" width="127" height="49" fill="#d4d4d4"/>
+      <text x="1042" y="458">15/6/2024 4:44 μμ</text>
+      <line x1="516" y1="482" x2="1269" y2="482" stroke="#d0d0d0"/>
+      <g stroke="#333" fill="none"><path d="M527 503 h25 v18 h-25 z"/><path d="M527 503 l5 -6 h17 l3 6"/></g><rect x="564" y="490" width="58" height="35" fill="#d4d4d4"/>
+      <text x="1042" y="514">1/4/2026 9:40 μμ</text>
+      <line x1="516" y1="537" x2="1269" y2="537" stroke="#d0d0d0"/>
+      <g stroke="#333" fill="none"><path d="M527 558 h25 v18 h-25 z"/><path d="M527 558 l5 -6 h17 l3 6"/></g><rect x="564" y="550" width="73" height="34" fill="#d4d4d4"/>
+      <text x="1042" y="570">15/6/2024 4:44 μμ</text>
+      <line x1="516" y1="594" x2="1269" y2="594" stroke="#d0d0d0"/>
+      <g stroke="#333" fill="none"><path d="M527 615 h25 v18 h-25 z"/><path d="M527 615 l5 -6 h17 l3 6"/></g><rect x="565" y="612" width="155" height="34" fill="#d4d4d4"/>
+      <text x="1042" y="628">29/5/2026 8:34 πμ</text>
+      <line x1="516" y1="650" x2="1269" y2="650" stroke="#d0d0d0"/>
+      <g stroke="#333" fill="none"><path d="M527 669 h25 v18 h-25 z"/><path d="M527 669 l5 -6 h17 l3 6"/></g><rect x="565" y="664" width="75" height="34" fill="#d4d4d4"/>
+      <text x="1042" y="685">15/6/2024 4:44 μμ</text>
+      <line x1="516" y1="706" x2="1269" y2="706" stroke="#d0d0d0"/>
+    </g>
+    <rect x="1270" y="357" width="12" height="60" rx="6" fill="#7b7b7b"/>
+  </g>
+</svg>
